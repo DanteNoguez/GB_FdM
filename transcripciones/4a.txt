@@ -1,0 +1,477 @@
+Muy bien, buenos días.
+Vamos hoy a hacer la sesión, según he hablado con algunos de los organizadores, en dos sesiones.
+Vamos a partirla para evitar sesiones tan largas que al parecer no son convenientes.
+De manera que después de una hora hacemos una pausa, una hora aproximadamente, depende de la materia, ¿no?
+Y luego continuamos.
+Y al final también vamos a hacer un coloquio, porque parece ser que conviene,
+que algunas cuestiones se precisen, por ejemplo el otro día me acaban de decir,
+yo hice una clasificación en tres partes y me olvidé de la tercera, por razones,
+y entonces claro, pues queda la cosa muy ambigua, y es que esto es un coloquio que lo resuelve enseguida, ¿no?
+Bien, pues vamos a empezar hoy la segunda parte de este, la segunda sección de esta parte general,
+que es la central, vamos a la central, que es la ontología de la música, ontología de la música.
+La cuestión es dificilísima, vamos, se lo anuncio a ustedes, y árida, a más no poder, pero qué culpa tengo yo, ¿verdad?
+Así es la cosa.
+Y voy a hacer lo más posible para que pierda toda la alidez imaginable.
+Otra cosa también, para que se den cuenta de las condiciones en que muevo.
+Esto de hoy necesitaría cinco o seis horas, así voy a volver,
+entonces como hay que comprimirlo, esto es a costa de que quedan las cosas muy esbozadas,
+es decir, que no es autónomo, lo que yo voy a decir no es autosuficiente,
+pero yo creo que es mejor esto que nada, ¿verdad?, esa es la cuestión.
+Es decir, que no es autosuficiente, no queda nada aclarado, ni en absoluto queda todo aludido,
+pero que se va a hacer, es decir, que si no, no podría ser de otra manera.
+Y luego tiene otra ventaja también, que es lo que ocurre cuando alguien tiene que encontrar
+un espacio corto para exponer algo, y es que la escala que tomas es rícita,
+y a veces es ventajosa, a veces dices cosas que a escala más detallas no se dicen.
+Ayer por ejemplo, aunque si me ocurre no decirlo,
+ayer hubo una sesión donde Javier Nayda que está aquí presente,
+tuvo que hacer un resumen en diez minutos del materialismo filosófico,
+y demostró realmente esto, cómo en diez minutos se pueden decir buenas cosas que no se dicen en tres horas,
+no se pueden decir, es decir, que tampoco es que haya que decir qué pena, no es que sea así,
+entonces es una escala distinta sencillamente, pero que no es autosuficiente.
+Como por otra parte, estas cuestiones son de máxima actualidad y son utilizadas por todo el mundo,
+constantemente se habla de ontología y de cosas de ese tipo, constantemente,
+pues como realmente muchas veces como veremos de formal, de material, todas esas cosas se hablan constantemente,
+como están utilizadas de un modo asistemático y de un modo totalmente impreciso,
+entonces la gente cree que dice algo y no dice nada, es la cuestión, o por lo menos no sabemos lo que dice,
+y el objetivo mío es tratar de perfilar, de delimitar en lo posible lo que decimos desde un sistema determinado,
+claro, porque si no es imposible determinar nada, es imposible, es decir, si partimos de premisas cero no hay nada que decir,
+absolutamente nada, en ningún lado, en ningún lado, entonces hay que suponer un conjunto de premisas
+y solamente desde entonces se puede decir algo con cierta claridad, lo cual no quiere decir que lo que digamos sea artículo de C,
+quiere decirse que se trata de obtener alguna claridad de concepto, sencillamente, ¿verdad?
+Y por eso intentamos redefinir desde estos conceptos los conceptos habitualmente utilizados de forma, materia, de ontología y cosas de metafísica,
+y no es que sea una cuestión de otras cuestiones, ¿verdad?, entonces, en esta sección, los dos artículos que vamos a hablar hoy,
+el artículo primero, segundo del programa que se les repartió el primer día, primero que entendemos por ontología de la música,
+ya repito, ontología de la música, muchos hablan de esto, pero no saben de qué quieren hablar,
+entonces se trata de dar una definición lo más precisa posible desde nuestras coordenadas de qué entendemos por ontología de la música,
+para mostrar que se trata de cuestiones muy precisas, que no son vagas, que son cuestiones muy precisas, muy difíciles también.
+Y el artículo segundo, que es la cuestión central de todo el curso, vamos yo por mi parte lo que tengo que decir es la cuestión central,
+es la idea de categoría, la idea de categoría aplicada a la música, esto es el centro de la ontología de la música tal como la entendemos,
+la idea de categoría, esto es el centro completamente, entonces, claro, la idea de categoría es tan importante que, a mi juicio,
+en una materia como esta, tampoco se puede dar por supuesta, hay que comprometerse, decir bueno, ¿qué entendemos por categoría?, ¿verdad?,
+¿y contra qué nos oponemos?, ¿y de qué estamos hablando?, porque solamente entonces tiene sentido los problemas que vamos a plantear en función de este concepto,
+que no son nuevos a esta cuestión, que no son inauditos, son conceptos tradicionales, por eso me he preocupado por aquí de poner cuestiones de ontología
+planteadas tradicionalmente para que se vea que no estamos aquí inventando nada, estamos simplemente redefiniendo, y lo mismo pasa con esto, las cuestiones sobre la categoría de la música son cuestiones tradicionales,
+pero planteadas de un modo tan vago, por ejemplo, cuando se dice la música es autónoma, eso es una frase que se le dice, tiene autonomía, pero autonomía es un concepto político,
+o jurídico, o moral, que no expresa lo que se quiere decir, que es inconsciente, seriamente, lo que dice, y que tiene un sentido gremial además, autonomía, es decir, el músico es autónomo,
+no tiene que recibir órdenes ni instrucciones de nadie, en el fondo es una cosa gremial lo que se está haciendo ahí, pero bajo esa idea de autonomía de la música,
+no dependemos de ninguna otra facultad, ni de ninguna otra institución, ni de ninguna filosofía, la música es autónoma, ese es un concepto que se ve su referencia,
+cuál es, por supuesto, pero es tan endeble de punto de vista filosófico que necesita ser redefinida, y por eso utilizamos la palabra, el concepto, la idea de categoría,
+y entonces hay que dar una visión, por rápida que sea, general de lo que es la categoría, porque la categoría de la música cambia completamente de sentido,
+según el alcance de las categorías que demos a otras artes, o a otras realidades que no son artísticas, o estéticas, o bellas artes, o técnicas, o lo que fuera,
+es decir, cambia completamente la situación. Bien, vamos a empezar, ¿qué entendemos por ontología de la música? Vamos a ver,
+dos palabras así generales de información, pero ya dio totalmente, no es suficiente, porque es simplemente para sugerir cuestiones, ¿no?
+Ontología, lo que llamamos ontología hoy es un término reciente, bueno, relativamente reciente, del siglo XVII,
+se atribuye a Hago Clenius, un famoso autor de lecciones y tal, que inventó la palabra ontología, y después fue utilizada por Leclerc,
+Cléricus, y luego consagrada sobre todo por Wolf, por Christian Wolf, del cual fue discípulo vanguarden, precisamente,
+hablábamos en días anteriores, vanguarden, el creador de la estética, precisamente, llamada noceología, noceología inferior, como lo recuerdan,
+noceología inferior y la noceología superior, y entonces la definción esta recuerdo que fue la base de la crítica a razón pura de Canada,
+nada menos, es decir, con todo su galismo, es decir, que en el fondo vanguarden tiene una importancia muy superior a la que
+a la que uno pueda pensar, como se suele ocurrir en la historia de filosofía, la importancia de vanguarden en toda la estética musical
+y la teoría de la música en general es, yo creo, que central completamente. Entonces, la idea de Wolf,
+Wolf es el que consaga, el que sistematiza la idea de ontología, pues distinguiendo la famosa ontología general, bueno, le llamo metafísica general,
+y luego la metafísica especial, que él la subidió en tres grandes disciplinas, subididas en dos a su vez,
+la teología natural, la cosmología y la psicología racional. Esto ya es muy conocido y sobre estas tres ideas
+son las que fundó Canla, la crítica a razón pura, etc. Ahora, todo esto son indicaciones sobre el nombre de la palabra ontología
+y el sistema al que se refiere. ¿Y por qué aparece la palabra ontología? Es decir, ¿por qué es una palabra tan nueva?
+Es decir, ¿es que designaba cosas nuevas? Es decir, terrenos incógnitos, inauditos, ¿verdad?
+O bien era un nombre nuevo para designar materias o tratados que ya venían teniendo lugar desde la antigüedad, concretamente desde Aristóteles.
+Porque la ontología, por la etimología la palabra es tratado del ser, ¿verdad? El tratado del ser, ontos, el tratado del ser.
+El ser había sido tratado por Platón y por Aristóteles, sobre todo Metafísica. Y además la Metafísica de Aristóteles,
+pues como sabrán casi todos, bueno, y también todo esto es discutible, el consenso convencional, aunque hay muchas objeciones al asunto
+por parte de historiadores, parece ser que Metafísica fue una denominación editorial, digamos, de Andrónico de Rodas,
+un bibliotecario de los años 70 a.C., relacionado con Cicerón, que coleccionó las obras de Aristóteles,
+coleccionó los ocho libros de la física y luego encontró un montón de tratados, de trataditos de libros,
+que no sabía dónde ponerlos y se llamó los que vienen después de la física, Metafísica, los que vienen después de la física.
+Es decir, que entonces, según esto, la denominación sería puramente clasificatoria, ¿verdad? La palabra no tendría más trascendencia.
+Se plantean aquí, bueno, ¿y por qué los agrupó a todos ellos? ¿Por qué agrupó a todos ellos en un bloque después de la física?
+Porque resulta que estos tratados de Aristóteles pues sí tratan de ideas tales como el ser, por supuesto, el ser,
+el ser, las causas, el todo, cosas de este tipo. Son trataditos sobre ideas diferentes, todos agrupados en nombre de Metafísica.
+Aproximadamente todos estos tratados que se contienen en los doce libros de la Metafísica de Aristóteles,
+pues son aquellos sobre los que se trata la ontología. Es decir, el tratado de la ontología de Wolf, pues prácticamente lo vivo,
+es un conjunto de tratados sobre este tipo, ¿verdad? Es escrito todavía en latín por parte de Wolf.
+Y entonces la idea de la ontología, pues, que es un hombre nuevo, es decir, ¿por qué ese nombre? Esa es la madre del cordero, esa es la cuestión, ¿por qué ese nombre?
+Bueno, yo no puedo ni sufrir este asunto porque es curso decir dos palabras completamente dichas ahí, cruzando, de un modo salvaje,
+para que se vea la problemática que hay, porque ya que no es cuestión de nombres.
+En general, cuando una palabra nueva, denominación de una disciplina, aparece y sobre todo prospera o se consolida, es por algo.
+No es por razones puramente económicas o estéticas, es por algo, ¿no?
+Porque, y generalmente las palabras nuevas no designan territorios sinauditos, como pasa algunas veces, pues qué se yo, con la palabra microbiología, claro,
+antes del microscopio no había microbiología, de ninguna manera.
+La rengenología, los rayos X, pues antes de rengen no había rayos X, es decir, que ahí son disciplinas para designar cosas nuevas realmente, ¿no?
+cosas nuevas. Pero no ocurre así con otras palabras como sociología, sociología, una palabra que inventa Augusto Conte, como saben,
+y siempre se plantea, bueno, ¿y por qué razón llamar sociología a una disciplina que es tan antigua, pues qué se yo, que desde,
+pues no sé, desde Heroto, desde Platón, Aristóteles, Genófanes, etcétera, Genofonte, se ha hablado de temas sociológicos,
+es decir, los temas sobre la familia, sobre el estado, han sido tan tradicionales en toda la tradición filosófica y antropológica,
+entonces, ¿por qué poner un nuevo nombre? ¿A qué se le viste un nuevo nombre? ¿A una simplificación?
+Pues no, en el caso de la sociología yo creo que la cosa está bastante clara.
+El nuevo nombre que Conte introduce, con el positivismo precisamente, sociología,
+pues supone una reorganización total del sistema de las ciencias, una pretensión de reorganización, bueno, pretensión que además se cumplió.
+¿En qué consistía? Pues principalmente que al introducir sociología, lo que hace Conte es eliminar dos disciplinas clásicas anteriores,
+bueno, totalmente clásicas, primero eliminar la teología, la teología no es una ciencia, ni figura en el conjunto de las ciencias,
+la teología se convierte en sociología, Dios no es una materia susceptible de ser tratado científicamente,
+sino simplemente se pueden tratar las creencias de las gentes en Dios, por tanto es sociología.
+Eliminar la teología y luego eliminar la psicología, la psicología tampoco es una materia científica,
+y entonces lo que se llama psicología pues ha de ser reducida a sociología o a fisiología,
+por tanto se elimina todo esto porque el nombre de sociología de Conte es física social, física social a sociología.
+Entonces, claro, cuando estamos viendo que Conte inventa la palabra sociología, inventa mucho más que una palabra,
+inventa todo un sistema de una reanudación de la ciencia que es el positivismo, lo que se llama el positivismo,
+cuya influencia llega hasta nosotros como natural, bueno, totalmente, estamos todavía en esa onda por así decir.
+Entonces la idea de ontología pasa lo mismo, no es una denominación de materias inauditas en absoluto,
+es una denominación de materias tradicionalmente trabajadas pero constantemente,
+es como decir, toda la tradición escolástica, la cantidad de miles de folios y de tomos, de tomazos tremendos,
+de pergaminos, de cuestiones metafísicas, los compultenses, los colimbricenses, yo qué sé.
+Todavía recuerdo yo la impresión que me hizo la biblioteca de Sadamanca años 50, cuando empecé a verla
+y ver la impresión que producía entonces, a mí la que me produjo, ver aquellas hileras impresionantes
+de colimbricenses y compultenses, ¿verdad? Y claro, ¿de qué tratan estos señores?
+Yo entonces tenía una formación positivista, del neopositivo de Viena, entonces ¿de qué tratan estos señores?
+Era una sorpresa, algo tienen que tratar, y tanto es así que me aficioné a ver de qué trataba aquello,
+un poco como cuando se toca un armón y una vez como suena, entonces te empiezas a ver aquello
+y te das cuenta que es un mundo completo, entonces me pasé 11 años estudiando escolástica pero con papel y lápiz.
+Y entonces, claro, y ahí había muchísimas cosas, que solamente por ignorancia decían cosas de frailes,
+bueno, y le parecía a usted poco, cosas de frailes, ¿verdad? Entonces estaba Santo Tomás o Suárez, nada menos.
+Pues entonces, ¿de qué trata la ontología y la metafísica y por qué? Bueno, en dos palabras,
+en dos palabras la cuestión es la siguiente, que se dice ontología por denominación,
+por etimología de la palabra es, tratado del ser, explicado el ser, ya dijo Aristóteles,
+precisamente en la metafísica, en el libro VI, el ser se dice de muchas maneras, es decir, el ser tiene muchos sentidos distintos.
+¿Y cuáles son las principales? Y Aristóteles dijo, digo abreviendo, las acepciones principales del ser,
+la palabra ser, la idea de ser, son la sustancia y Dios, según esto la metafísica sería la ciencia de la sustancia,
+la sabiduría o la ciencia de Dios, la teología. En el fondo la metafísica era esto y así se interpretó constantemente,
+pero de ahí la ambigüedad desde el principio, ya desde el principio. Entonces, ¿qué pasa?
+Que la metafísica trata de Dios y de la sustancia, pero claro, ¿la sustancia qué es? Dios es sustancia,
+las sustancias en Aristóteles son realidades individuales que están fuera de la tierra,
+por supuesto los astros son sustancias individuales, pero también son sustancias bucefa o alejándolo,
+es decir, cosas que están en el mundo sublunal. Entonces, el tratado de la sustancia de la metafísica
+se refiere a algo que está más allá de la física, es decir, el mundo celeste o uránico o divino o sideral,
+o como se quiera llamar, o bien son cosas del mundo terrestre o del mundo telúrico, de las líneas positivas, del mundo del positivismo.
+Recordamos que Conte incluso llegó a negar que la química fuera ciencia en su tiempo,
+y claro que todavía en su tiempo no estaba Mendel Leier, de manera que en cierto modo tenía razón,
+pero la razón que daba Conte para decir que la química era una ciencia es que no podía de ninguna manera
+establecerse la composición química de los astros y demás porque no podíamos experimentar con ellos,
+y el positivismo requería ese contacto directo con la experiencia.
+Entonces, la idea de la metafísica siempre estuvo oscilando entre una consideración de realidades que están fuera de nuestro horizonte ordinario,
+de nuestro horizonte doméstico, vamos a decirlo así, experimental, o algo que también se refiere a lo que está dentro,
+de también las cosas que están dentro de nuestro horizonte, pues también son y existen.
+¿De qué trata la ontología entonces, o la metafísica?
+Bueno, esta discusión fue constantemente arrastrándose durante los siglos.
+Un episodio importantísimo es el de Domingo Gundisalvo, un tratadista español que vivió en España,
+escribió en romance como natural, muy influido por los griegos y a través de Avicenna, etc.
+Y es que Gundisalvo es seguramente el primero que sugiere la necesidad de que cuando se habla de la metafísica general,
+del ser, no se puede hablar propiamente de Dios, porque entonces si se hablase de Dios todo se subordinaría a la teología.
+Entonces, se puede hablar del ser en general todavía sin mencionar a Dios, ¿verdad?, sino del ser en general.
+El problema es cómo se puede hablar del ser en general prescindiendo de las sustancias materiales.
+Aristóteles ya lo había dicho en la física, si solamente existía la sustancia material, la física sería la metafísica, sería la teología,
+dice Aristóteles. Entonces, ¿cómo se puede hablar del ser en general sin hablar de las sustancias materiales que son las que vemos,
+las que tenemos experiencia de ellas?
+Este problema, que ya digo está presente totalmente en Gundisalvo, que se replantea de nuevo en toda la escolástica española,
+sobre todo Suárez, que es el primero que escribe Francisco Suárez, el primero que escribe un tratado de metafísica,
+en principio sin teología, las disputaciones metafísicas se llaman, es el primero, ¿eh?
+porque, o sea, en tomar la suma teológica, la suma teológica pues es suma teológica, claro,
+y las cuestiones filosóficas, estrictamente metafísicas, son de ser comentarios a otro, no tratados propiamente,
+son comentarios Aristóteles o lo que fuera, no me voy a pasar con aberrador, son comentarios,
+pero un tratado de metafísica, exclusivamente metafísica, prescindiendo de la teología dogmática, aunque haya alusiones a ella, por supuesto,
+el primero es las disputaciones metafísicas de Suárez, y entonces, y luego Hurtado de Mendoza, otro jesuita,
+pues también contemporáneo de Suárez, también muy importante en este asunto, donde también estuvieron insistiendo
+en la idea de un tratado del ser en general, del ser en general, que de algún modo era previo a Dios,
+aunque el problema es tremendo, bueno, aquí no podemos entrar, la cuestión estaba relacionada sobre
+si el ser era unívoco, análogo o equivoco, es la cuestión, si la idea del ser es unívoco,
+entonces, que es lo que Aristóteles se dirige contra Genófanes, cuando dice que el ser es unívoco y por tanto que el ser es uno,
+que no hay más que un solo ser, la escuela de la ética, por tanto, que todas las cosas son Dios en el fondo,
+es un modo abstracto de designar el pantheísmo, frente a esta idea unívoco del ser, Aristóteles introduce la analogía del ser,
+el ser se dice de muchas maneras distintas, pero entonces, esta analogía del ser, que es de atribución o de proporción compuesta,
+en fin, las discusiones son tremendas, ¿verdad?, santo Tomás mantiene la tesis de la proporcionalidad, la analogía,
+Suárez introduce la tesis de la atribución, porque a fin de cuentas Dios es la causa del ser y el ser primero analogado,
+aquí está otra vez la cuestión esta, bien, la situación se empieza a decantar, no a decantarse doctrinalmente,
+sino diríamos institucionalmente, con la famosa obra del canciller Bacon, cuando divide la filosofía en general,
+la divide en las dos grandes partes, una filosofía general, que trata de las cuestiones de la metafísica en general,
+que se llama filosofía general, y después una filosofía especial dividida en tres partes, que él llama de númine, de ómine y de mundo,
+sobre el númen, sobre el mundo y sobre el hombre, las tres grandes cuestiones o partes de la filosofía moderna, diríamos,
+y sobre esta clasificación del canciller Bacon es sobre la que establece después Wolf la famosa clasificación,
+y entonces aparece ya la ontología, aquella filosofía general o metafísica general de Gundisalvo, etc., se llama ya ontología,
+ontología general, le llamamos nosotros, o metafísica general, y luego habría una ontología especial o metafísica especial,
+que tendría tres ramas, una la teología, llamada de númine, del númen, de los cancillers Bacon, y esto habría mucho que hablar,
+pero en fin, omitimos el asunto, de ómine, el tratado de hombre, que aparece por primera vez, un tratado sobre el hombre,
+y después, pues, sobre el mundo, y sobre estas tres famosas ideas, como decimos, Dios, el mundo, cambiado hombre por alma,
+el alma, Wolf es el alma, no el hombre, el alma, o el espíritu, sobre estas tres ideas famosas son las que se monta la criticación pura, como decimos,
+y después, entonces quedan una metafísica especial en tres divisiones, y luego una metafísica general que las envuelve a todas,
+para terminar este memorándum histórico. Hegel, vamos, también un corte en la historia, Hegel, qué posición ocupa Hegel,
+qué tanta importancia va a tener en la estética, como vamos a ver, pues que Hegel, yo creo que se podría resumir de este modo la situación,
+que las tres partes de la antología especial las reduce a dos, y aquí no hay más que dos partes, que son la naturaleza,
+que viene a ser el antiguo de mundo, y el espíritu, que viene a ser el hombre, no es el hombre de la mente, porque el hombre también es antropología,
+pero viene a ser el hombre, el alma, el espíritu subjetivo, el espíritu subjetivo, el espíritu absoluto, etc.
+Allí está la música, allí está el arte, la pintura, etc. Entonces la idea de la sistematición de Hegel es esta, son dos partes nada más,
+naturaleza y espíritu, envueltas por una parte que las comprende a las dos, que es la parte previa o común,
+que se llama lógica, que ya no se llama ontología, se llama lógica precisamente, la lógica como tratado del ser, precisamente de la realidad,
+y entonces la lógica de Hegel es precisamente la antología, la antología de Hegel, es justo decir el giro que ha significado aquí, la posición de Hegel,
+pero cómo sin embargo se mantiene una correspondencia muy puntual, casi como la evolución, ¿verdad?,
+cuando hay una transformación de los peces en los anfibios, ¿verdad?, están viendo todos sus miembros que se han transformado,
+pero la transformación no es gratuita, se ve morfológicamente cómo unos salen de otros, ¿verdad?
+Y entonces la ontología, la ontología pues realmente no sabemos lo que es, porque la cuestión sigue siendo esta,
+entonces la ontología en general, que es una parte previa, una parte previa, se puede tratar del ser o de la realidad, al margen de las otras realidades,
+y además es otra realidad, pero Dios, en las fechas actuales, cómo se puede hablar de Dios como si fuera una realidad más, de ontología especial además,
+claro porque ese Dios que pertene a la ontología general, que ya no es ontología general, que ya no es el primer alogado, ese Dios puede ser,
+los astros aristotélicos que eran divinos, ¿verdad?, que son los que producen los sonidos de Pitágoras, la Euridmia, ¿verdad?,
+que Aristóteles niega, como ya dijimos, que ese Dios no se puede tratar así como si fuera un astro más, eso es evidente,
+entre otras cosas porque una de las características de la teología, reconocida por toda la escolástica,
+es que la teología es la única disciplina que tiene que demostrar su propio objeto,
+tiene que empezar por demostrar la cuestión de ansi Deus, Dios existe, la primera cuestión de la teología,
+si Dios no está ahí dado, tiene que ser demostrado por la propia teología, eso es una anomalía tan notable que impide tratar las cuestiones a pie de igualdad,
+entonces es pura ignorancia, sencillamente, del desarrollo histórico de la cuestión, el plantear las cuestiones olvidando estas coordenadas,
+porque no se sabe por donde vamos, es imposible, porque la única forma, yo creo, la única forma de orientarnos es ver la evolución de estas ideas,
+cómo han ido evolucionando, tenemos una forma de orientarnos por lo menos relativa.
+Entonces para terminar, ¿cuál es la posición que desde el punto de vista del materialismo filosófico podemos dar a la cuestión de la ontología?
+Y aquí llegamos a las coordenadas que lo utilizamos aquí, pues primero negando totalmente, por supuesto, negando totalmente que la ontología general sea una disciplina previa,
+que se pueda establecer previamente a las ontologías especiales, lo cual no quiere decir que las ontologías especiales puedan también establecerse al margen de la otra,
+la situación es diferente, si por ejemplo en lugar de ser hablamos de materia, de materia ontológicamente general, como decimos,
+pues de la materia ontológica general no podemos decir nada, yo por lo menos no puedo decir absolutamente nada, igual que tampoco se puede decir nada del ser,
+es decir, tampoco es una novedad, es imposible, quiere decir que este problema que se plantea en el materialismo filosófico es el problema tradicional de la metafísica,
+no se puede decir nada, y luego la metafísica especial, pues tampoco se puede dividir hoy por hoy en esas tres partes, de Wolf, etc.
+o de Hegel, naturaleza y espíritu, o después naturaleza y cultura, eso es el mito de la cultura, naturaleza y cultura, pero ¿eso qué es?
+sobre todo hoy sabemos que los animales tienen cultura, uno de los problemas que tenemos que tratar es la música en los animales, un capítulo esencial de la filosofía de la música,
+es decir, la contraposición de naturaleza y cultura es una contraposición dualista hegeliana típica, de algún modo ficiana, etc.
+entonces no podemos reconocer, empezar como hechos dados a Dios, al alma y al mundo, es justo decir el alma, ¿verdad? ¿quién es esa señora, verdad? el alma, ¿eso qué es?
+es imposible tal como está hoy día el estado de las ciencias, es imposible hablar de así, entonces aquí vienen dos perspectivas, dos perspectivas,
+vamos también a decir de paso esta tecnología que utilizamos hace unos años, pero en fin vamos a decirla de paso, es la perspectiva que llamamos liso lógica,
+liso lógica, de lisos igual, uniforme, como en español, y la perspectiva morfológica, es una distinción que se aplica a muchas cosas, que es puramente relativa, dos ejemplos rápidos,
+nada, nada es imposible, es que estoy en los umbrales, umbrales y ha pasado casi una hora, vamos a ver,
+claro, podría omitir esto, podría omitir esto, pero si lo omito se rompe el hilo, vamos a ver, dos ejemplos,
+si yo hablo de termodinámica en general, y digo que el sistema termodinámico está constituido por tres variables, volumen, presión y temperatura,
+entonces estoy empleando una perspectiva liso lógica para hablar de termodinámica, pero si yo hablo de máquina de vapor, de neveras, de termostatos,
+estoy haciendo morfología de la termodinámica, un ejemplo musical, bueno, improvisado, vamos a ver, si yo hablo de ondas sinusoidales,
+es decir, los lásers del sonido, donde no hay más que una ondulación sinusoidal pura y además para más hinri que sea todo al mismo tono,
+entonces es liso lógico, allí no hay morfología ninguna, no hay nada que hacer, pero si empiezo a hablar de timbres,
+de paquetes de ondas sinusoidales que forman armónicos, que forman timbres, estoy hablando yo, este va de morfología, otro ejemplo, otro ejemplo musical,
+este quizás sea más directo, recordando a Szenakis y a la música estocástica, si yo hablo de música estocástica,
+en el sentido de que en un sintetizador o una máquina eléctrica de generador de sonidos empiezo a producir sonidos al azar, pues esto es liso lógico,
+porque en principio por definición no hay ninguna morfología, sin embargo son sonidos que están ya a una cierta escala,
+reconocibles como tales, que son parteformados como lo diremos, pero no tienen morfología ninguna, es decir que no son ruidos,
+ni son infrasonidos, ni son ultrasonidos, es decir que ya tienen morfología de sonidos, pero son liso lógicos.
+Ahora si yo hablo, como habla Szenakis y demás, de nubes estocásticas en música, o de galaxias estocásticas que se producen estadísticamente,
+esto ya es una morfología, ya aquello ya tiene una morfología, y sigue siendo estadístico, claro, pero se han producido unas fluctuaciones,
+unas frecuencias especiales donde ya se diferencian morfológicamente de las otras, entonces es el asunto.
+Vamos con esta distinción a nuestro caso.
+Entonces, estamos hablando del mundo de los fenómenos, del mundo en que nos movemos,
+este mundo en que nos movemos, pues considerado liso lógicamente por el materialismo, se clasifica en tres grandes géneros de materialidad,
+que llamamos M1 menos M3, que son géneros liso lógicos, es decir, M1 llamamos al conjunto, a la extensión pura, al aspecto físico, mecánico, etc. de la realidad,
+a las cosas tangibles, visibles, principalmente, esto es muy grosero lo que estoy diciendo, porque también las ondas son M1, pero en fin.
+M2 se refiere a todo lo que implica experiencia anímica, psicológica de hombres o animales, en la medida que tiene una estructura que no es individual,
+que es interindividual, superindividual, pero llamamos M2 a este tipo, que también tiene una realidad cualquiera que sea, que tiene unas propiedades distintas de las otras.
+Y M3 llamamos a un conjunto de materias, de materia, que no es ni una ni la otra, y que se caracterizan por establecer ciertas relaciones, por ejemplo,
+muy firmes, que están fuera del espacio y el tiempo, mientras que las primeras están en el espacio y en el tiempo, las M2 están sobre todo en el tiempo,
+en el espacio están de un modo accidental, y las M3 están fuera del espacio y el tiempo.
+Por ejemplo, la razón doble, geometría proyectiva, las razones dobles, son M3 típicamente, o simplemente cuando damos una definición de cono de revolución,
+un ejemplo que poníamos siempre hace muchos años, pero que es muy rápido, por eso se me ocurre ahora, cuando dice,
+el cono de revolución es la superficie que describe un triángulo rectángulo cuando gira sobre uno de los lados, la hipotenusa del triángulo rectángulo.
+Si alguien pregunta ¿y en cuánto tiempo tarda en producir esto?, la pregunta es estúpida, porque el tiempo ahí queda extraído, cambiando el movimiento.
+Entonces la idea del cono está fuera del tiempo, no tiene sentido decir en cuánto tiempo tarda, y tampoco en qué lugar, da igual que esté en un lado que el otro,
+no tiene ningún lugar determinado, aunque ya mi más sea una estructura de carácter extensivo.
+Entonces, cuando decimos que la ontología especial del materialismo distingue tres materialidades, M1 menos M3, estamos utilizando una perspectiva liso-lógica,
+porque M1 está tratado de un modo, en principio, uniforme, sin distinguir, distinguiendo pero extrayendo esas distinciones, igual M2 que M3.
+Ahora, cuando introducimos la perspectiva morfológica, resulta que M1 tiene que ver con el mundo, con el tratado del mundo,
+M2 tiene que ver con el tratado sobre el alma, y M3 tiene que ver con el tratado sobre Dios.
+¿Cómo sobre Dios? Sí, sobre Dios en cuanto a depósito de las esencias, en cuanto a un montón de definiciones de Dios de origen platónico y agustiniano,
+Dios es el lugar donde están alojadas las ideas eternas, los modelos eternos, etc.
+Es el Dios de San Agustín, el Dios de San Jerónimo, el de Bohecio, etc.
+Es el Dios que contiene la música para hacer ver la conexión que tiene con nuestro asunto, que no estamos fuera del asunto, que tiene una música que no se oye.
+Es ese Dios al que toda esta tradición que viene de los pitagóricos pero incorporada totalmente por todos los padres de la iglesia y otros muchos más,
+es ese Dios al cual hay que llegar a través de la música pero dejando precisamente todo lo que la música tiene de M1 y M2.
+Dejando todo eso porque distrae, completamente distrae la iconoclástica en una palabra.
+Y entonces hay que llegar a un Dios que está todavía San Basilio el Grande en el famoso discurso a los jóvenes sobre el modo de leer los libros antiguos,
+todavía introduce la idea platónica de la caverna, de que llegamos a las ideas a través de las imágenes de los fenómenos.
+Es decir, todavía concede alguna beligerancia al placer sensorial de la música pero simplemente en cuanto sombra de algo que está más allá de los sonidos,
+que son las puras relaciones ideales de los sonidos, por ejemplo de la armonía, de las leyes aritméticas que regirían los sonidos o matemáticas,
+y que sería la verdadera música, lo demás sería una música de batalla, no música puramente inferior.
+Y por eso únicamente puede entender la música el que sabe de matemáticas y sabe interpretar la estructura de lo que oye,
+sino simplemente está oyendo algo más o menos agradable, un arrullo, que aquello es distinto completamente.
+Es decir que estas son ideas que están completamente implicadas en los temas de la estética musical y demás.
+Y queda como otra parte la ontología general, es decir lo que llamamos nosotros M, M no menos M, que era la ontología general.
+¿Con qué se relaciona esto? Pues evidentemente con el ser, con el noúmen, con lo que se quiera.
+Se corresponde, no es que sea esto, se corresponde en este ajuste que hacemos en diferentes sistemas filosóficos que es lo que estamos haciendo,
+no estamos definiendo M1, pero la clave del asunto es esto, ya termino con esto,
+la clave del asunto es que la materia ontológica general, la ontología general en una palabra,
+no es algo que se dé previamente a la ontología especial, sino que es el regreso al límite de la propia ontología especial.
+Este es el punto más central del material filosófico, ya me tengo que parar aquí porque esto es imposible,
+esto está expuesto con cierta amplitud de los ensayos materialistas, es el punto central del asunto, pero tenemos que pararnos aquí.
+Entonces, la ontología, y por tanto la ontología para resumir, la ontología especial, la ontología es una ontología especial,
+pero siempre teniendo en la vista la ontología general, siempre, porque hay un proceso de reglamentación,
+la ontología especial se ocupa principalmente de tres cuestiones, las cuestiones que se ocupan pueden agruparse en tres rúbricas,
+la primera se puede llamar cuestiones de constitución, cuestiones constitutivas, lo que llamaban los escolásticos el constitutivo formal de las realidades,
+incluso decían el constitutivo formal de Dios, decían, el constitutivo formal, las cuestiones de constitución,
+después cuestiones de estatuto, de relación de una región de la realidad con las otras regiones que conozcamos,
+y tercero cuestiones de relación entre ambas.
+Bien, realmente aquí, en este programa que hemos dado, por las cuestiones de constitución abarcan el artículo 2, el 3, el 4, el 5, y el 6, y el 7,
+y en el 8 las cuestiones de estatuto, a partir del 8, las cuestiones de estatuto.
+La cuestión central, para abreviar, las cuestiones centrales de constitución, en el caso general, pero en la música en particular,
+aquí las centramos como cuestiones de categoricidad, es decir, la música es una categoría o no es una categoría,
+en el sentido que tenemos que decir, esa es la cuestión principal.
+Lo que llamamos música, el dominio que llamamos música, se define como una categoría o no tiene el rango de categoría,
+sino que está subordinada a otras categorías.
+Por ejemplo, aquella cita que hicimos de Suman tantas veces, bueno de Suman porque es muy conocida, pero en fin,
+la diferencia entre la música, la pintura y la escultura, etcétera, es prácticamente nula,
+todas tratan de lo mismo y solamente se diferencian de los instrumentos, los materiales que emplean, pero es lo mismo,
+es decir, son la misma categoría, es la tesis de la unicidad de las artes, las bellas artes, o artes nobles o artes liberales, son todo lo mismo,
+y son la misma categoría, es la tesis que, sobre todo, Croce, en su famosa estética,
+se distinguió por defender esta tesis de la unicidad de las artes, que traducía en nuestros términos,
+que es decir, todas las artes forman una única categoría, las bellas artes.
+Claro, aquí nosotros vamos a defender lo contrario, precisamente porque este tema de la unicidad de las artes
+tiene mucho que ver con el monismo y con la metafísica, en el sentido antiguo,
+y el pluralismo requiere de la simple que es más afecto a la tesis de la categoría de la música, ya veremos cómo.
+Hay que demostrar y hay que tratar de entender qué entendemos por categoría,
+si no estamos hablando por hablar, estamos diciendo palabras,
+hay que entender en qué sentido preciso y capaz de servir para el análisis, entendemos la idea de categoría.
+Bien, y entonces aquí ponemos cuestiones de ontología planteadas tradicionalmente.
+Bueno, voy a abreviar y me salto esto y voy a decir sobre el tipo de respuestas ontológicas,
+vamos a dar una serie de ejemplos de respuestas ontológicas.
+De lo que son respuestas ontológicas, que están en cualquier tratado de historia de las ideas musicales,
+que son muy conocidas, que ya las hemos mencionado para indicar de qué estamos hablando.
+Es decir, respuestas tradicionales a la ontología de la música que encontramos en la dosografía, pero sin cesar.
+Hemos hablado muchas de ellas y voy a repetirlas en esta perspectiva.
+Vamos a utilizar la estructuración morfológica de que hablábamos, ¿no?
+Dios, mundo y alma. Bien, primera cuestión, primera respuesta, es la respuesta qué es la música,
+desde un punto de vista ontológico, qué es la música.
+La primera respuesta que se me ocurre de ontología general, es decir, la música es la expresión misma del ser más profundo,
+del ser más profundo, que es por ejemplo la voluntad, el loúmeno, es la teoría de Schopenhauer, ¿verdad?
+Es decir, Schopenhauer responde en el fondo, o por lo menos puede responerse así, las famosas tesis y filosofías de Schopenhauer.
+Para Schopenhauer la música es realmente, la música es esto, la música es la expresión del ser absoluto, tal como lo entiende,
+que es la voluntad, que está a dos pasos de la nada, del nihilismo, ¿verdad?
+Y claro, la nada y el ser son las ideas ontológicas generales por naturaleza, ¿no?
+Entonces, ¿con esto qué quiere decirse? Pues que toda la música que no sea esto, no es música,
+en el fondo tiene un componente normativo y crítico terrible, ¿verdad?
+Todo lo que yo creo que llamemos música, la música de concierto convencional o lo que fuera,
+o de un virtuoso, esto no es música, esto es otra cosa diferente, es una gimnasia, lo que fuera.
+La música realmente, en cuanto contradistinta de otras artes, es precisamente esto, esta es la tesis de Schopenhauer.
+Otro tanto, o parecido, pero nosotros lo vemos en la ontología especial.
+Es cuando se dice que la música tiene, ¿qué es la música? Pues es la expresión, la revelación de Dios,
+de algún modo, cualquiera que se entiera por Dios.
+Cuando Beethoven dice la música es una revelación más alta que la filosofía, en el testamento de Heilig,
+pues esta famosa frase de Beethoven, que está dentro del ambiente hegeleano, etc.,
+tiene mucho que ver con lo absoluto, con Dios, y la cuestión es la siguiente,
+que yo no quiero insinuar, ni mucho menos, que estas afirmaciones, pues carezcan de sentido,
+han sido dichas tantas veces a lo largo de una tradición, siguen hoy mantenidas por muchos,
+hemos hablado de Hans Hermed, por ejemplo, que de un modo u otro está siempre rondando esta idea,
+entonces la ruptura de la tónica, de la relación de tónica y dominante es la muerte de Dios, etc.,
+está siempre rondando estas ideas.
+Yo no quiero decir, ni creo que sería legítimo decir que esto carezca de sentido,
+ni siquiera según aquella famosa frase de Sartre, Sartre, S.Z.S.Z., un psicólogo muy curioso, ¿verdad?,
+que dice, cuando estoy hablando con Dios estoy rezando, cuando Dios habla conmigo estoy esquizofrénico,
+tesis esta, es decir, cuando yo digo estoy hablando con Dios, bueno estás rezando,
+pero si digo Dios ha hablado conmigo, estás esquizofrénico, ¿verdad?, esto no significa ateísmo alto,
+porque un aristotélico puede decir lo mismo, es decir, para Aristóteles Dios no habla con los hombres,
+ni los conoce siquiera, por tanto un aristotélico, si Aristóteles o cualquier aristotélico auténtico
+le dicen que Dios está hablando con él, Aristóteles tendría que decir, no diría esquizofrénico,
+me diría algo parecido, está en mi mente lo que fuera, o a mente, ¿verdad?,
+y entonces la idea no es ateísmo, es simplemente que no tiene sentido,
+y ahora sin embargo habría que buscarle el sentido, ¿qué quiere decir?, ¿qué le dicen esto?, ¿qué quiere decir?,
+sugiero, vamos, simplemente sugiero, ¿verdad?, y lo sugiero, pues acordándome por ejemplo de un libro
+en tiempos muy famosos, yo lo presté, ya lo perdí, como ocurre con los libros,
+un libro de Mocler, de Camilo Mocler, que se ha autorizado un libro sobre la historia de la música,
+y sobre Wagner, etcétera, un libro de los años 30 debe ser, que se llama La religión de la música,
+y en este libro Mocler describe los conciertos que él ve en París en aquellos años,
+y describe como la gente va a los conciertos, como va a una ceremonia mística,
+en donde van a ir, describe muy bien el comportamiento del público, del pianista o de la orquesta,
+como la revelación realmente de la divinidad, y aquello es una verdad religión,
+tal como lo escribió, suena muy bien, muy bien, ¿qué quiere decir esto?, pues seguramente algo quiere decir,
+yo creo, vamos, sugiero, sugiero, por este y otros muchos testimonios que no tengo tiempo de,
+quiere decir seguramente pues que, efectivamente hay unas reacciones emocionales ante la música,
+muy conocidas por la parte, que tienen que ver con el éxtasis, con la pérdida de la conciencia,
+yo he conocido a un, hace muchos años en Madrid, a un ingeniero, amigo de la familia,
+que cuando ponía la Quinta Sinfonía de Beethoven en aquellos discos de entonces,
+obligaba a toda la familia a ponerse de rodillas, era un melómano también saltado,
+que como decía, a ponerse de rodillas, no toleraba que en su presencia se oye aquello así por la mano,
+y entonces, y le producía realmente una especie de éxtasis, perdía la conciencia ordinaria,
+o por lo menos bien, por tanto es una actitud muy interesante porque tiene su fundamento,
+habría que explicar por qué, por qué, y luego por qué se llama esto, divinidad, verdad,
+pero vamos, pero no es gratuito, quiero decir, no es gratuito, hay una razón,
+no es simplemente un sinsentido como diría un neopositivista de Viena, no, tiene un sentido, pues conductual.
+Otra respuesta también que la hemos citado muchas veces, otra respuesta, la música es la revelación del hombre,
+esta sí que es más curiosa, esta es la teoría de Beethoven, lo de adorno que citábamos el otro día,
+bueno, y es general, Nietzsche, verdad, sin pesar, es una doctrina, bueno, y actualmente, muy actualmente,
+pues el otro día vimos otra vez a esta, con motivo de la muerte de Rostropovich,
+y aquel tigrao que tenían con Menta y demás, verdad, pues aquello, la música es el hombre,
+la música es la trueta de hacer además unos conciertos de paz universal, de concordia universal,
+donde a través de los conciertos se va a conseguir la alianza de las civilizaciones de la paz universal, así como suena,
+esto lo hemos oído antes ayer, y ahí estaba Rostropovich, verdad, con el violonchero y con la reina Sofía en el palco,
+casi en éxtasis, pero en éxtasis era el hombre, no era Dios, tendría un componente de vino, pero era sobre todo el hombre,
+porque la música, si sirve para algo es para que unía a los hombres, abrazados en millones de la nueva sinfonía,
+¿no?, unía a los hombres, esto sí que es raro, esto sí que es difícil de entender, yo por lo menos no entiendo,
+tampoco digo que no tenga sentido, lo que pasa es que yo creo que tiene un sentido distinto del sentido anterior,
+tiene un sentido que ya no es, digamos, místico, estático, sino que tiene un sentido más bien activo, práctico,
+es como si la megalomanía, verdad, de algunos músicos o intérpretes, fuera tan grande que no se resignasen
+con quedarse en el recinto del concierto, sino que quieren que todos los hombres vayan al concierto, ¿verdad?,
+es decir, que todos convertisen realmente en los directores de orquesta de toda la humanidad,
+y por tanto, desarrollando muchas ideas que sabemos de la importancia que ha tenido la música siempre,
+en la educación, en la educación política, en la domesticación, en el rigor práctico, es decir, sabemos que el rigor
+en la conducta práctica en gran parte de vida de los coros, no deriva de la cosa, precisamente el rigor absoluto,
+porque todo el mundo tiene que cantar a lo unísono, aquello que decía Unamuno, bueno, que se cuenta que decía Unamuno,
+y ¿por qué desafina usted en el coro?, dice, para que me oigan, ¿verdad?, para que me oigan, claro, sin embargo,
+si uno está disciplinado, pues no tienes que oirlo, de manera que entonces la educación en este sentido,
+la educación de la ciudadanía, que dicen ahora, pues vendría muy bien en la música coral, ¿verdad?, para que todo el mundo cante al unísono,
+y entonces la idea del hombre yo creo que tiene mucho que ver con este asunto, bien, y entonces se entiende perfectamente,
+es decir, al músico le parece poco, repito, que la música quede en el recinto de la sala de conciertos,
+o en la audición privada de cada cual, y le interesa que todos los hombres participen,
+es una especie de imperialismo gremial, de verdad, imperialismo gremial, y lo que es difícil,
+yo no logro entender qué conexión hay entre la música y la humanidad, sobre todo que no sabes qué es la humanidad,
+yo no entiendo a qué humanidad te refieres, ¿verdad?, porque habría que incluir también, nada que nos acuerde de Orfeo, a los animales,
+que sobre todo domesticó a los animales con la música, por tanto también los animales habría que incluirlos en esta cofradía musical universal, ¿verdad?, bien.
+Y la tercera respuesta, pues es la cósmica, la respuesta cósmica o cosmológica, la música es la revelación del cosmos, la revelación del mundo,
+es decir, la tradición pitagórica, ¿verdad?, la música de los astros, y como esa tradición también ha sido constante, y lo es ahora,
+desde Halls, los planetas, hasta Stoichhausen, Sirius, etc., el Sturzlang, de Stoichhausen, es decir, el sonido de las estrellas,
+eso es una obra de máxima actualidad, allí están constantemente las estrellas funcionando, y no digamos bulé,
+es decir, que seguramente estas ideas pitagóricas se han reavivado con motivo de los viajes espaciales, después de la guerra,
+porque todo esto de Stoichhausen y demás es de los años 60 o 70, ¿verdad?, como saben, después de la guerra, cuando empiezan a inventar los generadores,
+los sincronizadores, etc., y se acuerdan otra vez de los astros, es decir, ¿qué conexión hay con los astros?,
+bueno, pues yo me atrevería a sugerir, de momento, luego ya me comprometo de más adelante, pero ahora sí me he de sugerir,
+que esta tercera interpretación, desde el punto de vista del matrimonio, tiene más fundamento que las anteriores,
+tiene algún más fundamento, hasta dónde nieve esto y esto es cosa diferente, tendremos que averiguar,
+pero en principio no es disparatada como la serie de las otras anteriores, tiene algún fundamento, por razones obvias, bien.
+Y para terminar voy a leer unas cosas curiosísimas de una documentación que me ha proporcionado Gustavo Oro Sánchez,
+que realmente es sorprendente porque era, yo creo que es totalmente desconocido en España actual, porque son, son,
+vamos a ver si lo tengo aquí, a ver si no lo he traído, sí, sí, está aquí, sí,
+aquí está aquí, son unos textos cuyo autor firma el desconocido, de manera que ahí nos deja con la curiosidad
+que por cierto habría que investigar a ver quién es este desconocido, entonces se compromete,
+digamos él es el que ha sumado unos textos de la Gazeta Literaria y Musical de España, una revista publicada en Madrid,
+pues hace los años 1840, etcétera, etcétera, aquellos años, en donde hay una serie de críticas curiosísimas en donde se ve
+la actualidad que tenía en España, la música, las teorías de la música de esta índole, de carácter metafísico,
+de todo teológico y humanístico, ¿verdad?, la música humanística. Voy a dar algunos trozos porque parece increíble hoy
+que esto se haya dicho en España hace ya más de un siglo, siglo y medio. Dice por ejemplo,
+además de una época como la actual, en que la afición a la música hace algunos años llegó a generalizarse por todas las clases
+hasta rayar en una especie de manía, pocos debieron de ser los que en la mañana del Domingo de Ramos
+asistieron a la soledad de defunción de la catedral, se refiere a un estreno que habían hecho de don Joaquín Sancho,
+que se llama Pasio, y que se estrena el Domingo de Ramos, y dice, pocos asistieron a la catedral para que las patéticas armonías
+de Pasio fuesen un idioma enteramente desconocido. La música, dice él, ya no es una encadenación de frívolos sonidos
+que entretenen al oyente, un placer artificial que dura cuanto la vibración de las cuerdas de los instrumentos,
+una variedad de entonaciones, unas o menos sorprendentes debidas al capricho del compositor,
+ni tampoco una serie de onomatopeyas que se desvanecen en la región del oído.
+Desde que la filosofía ha penetrado del arte, la música, más bien que por la sintaxis, es por la elocuencia de los sonidos.
+¿Quién fue, pues, del silencioso concurso que teniendo fe en el espiritualismo del arte y en el dogma de la redención,
+predispuesto con impresiones del tiempo y del lugar, no se sintió sobrecogido de un religioso éxtasis
+al verse empujado por un torrente de sonido y armonía hacia el mar del infinito?
+Es decir, le está describiendo realmente lo que él vivía en aquel estreno, ¿verdad?
+¿Quién al principiar en el sublime drama, cuya catástrofe es la muerte de Dios,
+no sintió recorrer sus miembros un progresivo estremecimiento y a golpearse a sus ojos un raudal de lágrimas reprimidas con violencia
+porque no solo es de mal tono llorar en los teatros sino hasta en las iglesias?
+¿Qué te ocurrió con la música? ¿Quién fue, pues, del silencioso concurso que teniendo fe en el espiritualismo del arte y en el dogma de la redención,
+predispuesto con impresiones del tiempo y del lugar, no se sintió sobrecogido de un religioso éxtasis al verse empujado por un torrente de sonido y armonía hacia el mar del infinito?
+El artista de la música es el hombre que quiere alcanzar el dominio universal, la hegemonía universal,
+quiere ser el director de la orquesta de la humanidad, haciendo la palabra, ¿verdad?
+Supongo que lo que quería Wagner, el arte total de Wagner, es esto,
+es marcar la dirección de orquesta de la humanidad.
+Pues, dice el desconocido, también hablando de Rossini, como Machini, exactamente igual,
+hablando de Rossini, dice, el inmortal Rossini ha manifestado esta verdad
+en la muy afamada y con justicia célebre sinfonía Guillermo Tell.
+No está vaciada, por decirlo así, en el molde mismo que sirve generalmente para componer las oberturas.
+Tiene un corte particular, la de Rossini, y que realiza evidentemente la originalidad
+que la caracteriza en una palabra, la sinfonía de Guillermo Tell, es un verdadero tratado de filosofía musical.
+Dice este autor, dice, a pesar de que carece del poder social de la palabra,
+en ella ve el profundo observador la opresión del pueblo suizo,
+que se manifiesta claramente en el primer tiempo de tan admirable composición.
+Inmediatamente se notan los chispazos, como vulgarmente se dice,
+de la sublevación que estalla en breve y al propio tiempo,
+que se caracteriza hasta lo infinito la sencilla ocupación de los pacíficos campesinos
+en la Helvecia, que en el tiempo es su siguiente.
+Por último, la sublevación crece, se desarrolla, etc.
+Aquí está hablando otra vez de lo de Macini,
+la restauración de la música mediterránea frente a la germánica, y entonces la música total.
+Por eso a Macini se le consideró como precursor de Wagner y a este hombre también.
+Me parece que estos textos son de gran interés para que se vea que de lo que estamos hablando
+se hablaba hace siglo y medio en español exactamente igual en estos términos.
+Muy bien, pues casi si les parece, hacemos una pausa ahora, llevamos ya hora y pico,
+y seguimos ya a continuación, lo que falta.

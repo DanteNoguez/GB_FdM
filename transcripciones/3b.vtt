@@ -1,0 +1,1499 @@
+WEBVTT
+
+00:00.000 --> 00:19.000
+ La primera es la base de la fórmula, la segunda es la intersección básica.
+
+00:20.000 --> 00:23.000
+ Por una razón que aquí no puedo explicar porque es muy larga.
+
+00:23.000 --> 00:29.000
+ Es puramente lógica, pero vamos a dejarla porque es muy largo de explicar.
+
+00:29.000 --> 00:34.000
+ Aquí tienen que pasar por mi palabra, simplemente porque,
+
+00:34.000 --> 00:39.000
+ porque, verán, vamos a decirlo todo para que vean.
+
+00:41.000 --> 00:44.000
+ Nosotros definimos primero la intersección de clases.
+
+00:44.000 --> 00:50.000
+ Decimos dos clases, dos clases tienen una zona de intersección
+
+00:52.000 --> 00:56.000
+ cuando hay una clase que a la vez pertenece a una y a otra,
+
+00:56.000 --> 00:59.000
+ los elementos de la una pertenecen a la otra, simplemente es esto.
+
+00:59.000 --> 01:06.000
+ Si yo tengo la clase de los europeos y la clase de los negros, de los hombres negros,
+
+01:06.000 --> 01:09.000
+ pues habrá una intersección de europeos y de árabes negros.
+
+01:09.000 --> 01:14.000
+ Entonces hay elementos de la clase uno que pertenecen a la clase dos.
+
+01:15.000 --> 01:19.000
+ Y esta es la intersección básica, es el concepto de intersección básico,
+
+01:19.000 --> 01:24.000
+ porque ahí es donde se da el concepto de intersección, el producto de clases.
+
+01:24.000 --> 01:30.000
+ En el límite, en el límite es cuando las clases son disyuntas, no hay intersección ninguna.
+
+01:32.000 --> 01:35.000
+ Entonces, ¿por qué razón se dice que hay intersección?
+
+01:35.000 --> 01:39.000
+ Pues para eso se inventa una clase especial, que es el cero,
+
+01:39.000 --> 01:43.000
+ que se dice que si dos clases son disyuntas cuando su intersección es nula,
+
+01:43.000 --> 01:45.000
+ es decir, cuando no hay intersección.
+
+01:45.000 --> 01:50.000
+ Es un modo de aplicar, es un poco parecido a la distancia cero o a la tolerancia cero, ¿verdad?
+
+01:50.000 --> 01:53.000
+ La tolerancia cero es la intolerancia, ¿verdad?
+
+01:53.000 --> 01:56.000
+ Pero claro, dicho intolerancia parece muy fuerte, ¿no?
+
+01:56.000 --> 02:00.000
+ Cuando se dice distancia cero, se dice que no hay distancia.
+
+02:00.000 --> 02:05.000
+ Cuando se dice, la primera fórmula es que no hay intersección, que es el cero, el producto del cero.
+
+02:05.000 --> 02:11.000
+ Y por eso el cero, el cero no es el primer término de la serie, ni en lógica ni en aritmética.
+
+02:11.000 --> 02:16.000
+ El cero, a pesar de que yo muchas veces lo he hablado con matemáticos,
+
+02:16.000 --> 02:20.000
+ que les preguntan, dime la serie de dos números naturales, ¿empieza cero, uno, dos, tres?
+
+02:20.000 --> 02:25.000
+ ¿Por qué empieza por cero? Hombre, claro, es que el cero antes del uno, eso te lo dirías tú, ¿verdad?
+
+02:25.000 --> 02:27.000
+ El cero empieza antes del uno.
+
+02:27.000 --> 02:31.000
+ El cero es una palabra que por sí mismo no tiene ningún sentido.
+
+02:31.000 --> 02:36.000
+ Entonces, empiezas uno, dos, tres, cuatro, introduces la operación más, operación menos,
+
+02:36.000 --> 02:42.000
+ y cuando coges la operación menos y pones cinco menos cinco para poder restar cinco de cinco,
+
+02:42.000 --> 02:44.000
+ entonces pones cero, pero el cero es posterior a la operación,
+
+02:44.000 --> 02:51.000
+ por tanto el cero es posterior a los otros números que ya se introducieron anteriormente, relaciones inversas de la edición.
+
+02:51.000 --> 02:54.000
+ Bien, pues aquí pasa lo mismo.
+
+02:54.000 --> 03:03.000
+ Pero también caben otras, bueno, están escritas ahí, es que si me muevo un poco, me desconecto el micrófono.
+
+03:03.000 --> 03:13.000
+ También hay otras, esto es muy pesado, ya lo sé, pero hay que experimentar un poco este estilo.
+
+03:13.000 --> 03:23.000
+ Y las otras posibilidades es que ahora el producto sea igual a m, sea igual a f,
+
+03:23.000 --> 03:28.000
+ y entonces si es igual a m o a f, entonces quiere decir que una está incluida en otra,
+
+03:28.000 --> 03:31.000
+ o la otra está incluida en la primera, son las cinco posibilidades de decirlo así.
+
+03:31.000 --> 03:33.000
+ De manera que tenemos cinco alternativas.
+
+03:33.000 --> 03:39.000
+ Primero, la fórmula uno, producto k igual a cero, casi nula.
+
+03:39.000 --> 03:43.000
+ Fórmula básica, que es una clase particular, k.
+
+03:43.000 --> 03:48.000
+ Tercera fórmula, que la música está incluida en la filosofía.
+
+03:48.000 --> 03:51.000
+ Cuarta posibilidad, que la filosofía está incluida en la música.
+
+03:51.000 --> 03:56.000
+ Y quinta fórmula, las dos a la vez, que son lo mismo, que son una cosa bonita.
+
+03:56.000 --> 04:03.000
+ Como es imposible ir una por una, vamos a hablar un poco de la primera y luego el resto, ya nos lo imaginamos todos.
+
+04:03.000 --> 04:08.000
+ Vamos a hablar de la primera que además es la más interesante yo creo.
+
+04:08.000 --> 04:16.000
+ La fórmula uno, la música y la filosofía, el producto, la orientación de clases es la clase nula.
+
+04:16.000 --> 04:27.000
+ Bien, esta fórmula recoge un conjunto de opiniones y de filosofías muy abundantes, muy dispersas, muy diversas,
+
+04:27.000 --> 04:35.000
+ que se caracterizan por tener esta condición común, que sostienen que la filosofía y la música no tienen nada que ver,
+
+04:35.000 --> 04:38.000
+ que son cosas totalmente distintas.
+
+04:38.000 --> 04:44.000
+ Y que son absolutamente distintas y que además tienen que serlo,
+
+04:44.000 --> 04:49.000
+ que tienen que serlo por muy buenas razones, principalmente las que he aludido antes.
+
+04:49.000 --> 04:55.000
+ La música pertenece al terreno de lo sensible y la filosofía al terreno de lo inteligible.
+
+04:55.000 --> 04:59.000
+ Entre ambas cosas no hay nada que hacer, es imposible hacer nada
+
+04:59.000 --> 05:04.000
+ y por consiguiente filosofía y música son totalmente disyuntas.
+
+05:04.000 --> 05:11.000
+ Si la filosofía y la música quieren ver relaciones en ese sentido subjetivas,
+
+05:11.000 --> 05:18.000
+ bueno genitivo-subjetivo, pues está completamente desviada, porque son totalmente distintas, disyuntas.
+
+05:18.000 --> 05:27.000
+ Y esta es una serie de, una dirección de alternativas muy abundantes,
+
+05:27.000 --> 05:34.000
+ muy practicadas principalmente por muchos que mantienen actitudes muy formalistas o positivistas.
+
+05:34.000 --> 05:39.000
+ No hace falta saber nada de filosofía para saber de música, entender de música,
+
+05:39.000 --> 05:44.000
+ son cosas postizas, están por demás, todo esto no viene a cuento, ¿verdad?
+
+05:44.000 --> 05:47.000
+ Porque son clases distintas, no hay nada que hacer.
+
+05:47.000 --> 05:54.000
+ Porque la alternativa sería, habría un tipo de música que hay otro tipo de filosofía,
+
+05:54.000 --> 05:58.000
+ pero esto es lo que se niega, no puede haber un tipo de música que haya otro tipo de filosofía.
+
+05:58.000 --> 06:04.000
+ Es decir, lo que niega la primera alternativa es que haya filosofía en sentido subjetivo.
+
+06:04.000 --> 06:10.000
+ La música no puede tener nunca ideas filosóficas salvo que se las hayamos sobrepuesto a ellas,
+
+06:10.000 --> 06:13.000
+ que por sí mismas no tienen nada que ver con esto.
+
+06:13.000 --> 06:18.000
+ Dentro del método dialéctrico propio de la filosofía académica,
+
+06:18.000 --> 06:21.000
+ esta posibilidad hay que pensarla completamente en serio,
+
+06:21.000 --> 06:24.000
+ porque una de las características de la filosofía platónica es esta,
+
+06:24.000 --> 06:28.000
+ a diferencia de la filosofía mitológica, que hay que considerar todas las posibilidades,
+
+06:28.000 --> 06:33.000
+ una por una, hay que tomarlas en serio a todas, absolutamente a todas,
+
+06:33.000 --> 06:38.000
+ porque la que tomemos nosotros ha de ser siempre por negación de las otras,
+
+06:38.000 --> 06:42.000
+ por lo siguiente hay que tomarlas en serio a todas, no cabe decir, esta la descartamos a priori,
+
+06:42.000 --> 06:45.000
+ no se puede descartar a priori, y esta es la más fuerte, claro,
+
+06:45.000 --> 06:49.000
+ en principio se nos presenta como la más fuerte oposición.
+
+06:49.000 --> 06:59.000
+ Bien, entonces la primera fórmula, pues como digo tiene como fundamento sobre todo este dualismo,
+
+06:59.000 --> 07:08.000
+ y por eso esta fórmula ha sido aplicada a la música, bueno a las artes en general, por el iconoclasmo,
+
+07:08.000 --> 07:15.000
+ el iconoclasmo, pero el iconoclasmo que tenía ya sus precedentes,
+
+07:15.000 --> 07:20.000
+ tenía sus precedentes en la Biblia, en otros muchos sitios, es decir la idea de que Dios,
+
+07:20.000 --> 07:27.000
+ en la Biblia sobre todo Dios, la prohibición en pintura, la prohibición del génesis,
+
+07:27.000 --> 07:34.000
+ de representar a Dios mediante objetos, o imágenes, la prohibición del becerro de oro,
+
+07:34.000 --> 07:39.000
+ es decir, todo lo que sean representaciones divinas por medio de pintura,
+
+07:39.000 --> 07:47.000
+ esto es sencillamente una especie de idolatría que hay que tachar entre mentes,
+
+07:47.000 --> 07:51.000
+ que es lo que han olvidado los musulmanes ahora, como sabemos, los musulmanes,
+
+07:51.000 --> 07:59.000
+ y que en la tradición griega, de los padres griegos, tienen mucha importancia todavía,
+
+07:59.000 --> 08:05.000
+ pero que sobre todo estalla en el iconoclasmo de la época del siglo VIII y IX,
+
+08:05.000 --> 08:10.000
+ cuando se aguante por influencia de los musulmanes en Bizancio, y ya hemos hablado de eso también,
+
+08:10.000 --> 08:17.000
+ es decir, cuando se considera que es incompatible completamente, cuando estás en el templo,
+
+08:17.000 --> 08:22.000
+ estás teniendo imágenes de los dioses, o de Dios, porque es imposible,
+
+08:22.000 --> 08:26.000
+ sea porque Dios es infinito y no puede representar lo finito,
+
+08:26.000 --> 08:31.000
+ sea porque es espiritual y no puede representar lo corporal, y entonces hay multitud de padres,
+
+08:31.000 --> 08:38.000
+ ahí está San Agustín, San Jerónimo, la serie de textos abundantísimos, todos los que se quieran.
+
+08:38.000 --> 08:45.000
+ Y de esta incompatibilidad iconoclasta, que como digo la heredan los musulmanes,
+
+08:45.000 --> 08:49.000
+ pues también en música, también en San Agustín, el propio Bohecio,
+
+08:49.000 --> 08:54.000
+ pues dice muchas veces que claro que la música, el peligro de la música en el templo,
+
+08:54.000 --> 08:59.000
+ es que prevalezca lo sensible y el gozo sobre lo espiritual,
+
+08:59.000 --> 09:02.000
+ y lo espiritual resulta que es algo que ya no suena, ¿verdad?
+
+09:02.000 --> 09:09.000
+ Es decir, que el gran peligro de la música es que en el templo que prevalezca el gozo sensible,
+
+09:09.000 --> 09:11.000
+ que nos desvía precisamente.
+
+09:11.000 --> 09:18.000
+ Esta misma idea, en el fondo, llega sobre todo a lo más conocido de la época moderna,
+
+09:18.000 --> 09:22.000
+ es Hegel, la teoría de Hegel, que aplica a los artes en general y a la música en particular.
+
+09:22.000 --> 09:28.000
+ Es decir, la filosofía de la música y del arte de Hegel, en el fondo, es esto mismo,
+
+09:28.000 --> 09:38.000
+ aunque está muy eclipsado y muy oculto por el modo de desenvolver la filosofía, la estética de Hegel.
+
+09:38.000 --> 09:42.000
+ Pero en el fondo lo que dice Hegel es esto, por lo menos así lo interpreto.
+
+09:42.000 --> 09:45.000
+ Ya digo, estoy comprimiendo.
+
+09:45.000 --> 09:50.000
+ Lo que viene a decir Hegel es que el arte en general, y la música por supuesto,
+
+09:50.000 --> 09:55.000
+ puesto que para Hegel la música es muy inferior, es superior a la escultura de los gregos,
+
+09:55.000 --> 10:05.000
+ es un arte romántico pero es inferior a la poesía, el arte en general es para Hegel una fase del espíritu
+
+10:05.000 --> 10:11.000
+ que todavía no ha llegado a su perfección, el espíritu absoluto, que es el pensamiento puro.
+
+10:11.000 --> 10:17.000
+ Por consiguiente, en el desarrollo de la humanidad el arte tiene que ir desapareciendo.
+
+10:17.000 --> 10:22.000
+ El arte está llamado a su destino de acabar, desaparecer.
+
+10:22.000 --> 10:27.000
+ En el fondo, esto lo dice Croche, expone muy bien Croche la filosofía del espíritu,
+
+10:27.000 --> 10:33.000
+ en la estética de Croche se expone muy bien la filosofía de Hegel con esta frase que es de Croche.
+
+10:33.000 --> 10:44.000
+ De tal que Hegel lo que hace es declarar un funeral al arte poniendo una lápida filosófica en el ataúd.
+
+10:44.000 --> 10:51.000
+ Lo que viene a decir Hegel es que la música y la pintura y la arquitectura son formas inferiores del espíritu,
+
+10:51.000 --> 10:59.000
+ formas propias de épocas pasadas, arcaicas, salvajes, bárbaras o medievales que ya ha pasado,
+
+10:59.000 --> 11:06.000
+ que ya no estamos en época de la que decía Napoleón Aguete, la misma idea.
+
+11:06.000 --> 11:17.740
+ Cuando el
+
+11:17.740 --> 11:25.740
+ Napoleón deja sus mapas y va a ir a discutir, tiene un debate de crítica literaria con Albert de Gete y demás,
+
+11:25.740 --> 11:32.740
+ entonces dice Napoleón que ya se ha pasado el tiempo de la novela y de la poesía, que ahora es el tiempo de la política,
+
+11:32.740 --> 11:34.740
+ que esas son cosas del pasado.
+
+11:34.740 --> 11:39.740
+ Bueno, pues esta idea es la de Hegel, ya se ha pasado el tiempo del arte y de la música,
+
+11:39.740 --> 11:45.740
+ que son cosas del pasado y por consiguiente la música es algo que es totalmente distinto de la filosofía,
+
+11:45.740 --> 11:48.740
+ que no tiene que ver, hay cosas disduntas por completo.
+
+11:48.740 --> 12:00.740
+ En el fondo, una famosísima doctrina de Kierkegaard, que estuvo muy de moda y en España se habló mucho de ella en la época del existencialismo,
+
+12:00.740 --> 12:09.740
+ las tres fases del espíritu de Kierkegaard, se habló muchísimo, yo recuerdo que en la facultad estaban todos los estudiantes interesados por estas cosas de Kierkegaard,
+
+12:09.740 --> 12:15.740
+ la fase estética, la fase ética y la fase religiosa de la vida espiritual.
+
+12:15.740 --> 12:25.740
+ Entonces, el hecho de escalonar estas fases, considera la fase estética como la fase inferior, después venía la ética que era superior,
+
+12:25.740 --> 12:31.740
+ porque los valores éticos estaban por encima de los estéticos y después los valores religiosos por encima de todos,
+
+12:31.740 --> 12:34.740
+ pues tiene algo que ver con esta teoría de Hegel.
+
+12:34.740 --> 12:44.740
+ Una jerarquía de los valores, en donde los valores estéticos y concretamente los musicales están por debajo, por tanto la disyunción es total.
+
+12:44.740 --> 12:47.740
+ Esa es la opinión más bien.
+
+12:47.740 --> 13:00.740
+ Ahora, ocurre lo siguiente, que el hecho de que dos fases sean disyuntas en extensión, no quiere decir que sean megáricas,
+
+13:00.740 --> 13:08.740
+ es decir, que se comporten como las esencias de los megáricos, Euclides de Megara y otros, que no tienen nada en común,
+
+13:08.740 --> 13:12.740
+ que cada clase sean aisladas, que no tengan nada que ver.
+
+13:12.740 --> 13:19.740
+ Hay una operación que nosotros utilizamos, os voy a limitar esto.
+
+13:19.740 --> 13:31.740
+ Es este mismo signo del producto de clases con una raya por encima que llamamos ecualización.
+
+13:31.740 --> 13:38.740
+ En donde se demuestra una operación, ahora les pongo un ejemplo y el ejemplo se entiende perfectamente.
+
+13:38.740 --> 13:44.740
+ En la ecualización, dos conjuntos disyuntos sin embargo encuentran un conjunto común,
+
+13:44.740 --> 13:52.740
+ que les pertenece más solo a ellos cuando es ecualización estricta y sin perjudicio de ser disyuntos.
+
+13:52.740 --> 14:04.740
+ Por ejemplo, la clase de las figuras cuadrados, una figura cuadrada y un rombo son disyuntas,
+
+14:04.740 --> 14:06.740
+ no hay ningún cuadrado que sea rombo.
+
+14:06.740 --> 14:13.740
+ En la clase de los cuadrados nunca hay un rombo, en la clase de los rombos nunca hay un cuadrado, son disyuntas.
+
+14:13.740 --> 14:23.740
+ Sin embargo, entre rombos y cuadrados hay una clase de figuras que ecualizan ambas, que son los paralelogramos esquiláteros.
+
+14:23.740 --> 14:30.740
+ Hay un paralelogramo esquilátero que es el resultado de la ecualización de estas dos clases disyuntas.
+
+14:30.740 --> 14:38.740
+ Cuando es estricta porque el paralelogramo esquilátero se ciñe enteramente a esas dos clases,
+
+14:38.740 --> 14:42.740
+ luego hay ecualizaciones mucho más amplias, ambos son polígonos, etc.
+
+14:42.740 --> 14:54.740
+ Aún reconociendo la disyunción entre música y filosofía, al modo de Hegel, el de los doblistas,
+
+14:54.740 --> 14:59.740
+ podría haber ideas que cubrieran ambas.
+
+14:59.740 --> 15:08.740
+ Por consiguiente, la oposición a la posibilidad de una filosofía de la música fundada en esta disyunción no es definitiva,
+
+15:08.740 --> 15:15.740
+ porque también cabe la ecualización estricta o amplia en donde podríamos encontrar ideas que cubren ambas y no lo son.
+
+15:15.740 --> 15:27.740
+ Un ejemplo, y además solamente por esta vía podíamos seguir adelante, abundando en algo que dijimos el otro día.
+
+15:27.740 --> 15:43.740
+ Vamos a suponer que estudiando la música barroca y clásica se advierte que es una música fundada en la tonalidad.
+
+15:43.740 --> 15:54.740
+ La tonalidad está fundada en una red de sonidos a base de tónicas, terceras, décimas, dominantes, quintas, etc.
+
+15:54.740 --> 16:07.740
+ y por tanto en una jerarquía en donde todos los sonidos parece que están gravitando en torno a la tónica.
+
+16:07.740 --> 16:14.740
+ Esta gravitación que aparece en los tratados de armonía, que tengo un tratado de armonía que me hizo mucha gracia
+
+16:14.740 --> 16:21.740
+ porque el autor simplemente lo emplea como modo didáctico,
+
+16:21.740 --> 16:31.740
+ y entonces la subdominante gravita sobre la tónica y está utilizando la palabra gravitación continuamente.
+
+16:31.740 --> 16:40.740
+ Cuando lo lees así sin mayores averiguaciones, mira qué didáctico es esta expresión.
+
+16:40.740 --> 16:47.740
+ Entonces encuentras que claro que en la doctrina de la tonalidad de la música hay una unidad fundada en una jerarquía
+
+16:47.740 --> 16:59.740
+ que está fundada además en esta subordinación de un conjunto de notas que son afines a la tónica, a la tercera, a la dominante, etc.
+
+16:59.740 --> 17:06.740
+ Las décimas por tanto, y entonces que hay una especie de gravitación de los sonidos en torno a un centro.
+
+17:06.740 --> 17:10.740
+ Es decir, la estructura central de la música.
+
+17:10.740 --> 17:20.740
+ Pero ahora supongamos que se nos dice, bueno, pero resulta que lo mismo ocurre en el estado moderno, lo que decíamos el otro día.
+
+17:20.740 --> 17:24.740
+ También lo expusimos, lo de Attali y otros muchos, ¿verdad?
+
+17:24.740 --> 17:31.740
+ Es que resulta que en el estado moderno, una vez que el feudalismo ha sido desbordado,
+
+17:31.740 --> 17:36.740
+ pues también en el estado moderno hay una jerarquía de organización en donde hay un centro que es el rey, ¿verdad?,
+
+17:36.740 --> 17:43.740
+ el rey absoluto con todas las jerarquías de funcionarios que están en torno de él, de señores, etc.
+
+17:43.740 --> 17:53.740
+ Y entonces que ahora hay una ecualización entre esa estructura jerárquica de la música y la estructura jerárquica política del estado moderno.
+
+17:53.740 --> 17:58.740
+ Bien, pero todavía añadimos una cosa más, añadimos todavía una cosa más ahora.
+
+17:58.740 --> 18:05.740
+ Ahora hay una estructura no ya musical y una estructura política, sino añadimos una estructura física,
+
+18:05.740 --> 18:07.740
+ que es el propio sistema gravitatorio.
+
+18:07.740 --> 18:13.740
+ Ahora resulta que el propio sistema gravitatorio de Newton, resulta que también el sol está en el centro,
+
+18:13.740 --> 18:20.740
+ en su lugar están los planetas y los satélites de los planetas, ¿verdad?
+
+18:20.740 --> 18:26.740
+ También en este tratado de Atomonia que les decía, también se utilizaba la palabra satélite, ¿verdad?,
+
+18:26.740 --> 18:30.740
+ que si la subdominante es un satélite de la tónica, es un satélite.
+
+18:30.740 --> 18:36.740
+ O sea que se ve que el hombre tenía la idea más próxima de lo que parecía.
+
+18:36.740 --> 18:43.740
+ Entonces la idea del orden gravitatorio también está contenida.
+
+18:43.740 --> 18:45.740
+ Entonces, ¿qué pasa aquí?
+
+18:45.740 --> 18:50.740
+ Pues resulta que aunque sean disyuntas, pues claro son disyuntas porque son disyuntas,
+
+18:50.740 --> 18:57.740
+ el sistema solar es disyunto del sistema político, por mucho que se diga, y es disyunto del sistema solar.
+
+18:57.740 --> 19:02.740
+ No hay cosas que sean a la vez musicales y gravitatorias, son disyuntos,
+
+19:02.740 --> 19:07.740
+ pero sin embargo por la vía de la ecualización resulta que hay unas estructuras que envuelven a todos ellos,
+
+19:07.740 --> 19:13.740
+ y estas estructuras son, pues esta estructura centralista, centralizada, jerárquica, como se quiera llamar.
+
+19:13.740 --> 19:19.740
+ Reducir una a otra parece ya absurdo en principio, ¿por qué vamos a reducir?
+
+19:19.740 --> 19:24.740
+ Es decir, es la que manda a otra, que es lo que hace el sociologismo.
+
+19:24.740 --> 19:32.740
+ Es que realmente la estructura jerárquica de la música no es más que una expresión superestructural
+
+19:32.740 --> 19:40.740
+ de la influencia de la base económica que había dado lugar a la estructura del estado moderno.
+
+19:40.740 --> 19:50.740
+ Como si fuera una expresión lo uno del otro, pero cuando le agregamos la tercera...
+
+19:50.740 --> 19:56.740
+ Esto cuando hay dos únicamente, dos clases ecualizadas se puede tolerar, pero cuando hay tres no.
+
+19:56.740 --> 20:03.740
+ ¿Cómo se puede decir que la estructura del rey sol esté determinada por el sistema solar?
+
+20:03.740 --> 20:05.740
+ Aunque se le llame el rey sol, ¿verdad?
+
+20:05.740 --> 20:09.740
+ Se ve que estaba funcionando el heliocentrismo, está el sol en el centro,
+
+20:09.740 --> 20:15.740
+ y el rey sol, Luis XIV, pues es el que manda el tiempo, y el tiempo musical, aquella famosa pregunta,
+
+20:15.740 --> 20:20.740
+ ¿qué hora es? que preguntaba Luis XIV y respondía, la que quiera vuestra majestad.
+
+20:20.740 --> 20:25.740
+ Es decir, el rey sol es el soberano absoluto, el soberano de verdad.
+
+20:25.740 --> 20:30.740
+ Ahora, ¿cómo se puede decir que el rey sol esté determinado por la estructura del sistema solar?
+
+20:30.740 --> 20:34.740
+ ¿Y que la armonía esté determinada por la estructura del sistema solar?
+
+20:34.740 --> 20:39.740
+ La dilunción se mantiene, pero no la ecualización.
+
+20:39.740 --> 20:49.740
+ En ese sentido, quiere decir, la idea de que la dilunción, que parece que sea el argumento más potente
+
+20:49.740 --> 20:54.740
+ contra la posibilidad de una filosofía de la música, de unas ideas que tengan que ver a la vez con el otro,
+
+20:54.740 --> 21:01.740
+ parece que se disuelve porque hay el otro mecanismo de la ecualización, estricta o amplia.
+
+21:01.740 --> 21:06.740
+ Y así sucesivamente, pero vamos a dejarlo porque aquí los ejemplos son infinitos y aquí no acabaríamos.
+
+21:06.740 --> 21:13.740
+ Y entonces pasamos ya, es una pena porque es cosa muy buena, pero ya, ya por lo tipo.
+
+21:13.740 --> 21:18.740
+ Pasamos al artículo 6, filosofía de la música en sentido positivista.
+
+21:18.740 --> 21:29.740
+ Bueno, ahora son unas series de cuestiones más próximas y que creo que pueden tener interés
+
+21:29.740 --> 21:37.740
+ sobre todo para los que están haciendo estudios de doctorado y demás, porque están aplicados directamente a este asunto.
+
+21:37.740 --> 21:47.740
+ Estoy un poco al tanto de estas bases para un debate sobre investigación artística que da el Ministerio,
+
+21:47.740 --> 21:56.740
+ que ustedes manejan y en donde se plantean los problemas de la investigación en música y en bellas artes en general.
+
+21:56.740 --> 22:02.740
+ Bueno, pues todo esto está un poco orientado hacia estos tipos de problemas, pero sin tener el punto de vista nocoeológico,
+
+22:02.740 --> 22:12.740
+ claro, porque si no, la prueba es que los autores, a mi juicio, de estos informes, que son muy respetables,
+
+22:12.740 --> 22:18.740
+ elegidos por el Ministerio para dar instrucciones sobre la investigación en las artes,
+
+22:18.740 --> 22:26.740
+ pues como están completamente al margen del mínimo rigor nocoeológico, pues sin aquello no hay por donde agarrarlo.
+
+22:26.740 --> 22:35.740
+ Es algo verdaderamente penoso, una cosa de estas es una cosa realmente increíble, la falta total de rigor que tiene una cosa terrible, terrible, pero bueno.
+
+22:35.740 --> 22:45.740
+ Y entonces se trataría por mi parte de ofrecer algunas líneas dentro del plan que llevamos para plantear estas cuestiones.
+
+22:45.740 --> 22:53.740
+ Aquí las cuestiones centrales yo creo que es la cuestión de la musicología, lo que se entiende por musicología,
+
+22:53.740 --> 22:59.740
+ y lo que se entiende por Musikwissenschaft, la ciencia de la música, de los alemanes,
+
+22:59.740 --> 23:06.740
+ traducida por los italianos como musicología y por los españoles pues.
+
+23:06.740 --> 23:12.740
+ Y aquí hay el gato encerrado, pero el gato encerrado pero muy fuerte, que yo creo que conviene denunciar.
+
+23:12.740 --> 23:17.740
+ Bueno, denunciar no, aclarar, destapar, sencillamente, desvelar.
+
+23:17.740 --> 23:28.740
+ Y lo vamos a hacer hablando de la filosofía de la música en sentido positivista, de la filosofía interdisciplinar.
+
+23:28.740 --> 23:38.740
+ Recuerdan que en la introducción ya habíamos distinguido tres orientaciones de la filosofía de la música.
+
+23:38.740 --> 23:46.740
+ Primero, una orientación que llamábamos positivista, filosofía de la música positivista en sentido positivista.
+
+23:46.740 --> 23:51.740
+ A, a mayúscula, orientación de filosofía de la música en sentido positivista.
+
+23:51.740 --> 23:58.740
+ B, orientación metafísica, orientación de la filosofía de la música en sentido metafísico.
+
+23:58.740 --> 24:05.740
+ Y C, orientación de la filosofía de la música en sentido filosófico positivo.
+
+24:05.740 --> 24:09.740
+ La pregunta enéctrica es esta, ¿en qué se diferencian la A y la C?
+
+24:09.740 --> 24:13.740
+ Porque la B, A se entiende muy bien lo que se quiere decir, ¿no?
+
+24:13.740 --> 24:23.740
+ Se entiende filosofía metafísica de la música, por ejemplo la de Schopenhauer, por el caso, o la del Seu de Onision,
+
+24:23.740 --> 24:30.740
+ pero la filosofía positiva y la filosófico positiva, ¿en qué se diferencian?
+
+24:30.740 --> 24:40.740
+ Pues aquí hay que aislar muy delgado, porque se podría decir que no se diferencian en nada, en cuanto a la materia,
+
+24:40.740 --> 24:49.740
+ pero sí en el modo de enfocar la cuestión, en la perspectiva, porque la filosofía de la música en sentido positivista
+
+24:49.740 --> 24:57.740
+ termina disolviéndose en un conjunto de ciencias de la música.
+
+24:57.740 --> 25:05.740
+ Termina disolviéndose o identificándose con una enciclopedia de ciencias de la música.
+
+25:05.740 --> 25:10.740
+ Sociología, psicología, etnología, acústica, etcétera, ¿no?
+
+25:10.740 --> 25:17.740
+ De ciencias de la música. Se disuelve en esta enciclopedia y, sin embargo,
+
+25:17.740 --> 25:23.740
+ por el hecho de ser enciclopédica, es la que más se parece en la filosofía de la música.
+
+25:23.740 --> 25:31.740
+ Y cuando a esta enciclopedia de la ciencia de la música se le designa con un nombre especial, como musicología,
+
+25:31.740 --> 25:37.740
+ se da la impresión de que estamos ante una ciencia, con una categoría propia, y no lo es.
+
+25:37.740 --> 25:46.740
+ Y se dice que es interdisciplinar, pero es que interdisciplinar no es nada, esa es la cuestión.
+
+25:46.740 --> 25:57.740
+ En este opúsculo, como en otros muchos, siempre sorprende cómo se llena la boca la gente con la palabra interdisciplinar.
+
+25:57.740 --> 26:01.740
+ Al decir que esto es una investigación interdisciplinar parece que está todo resuelto.
+
+26:01.740 --> 26:04.740
+ Efectivamente las subvenciones se obtienen mucho más fácilmente, ¿verdad?
+
+26:04.740 --> 26:08.740
+ Sin investigación interdisciplinar las subvenciones se lleven por otro lado,
+
+26:08.740 --> 26:14.740
+ porque si se cuida no vaya a ser que la otra disciplina me ponga verde, ¿verdad?
+
+26:14.740 --> 26:18.740
+ Entonces, muy bien. Pero, ¿qué ocurre?
+
+26:18.740 --> 26:23.740
+ Primero, para que haya interdisciplinaridad tiene que haber disciplinas, eso parece evidente, ¿no?
+
+26:23.740 --> 26:26.740
+ Si no hay disciplinas no hay interdisciplinaridad.
+
+26:26.740 --> 26:31.740
+ Entonces, la interdisciplinaridad tiende a borrar las disciplinas,
+
+26:31.740 --> 26:34.740
+ y a suponer que hay una disciplina única cuando no es así.
+
+26:34.740 --> 26:43.740
+ Un ejemplo, hay una disciplina que se ha discutido muchísimo, aquí discutimos hace años muchísimo,
+
+26:43.740 --> 26:50.740
+ en la Junta de Gobierno de la Universidad, sobre una cátedra que se quería poner un departamento de Ciencias del Mar.
+
+26:50.740 --> 26:55.740
+ Decía que, claro, estando tan cerca del mar, pues era obligado poner una ciencia del mar.
+
+26:55.740 --> 27:00.740
+ E incluso alguien propuso un nombre propio, talasología.
+
+27:00.740 --> 27:05.740
+ La cosa está ya resuelta, tenemos ya un nombre, talasología ciencia del mar.
+
+27:05.740 --> 27:07.740
+ Bueno, ¿y qué es eso?
+
+27:07.740 --> 27:15.740
+ Es que el mar es una categoría propia. El mar será un fenómeno geográfico o químico,
+
+27:15.740 --> 27:17.740
+ pero realmente el mar no es una categoría para la ciencia.
+
+27:17.740 --> 27:19.740
+ La prueba es que la ciencia del mar es interdisciplinar.
+
+27:19.740 --> 27:27.740
+ Es decir, es geografía y biología, y es química y es economía política y muchas cosas más.
+
+27:27.740 --> 27:33.740
+ Pero esas son varias disciplinas, cada una que tiene su propio ritmo y sus propias metodologías,
+
+27:33.740 --> 27:39.740
+ que convergen en el estudio de un asunto común.
+
+27:39.740 --> 27:47.740
+ Pero cada disciplina tiene que mantener sus propios métodos, porque si no, pues deja de ser interdisciplinar.
+
+27:47.740 --> 27:50.740
+ Tiene que mantener sus propios métodos. ¿Y qué ocurre?
+
+27:50.740 --> 27:57.740
+ Pues que por el hecho de hacer converger varias disciplinas distintas sobre un tema, no está asegurado los rendimientos.
+
+27:57.740 --> 28:00.740
+ A todo contrario, lo que están asegurados son unos despilfarros impresionantes.
+
+28:00.740 --> 28:05.740
+ Es material, ¿verdad? Es de lo que se trata muchas veces. ¿Por qué?
+
+28:05.740 --> 28:12.740
+ Porque en el fondo no es la interdisciplinaría lo que dirige de un modo aleatorio la investigación.
+
+28:12.740 --> 28:17.740
+ Simplemente hay una disciplina directora. Por ejemplo, en este caso es la economía política.
+
+28:17.740 --> 28:23.740
+ Interesa sacar los máximos rendimientos de la exportación del océano.
+
+28:23.740 --> 28:29.740
+ Y entonces esa disciplina directora se convierte en la filosofía de esa ciencia del mar.
+
+28:29.740 --> 28:32.740
+ Entonces, la filosofía del mar, todas se suporían a ello.
+
+28:32.740 --> 28:39.740
+ Y por interesantes que sean las investigaciones geológicas que dan fuera de lugar si no tienen una conexión directa con esa ciencia.
+
+28:39.740 --> 28:41.740
+ Entonces, siempre hay una disciplina directora.
+
+28:41.740 --> 28:53.740
+ En el caso de la música, si repartimos las disciplinas de entorno que llamamos,
+
+28:53.740 --> 28:58.740
+ vamos a distinguir a continuación disciplinas de entorno y de dintorno,
+
+28:58.740 --> 29:06.740
+ distinción que está de hecho practicada cuando se habla en la exposición Musicología,
+
+29:06.740 --> 29:10.740
+ suele distinguir ciencias e historia de la música.
+
+29:10.740 --> 29:20.740
+ O también disciplinas de ejecución, de performance, disciplinas sobre la música.
+
+29:20.740 --> 29:26.740
+ Por ejemplo, la práctica musical, la enseñanza musical, la composición musical,
+
+29:26.740 --> 29:31.740
+ que son disciplinas de entorno, perdón, de dentro de la música.
+
+29:31.740 --> 29:43.740
+ Quien hace una sinfonía está haciendo algo parecido al que en química construye una piratómica,
+
+29:43.740 --> 29:51.740
+ haciendo una obra de arte, una obra maestra, pero es obra de arte, no es obra de ciencia o de tecnología científica.
+
+29:51.740 --> 30:00.740
+ Puede servir de tesis doctoral, un individuo que tenga una pila como Fermi,
+
+30:00.740 --> 30:05.740
+ pero aquello es una tesis doctoral, que hace una tesis doctoral, que es la construcción de una pila tómica.
+
+30:05.740 --> 30:16.740
+ Pero quien compone una sinfonía puede ser tesis doctoral, aunque traer la obertura académica de Brans, por ejemplo,
+
+30:16.740 --> 30:24.740
+ que además para un doctorado que se la hicieron, aquello es una tesis doctoral, aquello es una investigación.
+
+30:24.740 --> 30:32.740
+ Entonces hay cuestiones de entorno que son las que tienen que ver con el dentro de la música,
+
+30:32.740 --> 30:37.740
+ que son, principalmente, la teoría de la armonía, todo lo que tiene que ver con la ejecución,
+
+30:37.740 --> 30:43.740
+ con el dominio de los instrumentos, todo eso es de entorno, eso es técnica, es la técnica musical, la teoría musical interna.
+
+30:43.740 --> 30:54.740
+ Y es lo que se cursa en los conservatorios, además, que es donde se sabe utilizar los instrumentos y la teoría de esos instrumentos.
+
+30:54.740 --> 30:59.740
+ Ahora, lo que se llama musicología, que se cursa en las facultades de humanidades o parecidas,
+
+30:59.740 --> 31:08.740
+ allí la mayor parte de los profesores no saben, a lo mejor un poco de flauta o un poco de piano, pero no cultivan los instrumentos.
+
+31:08.740 --> 31:13.740
+ Entonces son disciplinas de entorno de la música, que son muy importantes, pero es el entorno de la música,
+
+31:13.740 --> 31:21.740
+ y son muy importantes porque sin ese entorno la música no existiría, porque el entorno es parte también de la propia realidad,
+
+31:21.740 --> 31:30.740
+ como pasa claramente en biología, es decir, la posibilidad de la biología del organismo está en estudiar el medio en el que el organismo vive,
+
+31:30.740 --> 31:37.740
+ es decir, si en el medio de la planta del animal no sería posible explicar la biología del organismo, es imposible,
+
+31:37.740 --> 31:44.740
+ en termodinámica lo mismo, es imposible explicar un sistema termodinámico si tienen en cuenta el entorno del sistema.
+
+31:44.740 --> 31:55.740
+ El entorno de la música interna es la historia de la música, la comparación con otras artes, el entorno, la sociología, la psicología, etc.
+
+31:55.740 --> 32:00.740
+ Entonces el entorno de la música, y esto es imprescindible para que la música funcione y existe,
+
+32:00.740 --> 32:09.740
+ pero las ciencias que se engloban bajo el nombre de musicología son ciencias de entorno, no de entorno,
+
+32:09.740 --> 32:18.740
+ y estas ciencias tienen también sus metodologías propias, por ejemplo la historia de la música será de toda historia,
+
+32:18.740 --> 32:24.740
+ la sociología de la música será de toda sociología, la psicología es psicología,
+
+32:24.740 --> 32:29.740
+ es decir, no por aplicarse a la música dejarán de ser psicología o sociología, etc.
+
+32:29.740 --> 32:40.740
+ De manera que entonces ¿qué ocurre? que aquí al designar un nombre en musicología se da la impresión o se quiere sugerir,
+
+32:40.740 --> 32:48.740
+ y hay multitud de ejemplos, yo ayer estuve buscando dos zonas en tratados generales de música, en encyclopedias,
+
+32:48.740 --> 33:00.740
+ ahí tienes los organigramas de la distribución en Alemania, donde sea, del plan de estudios, de estudios músicos y musicológicos,
+
+33:00.740 --> 33:10.740
+ lo curioso es, y esto ya es el inri, que entre las diferentes, un árbol o un organigrama pintan un cuadrito,
+
+33:10.740 --> 33:18.740
+ sociología de la música, tal tal tal, praxis de los instrumentos, etc., y en otro cuadrito ponen filosofía de la música,
+
+33:18.740 --> 33:29.740
+ ahí se demuestra la absoluta falta de rigor, porque por definición la filosofía de la música no pueden ponerla alineada con las otras disciplinas científicas,
+
+33:29.740 --> 33:35.740
+ por tanto ¿qué quiere decir? que si la filosofía de la música la consideran como un departamento más de lo otro,
+
+33:35.740 --> 33:44.740
+ es porque están entendiendo por filosofía algo que no es filosofía, como puede ser las opiniones, por absurdas y disparaturas que sean,
+
+33:44.740 --> 33:50.740
+ que ha habido sobre la filosofía, que conviene que el profilinario de la música las conozca, pues hombre, por tenerlas en la cabeza,
+
+33:50.740 --> 33:59.740
+ porque ¿cómo va a ser un gran directo de orquesta o simplemente un músico que no haya habido que hablar de Philola o de Schopenhauer,
+
+33:59.740 --> 34:09.740
+ que ha tenido que hablarla casi por cultura general y más siendo músico, pero entonces es un concepto de filosofía ya reducida a dosografía.
+
+34:09.740 --> 34:22.740
+ Y ese es el test que a mí me demuestra que está completamente arruinado el sistema de ideas generales de esos asuntos,
+
+34:22.740 --> 34:27.740
+ el hecho de poner, al lado de todas las demás matices, poner la filosofía como si fuera una disciplina más,
+
+34:27.740 --> 34:34.740
+ ojalá que lo fuera, porque tendría entonces la seguridad que tienen las otras, pero precisamente su plano es distinto
+
+34:34.740 --> 34:39.740
+ y por tanto no puede ponerse para bien o para mal al mismo nivel, a la misma línea.
+
+34:39.740 --> 34:49.740
+ Entonces la idea de la interdisciplinaridad ya contiene, de hecho, ejercitativamente la idea de filosofía,
+
+34:49.740 --> 34:55.740
+ porque en el momento que uno se pregunta, bueno, ¿y qué tiene que ver la psicología de la música?
+
+34:55.740 --> 35:01.740
+ Es decir, si alguien ya domina un instrumento con trate de armonía, conoce la historia de la música,
+
+35:01.740 --> 35:05.740
+ ahora empieza a estudiar psicología de la música, bueno, ¿y qué tiene que ver eso con la música?
+
+35:05.740 --> 35:13.740
+ Pues la interpretación de esa conexión, esto ya tiene o obliga a respuestas filosóficas, y así sucesivamente.
+
+35:13.740 --> 35:20.740
+ Es decir, la propia palabra interdisciplinaridad ya supone que parece que es la solución del problema, es precisamente lo que produce el problema.
+
+35:20.740 --> 35:28.740
+ Ahí está uno de los puntos más interesantes y más difíciles de captar, porque estos señores no se dan cuenta de esto,
+
+35:28.740 --> 35:31.740
+ es que no tienen ni noción de de dónde están hablando, ¿verdad?
+
+35:31.740 --> 35:35.740
+ Es decir, no es que es interdisciplinaria, pero si es el problema, señor mío, el problema es la interdisciplinaria.
+
+35:35.740 --> 35:42.740
+ ¿Por qué razón al mismo tiempo usted no trae aquí a un técnico de hormigón armado o lo que fuera, verdad?
+
+35:42.740 --> 35:45.740
+ Hombre, es que no tiene nada que ver, bueno, ¿por qué tiene que ver?
+
+35:45.740 --> 35:52.740
+ Porque es que la conexión no se ve, ya sabemos que hay conexión, pero ¿qué tiene que ver?
+
+35:52.740 --> 36:02.740
+ ¿Qué tiene que ver la…? Se discutió mucho en Asturias, recordaron ustedes hace unos meses, o el año pasado fue,
+
+36:02.740 --> 36:09.740
+ una bronca que hubo entre médicos y un físico, Brou, hijo del famoso Brou,
+
+36:09.740 --> 36:14.740
+ que había dado unas fórmulas matemáticas para la investigación del cáncer.
+
+36:14.740 --> 36:21.740
+ Claro, la bronca era tremenda, claro, porque es que la cuestión es que, desde fuera decían,
+
+36:21.740 --> 36:24.740
+ es que vamos, ¿por qué razón la interdisciplinariedad?
+
+36:24.740 --> 36:30.740
+ Y además se defendía, es que es interdisciplinar, ¿por qué razón los médicos tienen que cerrarse en la fisiología
+
+36:30.740 --> 36:34.740
+ y no admitir lo que tienen? Pues por nuestra propia naturaleza de oficio,
+
+36:34.740 --> 36:42.740
+ porque realmente, hasta que no se demuestre la conexión, por muchas fórmulas matemáticas que aquí nos entreguen,
+
+36:42.740 --> 36:48.740
+ el cáncer tiene otras formas de investigación, ya que yo, al sumo, podría estar subordinado totalmente
+
+36:48.740 --> 36:52.740
+ a nuestros métodos, pero de ningún modo puede sustituir a nuestros métodos.
+
+36:52.740 --> 36:56.740
+ Es decir, lo que no se entiende es la forma de articulación.
+
+36:56.740 --> 37:00.740
+ Y entonces la interdisciplinariedad no es la solución, es el problema.
+
+37:00.740 --> 37:04.740
+ No se dice que no tiene nada que ver, se dice que hay que explicar por qué tiene que ver.
+
+37:04.740 --> 37:08.740
+ Y cuando tiene que ver ya deja de ser interdisciplinar, porque entonces está en…
+
+37:08.740 --> 37:13.740
+ O bien se resuelve una en otra, otra en una, o en un tercero, pero directamente no se resuelve nada,
+
+37:13.740 --> 37:16.740
+ porque son categorías diferentes, esa es la cuestión.
+
+37:16.740 --> 37:24.740
+ Y entonces es la misma dificultad en otro orden todavía más, pero también en todo, esto pasa en todo.
+
+37:24.740 --> 37:33.740
+ La paradoja de que alguien que es un gran conductor de Fórmula 1, vamos por caso, ya que estamos aquí Alonso,
+
+37:33.740 --> 37:39.740
+ sin embargo puede darse el caso, en principio, de que no sepa lo que es una dinámica,
+
+37:39.740 --> 37:43.740
+ o que no sepa nada, pero que no entiende nada de mecánica, sin embargo sabe conocir.
+
+37:43.740 --> 37:50.740
+ Puede darse el caso de que un pianista consumado, pues no sepa nada de física del piano, ni siquiera lo…
+
+37:50.740 --> 37:55.740
+ Hombre, de hecho no se da, porque por mi me ha ocurrido que te hagas abrazo alguna vez,
+
+37:55.740 --> 38:00.740
+ o ahora visto como la final y tal, pero puede ocurrir.
+
+38:00.740 --> 38:04.740
+ El problema es que no tiene nada que ver una cosa con la otra, o viceversa,
+
+38:04.740 --> 38:10.740
+ que un individuo que es organero y que sabe construir órganos, eso no le garantiza que sea buen organista,
+
+38:10.740 --> 38:14.740
+ pero si yo he hecho el órgano, bueno, pero usted no sabe tocarlo, o que lo haya fabricado.
+
+38:14.740 --> 38:19.740
+ Es decir, hay dos planos totalmente distintos, son planos totalmente distintos, están ligados,
+
+38:19.740 --> 38:24.740
+ claro que están ligados, pero ¿por qué?, ¿cómo se pasa de una cosa a la otra?, ese es el asunto.
+
+38:24.740 --> 38:32.740
+ Entonces, ¿cómo dos categorías distintas que están involucradas, sin duda, pero están científicamente involucradas?,
+
+38:32.740 --> 38:38.740
+ ¿cuáles son los nexos conceptuales de involucración?, de eso se pregunta y eso está en relación con los métodos.
+
+38:38.740 --> 38:49.740
+ Bueno, y entonces pasamos ahora ya a la idea de estética musical, que pretende ser, pues un hombre,
+
+38:49.740 --> 38:56.740
+ otro hombre que un poco, pues, tapa esto de musicología y de ciencia de la música,
+
+38:56.740 --> 39:01.740
+ porque si se dice ciencias de la música, bien, habría que decir ciencias sobre la música,
+
+39:01.740 --> 39:10.740
+ pero ciencias de la música, cuando se dice estética musical, ya parece que ya estamos en otro plano,
+
+39:10.740 --> 39:20.740
+ pues, apelando a un hombre ya consagrado, desde Baumgarten, y por tanto estética musical, parece que dice algo,
+
+39:20.740 --> 39:24.740
+ bueno, pues yo les desafío a ustedes que me digan qué es eso de la estética musical.
+
+39:24.740 --> 39:32.740
+ La estética musical es un puro nombre absolutamente vacío, totalmente vacío, porque, primero,
+
+39:32.740 --> 39:42.740
+ si la estética en general, tal como la planteó Baumgarten y después toda la moda que ha sido después de Kant,
+
+39:42.740 --> 39:53.740
+ dice Richter, por ejemplo, famoso Richter, pues, cada año que pasa en Alemania aparece un libro de estética musical,
+
+39:53.740 --> 39:58.740
+ o de estética del arte, y de musical también, y dice, esto seguramente es debido,
+
+39:58.740 --> 40:06.740
+ a que como han asistido todos a clases de estética, de la estética de Hegel o de Schelling, etc.,
+
+40:06.740 --> 40:11.740
+ y han tenido que pagar por la clase, pues quieren reembolsarse lo que han pagado,
+
+40:11.740 --> 40:15.740
+ y entonces escribe un libro de estética para ver si se aclaran así algo, ¿verdad?
+
+40:15.740 --> 40:22.740
+ Y entonces, hay tal cantidad de estéticas del arte y musicales en aquello siglo, y luego sí ya está nosotros, ¿verdad?
+
+40:22.740 --> 40:30.740
+ Y entonces, una de dos, o esa estética musical se mantiene en un nivel, en el nivel clásico,
+
+40:30.740 --> 40:36.740
+ en el nivel de Schelling, de esto, en el nivel filosófico, donde se habla de Lobello y cosas de ese tipo, ¿no?
+
+40:36.740 --> 40:44.740
+ Y entonces eso va a la metafísica necesidad, y de hecho, la estética musical, o la estética del arte,
+
+40:44.740 --> 40:50.740
+ fue orientándose hacia el positivismo, es decir, hacia la psicología, en el caso de Helmholtz,
+
+40:50.740 --> 40:58.740
+ de tratar de determinar cuáles eran los mecanismos por los que el arte era apreciado o no apreciado, o la sociología,
+
+40:58.740 --> 41:06.740
+ y sobre todo, a eliminar la idea de estética como teoría de todas las artes, que es la idea clásica,
+
+41:06.740 --> 41:11.740
+ la teoría de Hegel, etc., la teoría de Croce, la unidad de las artes,
+
+41:11.740 --> 41:18.740
+ y en lugar de esto, ir haciendo estética de cada arte, estética de la escultura, estética de esto,
+
+41:18.740 --> 41:25.740
+ y convertir a la estética en un estudio de la estilística de cada arte, de la estilística musical,
+
+41:25.740 --> 41:33.740
+ de cada arte, sobre todo, histórico o comparativa, en cuyo caso ya vuelve a ser otra vez una ciencia de entorno de nuevo,
+
+41:33.740 --> 41:39.740
+ otra cosa técnica, pero ya no es las pretensiones de la estética como una disciplina que engloba todas las artes
+
+41:39.740 --> 41:41.740
+ y la música en general, ese es el asunto.
+
+41:41.740 --> 41:49.740
+ De manera que entonces yo lo que quiero subrayar es que estos grandes nombres de grandes pretensiones,
+
+41:49.740 --> 41:53.740
+ como es estética, musicología, etc., son vacíos, son contradictorios,
+
+41:53.740 --> 42:01.740
+ sencillamente encierran componentes que no casan directamente entre sí, que hay que analizarlos sencillamente,
+
+42:01.740 --> 42:07.740
+ que se llenan a la boca a la gente, pero luego en el fondo es una enciclopedia,
+
+42:07.740 --> 42:12.740
+ una enciclopedia mejor preparada, que yo no digo que sea inútil, pero es una enciclopedia de cosas,
+
+42:12.740 --> 42:19.740
+ una especie de diccionario donde te van poniendo los diferentes y luego cada uno los casa como el cero de la entidad,
+
+42:19.740 --> 42:24.740
+ pero no hay el menor nexo interno de desarrollo en esas partes.
+
+42:24.740 --> 42:29.740
+ En cuanto a la investigación, ya voy a ir acabando,
+
+42:29.740 --> 42:37.740
+ pues la investigación suele entenderse, esto es muy curioso y aquí también inciden en ello,
+
+42:37.740 --> 42:43.740
+ y citan mucho algunas obras que están hoy día muy de actualidad,
+
+42:43.740 --> 42:49.740
+ el libro blanco de las facultades de artes de la Facultad de Artes de Barcelona,
+
+42:49.740 --> 42:53.740
+ donde yo por cierto he estado muchas veces, ya conozco al autor,
+
+42:53.740 --> 43:01.740
+ precisamente porque los conozco hablo del asunto, donde están completamente en la inopia, por así decirlo,
+
+43:01.740 --> 43:09.740
+ son problemas pláticos que tienen que afrontar, y entonces dicen investigación,
+
+43:09.740 --> 43:12.740
+ bueno voy a decirlo de memoria porque no,
+
+43:12.740 --> 43:19.740
+ dice investigación, porque les han encargado del Ministerio que hagan un informe sobre la investigación en música,
+
+43:19.740 --> 43:31.740
+ dice investigación, la mejor definición es aquella que dice, que la atribuyen a un autor inglés o americano,
+
+43:31.740 --> 43:44.740
+ investigación es la inquisición, el inquirir sobre algo siempre que sea público,
+
+43:44.740 --> 43:52.740
+ o sea, una inquisición por algo que sea público es investigación, la cosa tiene bemolas, y se quedan tan tranquilos,
+
+43:52.740 --> 44:01.740
+ entonces uno dice enseguida, bueno entonces, como ahora se llama investigación, yo tengo una nieta,
+
+44:01.740 --> 44:08.740
+ que ahora estos días está hoy en Sevilla, que dice voy a investigar, que le mandan investigar en la escuela,
+
+44:08.740 --> 44:15.740
+ investigar es ir al diccionario a ver lo que significa, lo que significa yo que sé, cualquier palabra, cualquier materia que sea,
+
+44:15.740 --> 44:23.740
+ manzana, voy a investigar, y van al diccionario y hacen un trabajo de investigación, entonces investigar es esto,
+
+44:23.740 --> 44:35.740
+ y hacerlo público, y luego aclaran, hacerlo público quiere decir que tienen que hacer público los caminos por los que ha seguido la investigación,
+
+44:35.740 --> 44:44.740
+ es decir, no ocultar los métodos, no ocultar los fuentes, con esto ya se salvan un poco, uno que explora algo, da los resultados,
+
+44:44.740 --> 44:49.740
+ pero omite los caminos que se han llegado a ellos, eso no es investigación, tiene que publicar las fuentes,
+
+44:49.740 --> 44:54.740
+ bueno pero un niño de esto que he citado, podría también decir, las fuentes de las investigaciones que he mirado,
+
+44:54.740 --> 45:04.740
+ la diciclopedia tal y cual y cual verdad, es decir, con este coneto de investigación, pues se creen ya que han agotado el campo,
+
+45:04.740 --> 45:12.740
+ y claro la cosa es mucho más complicada, no voy a intentar tampoco aquí hablar de este asunto que es muy largo,
+
+45:12.740 --> 45:15.740
+ pero un poco para indicar por donde iría el asunto.
+
+45:15.740 --> 45:24.740
+ Este coneto genérico de investigación, que nadie niega, el sentido vulgar, lo que te dice el Líder de la Academia,
+
+45:24.740 --> 45:34.740
+ la investigación es inquisición, es interesarse por algo que presenta problemas, que no se domina a primer momento,
+
+45:34.740 --> 45:41.740
+ que en fin, algo que parece que está enredado, que hace falta saber de dónde viene, a dónde va, cuál es su estructura, investigación.
+
+45:41.740 --> 45:54.740
+ Pero este coneto de investigación está pensado como una relación directa de un sujeto ignorante a algo que tiene que conocer,
+
+45:54.740 --> 46:03.740
+ es decir, un sujeto en grado cero que va a investigar, entonces se enfrenta directamente con la cosa, con la naturaleza, con la sociedad,
+
+46:03.740 --> 46:08.740
+ entonces voy a investigar la sociedad y la naturaleza, partiendo de cero, esa es la posición de la investigación,
+
+46:08.740 --> 46:15.740
+ alguien que en principio no sabe nada se enfrenta directamente, coge el toro por los cuernos y empieza a decir que es esto,
+
+46:15.740 --> 46:23.740
+ y luego como suelen poner cada vez más la moda americana en las revistas para saber más, para pensarlo más y tener una serie de libros, para saber más.
+
+46:23.740 --> 46:30.740
+ Es decir, se parte de la ignorancia y se dice en la historia de la ciencia, es el propio de Ronaldo,
+
+46:30.740 --> 46:39.740
+ la investigación científica empezó por la curiosidad de los hombres primitivos que querían saber, querían saber,
+
+46:39.740 --> 46:42.740
+ entonces inquirían lo que querían saber.
+
+46:42.740 --> 46:52.740
+ A mi juicio este cuento de investigación es puramente genérico y por tanto es inútil para definir la investigación científica,
+
+46:52.740 --> 46:59.740
+ de la que estamos aquí hablando, o académica, como se quiera llamar, es inútil, porque es un cuento completamente rosero y genérico.
+
+46:59.740 --> 47:06.740
+ Y la razón es la siguiente, es que la investigación científica implica ya necesariamente la ciencia,
+
+47:06.740 --> 47:16.740
+ es decir, no parte de cero, no puede partir de cero, tiene que suponer ya un núcleo de la ciencia ya en marcha, por así decir.
+
+47:16.740 --> 47:25.740
+ Y solamente cuando este núcleo de la ciencia está en marcha, solamente entonces se pueden plantear problemas científicos de investigación,
+
+47:25.740 --> 47:35.740
+ para decirlo en términos de euclides. Los problemas vienen después de los teoremas, primero hay un teorema y una vez que está el teorema,
+
+47:35.740 --> 47:43.740
+ entonces viene el problema y antes de que no haya teoremas no hay problemas, el problema ha llegado a cero, no es problema, es un problema mal planteado,
+
+47:43.740 --> 47:50.740
+ los problemas vienen después de los teoremas, es decir, por tanto quiere decir que la investigación científica
+
+47:50.740 --> 47:56.740
+ supone que estamos en una ciencia en marcha y si no hay ciencia en marcha no hay investigación científica, habrá otra investigación.
+
+47:56.740 --> 48:04.740
+ Y esto supone la historia, supone las tradiciones de cada ciencia, de cada disciplina y supone el planteamiento de los problemas
+
+48:04.740 --> 48:14.740
+ y por tanto la investigación tiene que estar enmarcada en una tradición que es científica, con una historia más o menos larga
+
+48:14.740 --> 48:24.740
+ y con un contorno más o menos preciso que es donde se investiga. Y entonces esto tiene mucho que ver con el descubrimiento,
+
+48:24.740 --> 48:35.740
+ el descubrimiento es el resultado de la investigación y entonces parece también que el descubrimiento es un fruto de una investigación,
+
+48:35.740 --> 48:45.740
+ pero el descubrimiento es un fruto de una investigación que partía de un conocimiento previo. Esto demuestra que la ciencia,
+
+48:45.740 --> 48:50.740
+ cuando se habla de la ciencia no se puede hablar en genero, sino que la ciencia tiene muchas fases y unas partes de la ciencia con respecto a otras,
+
+48:50.740 --> 48:56.740
+ que la ciencia es evolutiva y por consiguiente que la investigación no es, para decirlo de un modo rápido,
+
+48:56.740 --> 49:06.740
+ no es el resultado del interés directamente por la naturaleza, por la sociedad, sino que es la propia ciencia ya en marcha,
+
+49:06.740 --> 49:17.740
+ la que desde dentro, como no agota el campo, se desarrolla hacia otras partes, es decir, es el propio crecimiento de la ciencia desde su interior,
+
+49:17.740 --> 49:31.740
+ puesto que el propio crecimiento de una ciencia que está ya, aunque sea embrionaria, necesita desarrollarse su embrión de las formas más variadas que se pueden imaginar.
+
+49:31.740 --> 49:41.740
+ Entonces la investigación es interna a la ciencia, no es una investigación externa, es solamente interna a la ciencia y por eso el que no tenga un dominio mínimo de una materia no puede investigar.
+
+49:41.740 --> 49:54.740
+ Esto lo que veco precisamente en las investigaciones musicales. Entonces, claro, aquí la cuestión central con este sentido de investigación es si la investigación es de entorno o si es de contorno.
+
+49:54.740 --> 50:03.740
+ Esa es la cuestión. Si la investigación en estas materias es una investigación de entorno, ¿hasta qué punto es una investigación,
+
+50:03.740 --> 50:12.740
+ repite el ejemplo anterior, que compone una sinfonía homologable a inventar un aparato nuevo en física?
+
+50:12.740 --> 50:25.740
+ Y claro, aquí la cuestión que sabe centralmente es la cuestión de las pruebas científicas, la capacidad de predicción y las pruebas artísticas o estéticas o musicales en este caso.
+
+50:25.740 --> 50:36.740
+ Es decir, en el caso de la investigación científica las pruebas que suelen tenerse en cuenta, que sea verdadera o no, que sea provisible, y uno de los criterios es la predicción.
+
+50:36.740 --> 50:52.740
+ Es la predicción objetiva que tiene la investigación. Es decir, si alguien ha descubierto algo y predice que en virtud del descubrimiento va a ocurrir tales cosas dentro de tantos años o de un siglo,
+
+50:52.740 --> 51:02.740
+ o de un espacio de tiempo que sea controlable, de 25, de 30, de 40 años, entonces la fiabilidad de esa investigación se funda en las pruebas.
+
+51:02.740 --> 51:12.740
+ Ahora, ¿qué pruebas homologas se pueden aplicar a las obras de arte? ¿Verdad? ¿Qué predicción cabe en las obras de arte? La única predicción es social.
+
+51:12.740 --> 51:20.740
+ Es decir, esta obra de arte, esta sinfonía que se ha escrito yo predigo que va a estar de moda dentro de 100 años o dentro de 50 años.
+
+51:20.740 --> 51:32.740
+ Pero eso no probaría nada. Hombre, sería una predicción muy importante de puertorriz económico para los editores, para los gestores de salas de audición, por supuesto.
+
+51:32.740 --> 51:40.740
+ Sería una predicción importante económicamente, pero no sería una predicción artística, sería también de entorno, puramente. La predicción sería totalmente diferente.
+
+51:40.740 --> 51:50.740
+ Quiero decir que los valores de unos y otros son totalmente diferentes, pero en cambio las investigaciones de entorno,
+
+51:50.740 --> 52:00.740
+ pues sí que en cuanto siguen las metodologías más o menos afinadas en cada disciplina, sí que pueden tener el mismo valor que las otras.
+
+52:00.740 --> 52:11.740
+ Una investigación de historia de la música puede tener la misma fiabilidad que una investigación de historia de la arquitectura o de historia de las vías públicas.
+
+52:11.740 --> 52:17.740
+ Es una investigación histórica e incluso si es una investigación estilística comparada, exactamente lo mismo.
+
+52:17.740 --> 52:22.740
+ Y entonces este tipo de investigaciones son ya homologables.
+
+52:22.740 --> 52:38.740
+ Para terminar definitivamente, la teoría del cielo categorial, que no puedo exponérsela, y que en el fondo simplemente aquí se manifiesta como la teoría del espacio nocielógico que llamamos,
+
+52:38.740 --> 52:50.740
+ que son el conjunto de todas las figuras que aparecen en las ciencias, distinguiendo del espacio tres ejes, que llamamos el eje sintáctico, el eje pragmático y el eje semántico.
+
+52:50.740 --> 52:57.740
+ El eje sintáctico tiene tres sectores, que son los términos de las relaciones y las operaciones.
+
+52:57.740 --> 53:07.740
+ En aritmética, por ejemplo, los términos son los números, las relaciones son mayor y menor, en aritmética de los números naturales, y las operaciones son las cuatro operaciones racionales.
+
+53:07.740 --> 53:19.740
+ Entonces, el eje semántico tiene tres sectores, que es el sector referencial, el sector fenoménico y el sector estructurado, esencial.
+
+53:19.740 --> 53:24.740
+ Y el pragmático tiene tres sectores a su vez, el autologismo, el realogismo y normas.
+
+53:24.740 --> 53:36.740
+ Lo que quiero decir es que todo este espacio nocielógico puede servir de canalización para clasificar los diferentes tipos de investigaciones que se pueden hacer en estas materias.
+
+53:36.740 --> 53:41.740
+ Puede hacer investigaciones de términos, por ejemplo, sintácticas, investigaciones de términos.
+
+53:41.740 --> 53:52.740
+ Si aquí los términos son elementos o complejos, son sonidos nuevos producidos o generados electrónicamente o étnicamente.
+
+53:52.740 --> 54:06.740
+ Entonces, investigación de nuevos sonidos, como saben ustedes, hay centros en varios sitios en todos los lados, sitios donde se experimenta con nuevos sonidos electrónicos o como sea.
+
+54:06.740 --> 54:16.740
+ Investigaciones de términos, de relaciones, todo tiene que ver con la armonía, qué tipo de relaciones puede haber entre los diferentes sonidos.
+
+54:16.740 --> 54:29.740
+ Investigaciones de operaciones, si las operaciones, nosotros en la teoría del cierre consideramos a los instrumentos científicos como operadores.
+
+54:29.740 --> 54:42.740
+ Por ejemplo, operadores o relatores, por ejemplo, una balanza o un pirómetro óptico, una balanza no son órganos de los sentidos, como decían algunos, por ejemplo.
+
+54:42.740 --> 54:50.740
+ Es que el microscopio o el telescopio es la prolongación de la vista, eso no es teoría de la ciencia.
+
+54:50.740 --> 54:56.740
+ El telescopio o el microscopio son operadores, ¿por qué? Porque transforman, transforman.
+
+54:56.740 --> 55:02.740
+ Una fotografía dada en un legado, en otra la verdad, o en un plano, transforman, es un operador.
+
+55:02.740 --> 55:15.740
+ Y una balanza es un relator, es una relación, por una balanza te sirve para establecer una relación de igualdad o desigualdad entre dos masas, por ejemplo, o entre dos tipos de iluminación.
+
+55:15.740 --> 55:24.740
+ Es decir, que los aparatos físicos, el instrumentario físico-químico son operadores o relatores, ¿por qué no en música?
+
+55:24.740 --> 55:31.740
+ Es decir, un piano es un operador, no es una prolongación de los dedos del piano, porque además no lo es.
+
+55:31.740 --> 55:41.740
+ Es un instrumento, un instrumento, por lo tanto es un instrumento, es un operador para producir otras cosas en la partitura, donde sea.
+
+55:41.740 --> 55:49.740
+ Y entonces la investigación de todos los instrumentos está dentro de estas leyes sintácticas, de estas figuras sintácticas.
+
+55:49.740 --> 56:02.740
+ Las investigaciones del eje semántico, los referenciales, es investigación de las fuentes de los sonidos, de dónde nacen los sonidos, de qué parte nacen los sonidos, de todo lo que sea, de las fuentes reales, materiales.
+
+56:02.740 --> 56:13.740
+ Todo lo que se llama los fenómenos es lo que se llama la fenomenología, fenomenología, es un nombre ya recibido en la investigación musical o psicológica.
+
+56:13.740 --> 56:26.740
+ Lo que pasa es que aquí la fenomenología está tomada, esto es un ejemplo también muy interesante, la fenomenología está tomada, así suelta, aislada, y el autor,
+
+56:26.740 --> 56:35.740
+ pues porque haya leído a Langer o lo que fuera, pues dice fenomenología, pero claro, la fenomenología es algo que no tiene sentido más que marcar en un sistema.
+
+56:35.740 --> 56:41.740
+ Porque ¿qué está haciendo? Fenomenología de Husser, fenomenología del espíritu de Hegel, pero ¿de qué está hablando usted? Fenomenología.
+
+56:41.740 --> 56:51.740
+ ¿Qué es eso? Hablan de fenomenología, no digamos como de hermenéutica, porque han leído a Gadame lo que fuera, hermenéutica musical, pero ¿de qué hermenéutica es usted?
+
+56:51.740 --> 57:02.740
+ Es decir, que todos estos términos, como fenomenología, hermenéutica precisamente, que tanto se emplean en música, pues son métodos de investigación llamados,
+
+57:02.740 --> 57:13.740
+ que están dentro de sistemas que han sido extraídos de ese sistema y se utilizan gratuitamente y no significan nada, el sentido de que a cualquiera dáselo.
+
+57:13.740 --> 57:23.740
+ Entonces por eso yo quería hacer simplemente un llamamiento a un mínimo de rigor, para que cuando se emplean estos términos se sepa de dónde viene y qué quiere decir.
+
+57:23.740 --> 57:33.740
+ Bueno, vamos a terminar ya, porque esto es infinito ahora y porque yo no estoy en condiciones como para… porque mi instrumento vocal está completamente ya arruinado.
+
+57:33.740 --> 57:56.740
+ Bueno, bueno, bueno. No hay que nada, hasta mañana, pues.
+

@@ -1,0 +1,1433 @@
+WEBVTT
+
+00:00.000 --> 00:23.280
+ Muy bien, buenos días.
+
+00:23.280 --> 00:31.200
+ Vamos hoy a hacer la sesión, según he hablado con algunos de los organizadores, en dos sesiones.
+
+00:31.200 --> 00:35.920
+ Vamos a partirla para evitar sesiones tan largas que al parecer no son convenientes.
+
+00:35.920 --> 00:41.600
+ De manera que después de una hora hacemos una pausa, una hora aproximadamente, depende de la materia, ¿no?
+
+00:41.600 --> 00:45.200
+ Y luego continuamos.
+
+00:45.200 --> 00:52.080
+ Y al final también vamos a hacer un coloquio, porque parece ser que conviene,
+
+00:52.080 --> 00:56.640
+ que algunas cuestiones se precisen, por ejemplo el otro día me acaban de decir,
+
+00:56.640 --> 01:00.080
+ yo hice una clasificación en tres partes y me olvidé de la tercera, por razones,
+
+01:00.080 --> 01:06.000
+ y entonces claro, pues queda la cosa muy ambigua, y es que esto es un coloquio que lo resuelve enseguida, ¿no?
+
+01:06.000 --> 01:14.320
+ Bien, pues vamos a empezar hoy la segunda parte de este, la segunda sección de esta parte general,
+
+01:14.320 --> 01:22.000
+ que es la central, vamos a la central, que es la ontología de la música, ontología de la música.
+
+01:22.000 --> 01:29.600
+ La cuestión es dificilísima, vamos, se lo anuncio a ustedes, y árida, a más no poder, pero qué culpa tengo yo, ¿verdad?
+
+01:29.600 --> 01:31.760
+ Así es la cosa.
+
+01:31.760 --> 01:38.000
+ Y voy a hacer lo más posible para que pierda toda la alidez imaginable.
+
+01:38.000 --> 01:43.680
+ Otra cosa también, para que se den cuenta de las condiciones en que muevo.
+
+01:43.680 --> 01:50.240
+ Esto de hoy necesitaría cinco o seis horas, así voy a volver,
+
+01:50.240 --> 01:55.200
+ entonces como hay que comprimirlo, esto es a costa de que quedan las cosas muy esbozadas,
+
+01:55.200 --> 02:00.800
+ es decir, que no es autónomo, lo que yo voy a decir no es autosuficiente,
+
+02:00.800 --> 02:04.640
+ pero yo creo que es mejor esto que nada, ¿verdad?, esa es la cuestión.
+
+02:04.640 --> 02:10.880
+ Es decir, que no es autosuficiente, no queda nada aclarado, ni en absoluto queda todo aludido,
+
+02:10.880 --> 02:15.040
+ pero que se va a hacer, es decir, que si no, no podría ser de otra manera.
+
+02:15.040 --> 02:23.360
+ Y luego tiene otra ventaja también, que es lo que ocurre cuando alguien tiene que encontrar
+
+02:23.360 --> 02:28.320
+ un espacio corto para exponer algo, y es que la escala que tomas es rícita,
+
+02:28.320 --> 02:34.720
+ y a veces es ventajosa, a veces dices cosas que a escala más detallas no se dicen.
+
+02:34.720 --> 02:40.480
+ Ayer por ejemplo, aunque si me ocurre no decirlo,
+
+02:40.480 --> 02:46.320
+ ayer hubo una sesión donde Javier Nayda que está aquí presente,
+
+02:46.320 --> 02:50.560
+ tuvo que hacer un resumen en diez minutos del materialismo filosófico,
+
+02:50.560 --> 02:56.160
+ y demostró realmente esto, cómo en diez minutos se pueden decir buenas cosas que no se dicen en tres horas,
+
+02:56.160 --> 03:02.240
+ no se pueden decir, es decir, que tampoco es que haya que decir qué pena, no es que sea así,
+
+03:02.240 --> 03:06.240
+ entonces es una escala distinta sencillamente, pero que no es autosuficiente.
+
+03:06.240 --> 03:13.760
+ Como por otra parte, estas cuestiones son de máxima actualidad y son utilizadas por todo el mundo,
+
+03:13.760 --> 03:17.920
+ constantemente se habla de ontología y de cosas de ese tipo, constantemente,
+
+03:17.920 --> 03:25.760
+ pues como realmente muchas veces como veremos de formal, de material, todas esas cosas se hablan constantemente,
+
+03:25.760 --> 03:32.880
+ como están utilizadas de un modo asistemático y de un modo totalmente impreciso,
+
+03:32.880 --> 03:37.440
+ entonces la gente cree que dice algo y no dice nada, es la cuestión, o por lo menos no sabemos lo que dice,
+
+03:37.440 --> 03:47.280
+ y el objetivo mío es tratar de perfilar, de delimitar en lo posible lo que decimos desde un sistema determinado,
+
+03:47.280 --> 03:54.880
+ claro, porque si no es imposible determinar nada, es imposible, es decir, si partimos de premisas cero no hay nada que decir,
+
+03:54.880 --> 04:00.160
+ absolutamente nada, en ningún lado, en ningún lado, entonces hay que suponer un conjunto de premisas
+
+04:00.160 --> 04:05.440
+ y solamente desde entonces se puede decir algo con cierta claridad, lo cual no quiere decir que lo que digamos sea artículo de C,
+
+04:05.440 --> 04:10.160
+ quiere decirse que se trata de obtener alguna claridad de concepto, sencillamente, ¿verdad?
+
+04:10.160 --> 04:21.840
+ Y por eso intentamos redefinir desde estos conceptos los conceptos habitualmente utilizados de forma, materia, de ontología y cosas de metafísica,
+
+04:21.840 --> 04:32.640
+ y no es que sea una cuestión de otras cuestiones, ¿verdad?, entonces, en esta sección, los dos artículos que vamos a hablar hoy,
+
+04:32.640 --> 04:39.840
+ el artículo primero, segundo del programa que se les repartió el primer día, primero que entendemos por ontología de la música,
+
+04:39.840 --> 04:47.040
+ ya repito, ontología de la música, muchos hablan de esto, pero no saben de qué quieren hablar,
+
+04:47.040 --> 04:55.440
+ entonces se trata de dar una definición lo más precisa posible desde nuestras coordenadas de qué entendemos por ontología de la música,
+
+04:55.440 --> 05:03.040
+ para mostrar que se trata de cuestiones muy precisas, que no son vagas, que son cuestiones muy precisas, muy difíciles también.
+
+05:03.040 --> 05:13.840
+ Y el artículo segundo, que es la cuestión central de todo el curso, vamos yo por mi parte lo que tengo que decir es la cuestión central,
+
+05:13.840 --> 05:24.640
+ es la idea de categoría, la idea de categoría aplicada a la música, esto es el centro de la ontología de la música tal como la entendemos,
+
+05:24.640 --> 05:34.640
+ la idea de categoría, esto es el centro completamente, entonces, claro, la idea de categoría es tan importante que, a mi juicio,
+
+05:34.640 --> 05:43.440
+ en una materia como esta, tampoco se puede dar por supuesta, hay que comprometerse, decir bueno, ¿qué entendemos por categoría?, ¿verdad?,
+
+05:43.440 --> 05:51.440
+ ¿y contra qué nos oponemos?, ¿y de qué estamos hablando?, porque solamente entonces tiene sentido los problemas que vamos a plantear en función de este concepto,
+
+05:51.440 --> 06:03.040
+ que no son nuevos a esta cuestión, que no son inauditos, son conceptos tradicionales, por eso me he preocupado por aquí de poner cuestiones de ontología
+
+06:03.040 --> 06:15.840
+ planteadas tradicionalmente para que se vea que no estamos aquí inventando nada, estamos simplemente redefiniendo, y lo mismo pasa con esto, las cuestiones sobre la categoría de la música son cuestiones tradicionales,
+
+06:15.840 --> 06:27.040
+ pero planteadas de un modo tan vago, por ejemplo, cuando se dice la música es autónoma, eso es una frase que se le dice, tiene autonomía, pero autonomía es un concepto político,
+
+06:27.040 --> 06:39.440
+ o jurídico, o moral, que no expresa lo que se quiere decir, que es inconsciente, seriamente, lo que dice, y que tiene un sentido gremial además, autonomía, es decir, el músico es autónomo,
+
+06:39.440 --> 06:48.240
+ no tiene que recibir órdenes ni instrucciones de nadie, en el fondo es una cosa gremial lo que se está haciendo ahí, pero bajo esa idea de autonomía de la música,
+
+06:48.240 --> 06:59.440
+ no dependemos de ninguna otra facultad, ni de ninguna otra institución, ni de ninguna filosofía, la música es autónoma, ese es un concepto que se ve su referencia,
+
+06:59.440 --> 07:10.240
+ cuál es, por supuesto, pero es tan endeble de punto de vista filosófico que necesita ser redefinida, y por eso utilizamos la palabra, el concepto, la idea de categoría,
+
+07:10.240 --> 07:20.240
+ y entonces hay que dar una visión, por rápida que sea, general de lo que es la categoría, porque la categoría de la música cambia completamente de sentido,
+
+07:20.240 --> 07:29.440
+ según el alcance de las categorías que demos a otras artes, o a otras realidades que no son artísticas, o estéticas, o bellas artes, o técnicas, o lo que fuera,
+
+07:29.440 --> 07:41.440
+ es decir, cambia completamente la situación. Bien, vamos a empezar, ¿qué entendemos por ontología de la música? Vamos a ver,
+
+07:41.440 --> 07:51.440
+ dos palabras así generales de información, pero ya dio totalmente, no es suficiente, porque es simplemente para sugerir cuestiones, ¿no?
+
+07:51.440 --> 08:01.440
+ Ontología, lo que llamamos ontología hoy es un término reciente, bueno, relativamente reciente, del siglo XVII,
+
+08:01.440 --> 08:11.440
+ se atribuye a Hago Clenius, un famoso autor de lecciones y tal, que inventó la palabra ontología, y después fue utilizada por Leclerc,
+
+08:11.440 --> 08:21.440
+ Cléricus, y luego consagrada sobre todo por Wolf, por Christian Wolf, del cual fue discípulo vanguarden, precisamente,
+
+08:21.440 --> 08:29.440
+ hablábamos en días anteriores, vanguarden, el creador de la estética, precisamente, llamada noceología, noceología inferior, como lo recuerdan,
+
+08:29.440 --> 08:39.440
+ noceología inferior y la noceología superior, y entonces la definción esta recuerdo que fue la base de la crítica a razón pura de Canada,
+
+08:39.440 --> 08:45.440
+ nada menos, es decir, con todo su galismo, es decir, que en el fondo vanguarden tiene una importancia muy superior a la que
+
+08:45.440 --> 08:51.440
+ a la que uno pueda pensar, como se suele ocurrir en la historia de filosofía, la importancia de vanguarden en toda la estética musical
+
+08:51.440 --> 08:59.440
+ y la teoría de la música en general es, yo creo, que central completamente. Entonces, la idea de Wolf,
+
+08:59.440 --> 09:09.440
+ Wolf es el que consaga, el que sistematiza la idea de ontología, pues distinguiendo la famosa ontología general, bueno, le llamo metafísica general,
+
+09:09.440 --> 09:19.440
+ y luego la metafísica especial, que él la subidió en tres grandes disciplinas, subididas en dos a su vez,
+
+09:19.440 --> 09:27.440
+ la teología natural, la cosmología y la psicología racional. Esto ya es muy conocido y sobre estas tres ideas
+
+09:27.440 --> 09:37.440
+ son las que fundó Canla, la crítica a razón pura, etc. Ahora, todo esto son indicaciones sobre el nombre de la palabra ontología
+
+09:37.440 --> 09:44.440
+ y el sistema al que se refiere. ¿Y por qué aparece la palabra ontología? Es decir, ¿por qué es una palabra tan nueva?
+
+09:44.440 --> 09:51.440
+ Es decir, ¿es que designaba cosas nuevas? Es decir, terrenos incógnitos, inauditos, ¿verdad?
+
+09:51.440 --> 10:02.440
+ O bien era un nombre nuevo para designar materias o tratados que ya venían teniendo lugar desde la antigüedad, concretamente desde Aristóteles.
+
+10:02.440 --> 10:11.440
+ Porque la ontología, por la etimología la palabra es tratado del ser, ¿verdad? El tratado del ser, ontos, el tratado del ser.
+
+10:11.440 --> 10:21.440
+ El ser había sido tratado por Platón y por Aristóteles, sobre todo Metafísica. Y además la Metafísica de Aristóteles,
+
+10:21.440 --> 10:32.440
+ pues como sabrán casi todos, bueno, y también todo esto es discutible, el consenso convencional, aunque hay muchas objeciones al asunto
+
+10:32.440 --> 10:41.440
+ por parte de historiadores, parece ser que Metafísica fue una denominación editorial, digamos, de Andrónico de Rodas,
+
+10:41.440 --> 10:50.440
+ un bibliotecario de los años 70 a.C., relacionado con Cicerón, que coleccionó las obras de Aristóteles,
+
+10:50.440 --> 10:56.440
+ coleccionó los ocho libros de la física y luego encontró un montón de tratados, de trataditos de libros,
+
+10:56.440 --> 11:03.440
+ que no sabía dónde ponerlos y se llamó los que vienen después de la física, Metafísica, los que vienen después de la física.
+
+11:03.440 --> 11:14.440
+ Es decir, que entonces, según esto, la denominación sería puramente clasificatoria, ¿verdad? La palabra no tendría más trascendencia.
+
+11:14.440 --> 11:21.440
+ Se plantean aquí, bueno, ¿y por qué los agrupó a todos ellos? ¿Por qué agrupó a todos ellos en un bloque después de la física?
+
+11:21.440 --> 11:27.440
+ Porque resulta que estos tratados de Aristóteles pues sí tratan de ideas tales como el ser, por supuesto, el ser,
+
+11:27.440 --> 11:37.440
+ el ser, las causas, el todo, cosas de este tipo. Son trataditos sobre ideas diferentes, todos agrupados en nombre de Metafísica.
+
+11:37.440 --> 11:44.440
+ Aproximadamente todos estos tratados que se contienen en los doce libros de la Metafísica de Aristóteles,
+
+11:44.440 --> 11:52.440
+ pues son aquellos sobre los que se trata la ontología. Es decir, el tratado de la ontología de Wolf, pues prácticamente lo vivo,
+
+11:52.440 --> 11:58.440
+ es un conjunto de tratados sobre este tipo, ¿verdad? Es escrito todavía en latín por parte de Wolf.
+
+11:58.440 --> 12:08.440
+ Y entonces la idea de la ontología, pues, que es un hombre nuevo, es decir, ¿por qué ese nombre? Esa es la madre del cordero, esa es la cuestión, ¿por qué ese nombre?
+
+12:08.440 --> 12:18.440
+ Bueno, yo no puedo ni sufrir este asunto porque es curso decir dos palabras completamente dichas ahí, cruzando, de un modo salvaje,
+
+12:18.440 --> 12:22.440
+ para que se vea la problemática que hay, porque ya que no es cuestión de nombres.
+
+12:22.440 --> 12:32.440
+ En general, cuando una palabra nueva, denominación de una disciplina, aparece y sobre todo prospera o se consolida, es por algo.
+
+12:32.440 --> 12:38.440
+ No es por razones puramente económicas o estéticas, es por algo, ¿no?
+
+12:38.440 --> 12:49.440
+ Porque, y generalmente las palabras nuevas no designan territorios sinauditos, como pasa algunas veces, pues qué se yo, con la palabra microbiología, claro,
+
+12:49.440 --> 12:52.440
+ antes del microscopio no había microbiología, de ninguna manera.
+
+12:52.440 --> 13:01.440
+ La rengenología, los rayos X, pues antes de rengen no había rayos X, es decir, que ahí son disciplinas para designar cosas nuevas realmente, ¿no?
+
+13:01.440 --> 13:10.440
+ cosas nuevas. Pero no ocurre así con otras palabras como sociología, sociología, una palabra que inventa Augusto Conte, como saben,
+
+13:10.440 --> 13:20.440
+ y siempre se plantea, bueno, ¿y por qué razón llamar sociología a una disciplina que es tan antigua, pues qué se yo, que desde,
+
+13:20.440 --> 13:31.440
+ pues no sé, desde Heroto, desde Platón, Aristóteles, Genófanes, etcétera, Genofonte, se ha hablado de temas sociológicos,
+
+13:31.440 --> 13:38.440
+ es decir, los temas sobre la familia, sobre el estado, han sido tan tradicionales en toda la tradición filosófica y antropológica,
+
+13:38.440 --> 13:43.440
+ entonces, ¿por qué poner un nuevo nombre? ¿A qué se le viste un nuevo nombre? ¿A una simplificación?
+
+13:43.440 --> 13:46.440
+ Pues no, en el caso de la sociología yo creo que la cosa está bastante clara.
+
+13:46.440 --> 13:54.440
+ El nuevo nombre que Conte introduce, con el positivismo precisamente, sociología,
+
+13:54.440 --> 14:02.440
+ pues supone una reorganización total del sistema de las ciencias, una pretensión de reorganización, bueno, pretensión que además se cumplió.
+
+14:02.440 --> 14:13.440
+ ¿En qué consistía? Pues principalmente que al introducir sociología, lo que hace Conte es eliminar dos disciplinas clásicas anteriores,
+
+14:13.440 --> 14:21.440
+ bueno, totalmente clásicas, primero eliminar la teología, la teología no es una ciencia, ni figura en el conjunto de las ciencias,
+
+14:21.440 --> 14:29.440
+ la teología se convierte en sociología, Dios no es una materia susceptible de ser tratado científicamente,
+
+14:29.440 --> 14:35.440
+ sino simplemente se pueden tratar las creencias de las gentes en Dios, por tanto es sociología.
+
+14:35.440 --> 14:42.440
+ Eliminar la teología y luego eliminar la psicología, la psicología tampoco es una materia científica,
+
+14:42.440 --> 14:48.440
+ y entonces lo que se llama psicología pues ha de ser reducida a sociología o a fisiología,
+
+14:48.440 --> 14:55.440
+ por tanto se elimina todo esto porque el nombre de sociología de Conte es física social, física social a sociología.
+
+14:55.440 --> 15:00.440
+ Entonces, claro, cuando estamos viendo que Conte inventa la palabra sociología, inventa mucho más que una palabra,
+
+15:00.440 --> 15:05.440
+ inventa todo un sistema de una reanudación de la ciencia que es el positivismo, lo que se llama el positivismo,
+
+15:05.440 --> 15:13.440
+ cuya influencia llega hasta nosotros como natural, bueno, totalmente, estamos todavía en esa onda por así decir.
+
+15:13.440 --> 15:24.440
+ Entonces la idea de ontología pasa lo mismo, no es una denominación de materias inauditas en absoluto,
+
+15:24.440 --> 15:29.440
+ es una denominación de materias tradicionalmente trabajadas pero constantemente,
+
+15:29.440 --> 15:39.440
+ es como decir, toda la tradición escolástica, la cantidad de miles de folios y de tomos, de tomazos tremendos,
+
+15:39.440 --> 15:46.440
+ de pergaminos, de cuestiones metafísicas, los compultenses, los colimbricenses, yo qué sé.
+
+15:46.440 --> 15:56.440
+ Todavía recuerdo yo la impresión que me hizo la biblioteca de Sadamanca años 50, cuando empecé a verla
+
+15:56.440 --> 16:03.440
+ y ver la impresión que producía entonces, a mí la que me produjo, ver aquellas hileras impresionantes
+
+16:03.440 --> 16:10.440
+ de colimbricenses y compultenses, ¿verdad? Y claro, ¿de qué tratan estos señores?
+
+16:10.440 --> 16:15.440
+ Yo entonces tenía una formación positivista, del neopositivo de Viena, entonces ¿de qué tratan estos señores?
+
+16:15.440 --> 16:21.440
+ Era una sorpresa, algo tienen que tratar, y tanto es así que me aficioné a ver de qué trataba aquello,
+
+16:21.440 --> 16:27.440
+ un poco como cuando se toca un armón y una vez como suena, entonces te empiezas a ver aquello
+
+16:27.440 --> 16:34.440
+ y te das cuenta que es un mundo completo, entonces me pasé 11 años estudiando escolástica pero con papel y lápiz.
+
+16:34.440 --> 16:40.440
+ Y entonces, claro, y ahí había muchísimas cosas, que solamente por ignorancia decían cosas de frailes,
+
+16:40.440 --> 16:46.440
+ bueno, y le parecía a usted poco, cosas de frailes, ¿verdad? Entonces estaba Santo Tomás o Suárez, nada menos.
+
+16:46.440 --> 16:56.440
+ Pues entonces, ¿de qué trata la ontología y la metafísica y por qué? Bueno, en dos palabras,
+
+16:56.440 --> 17:02.440
+ en dos palabras la cuestión es la siguiente, que se dice ontología por denominación,
+
+17:02.440 --> 17:09.440
+ por etimología de la palabra es, tratado del ser, explicado el ser, ya dijo Aristóteles,
+
+17:09.440 --> 17:17.440
+ precisamente en la metafísica, en el libro VI, el ser se dice de muchas maneras, es decir, el ser tiene muchos sentidos distintos.
+
+17:17.440 --> 17:29.440
+ ¿Y cuáles son las principales? Y Aristóteles dijo, digo abreviendo, las acepciones principales del ser,
+
+17:29.440 --> 17:38.440
+ la palabra ser, la idea de ser, son la sustancia y Dios, según esto la metafísica sería la ciencia de la sustancia,
+
+17:38.440 --> 17:47.440
+ la sabiduría o la ciencia de Dios, la teología. En el fondo la metafísica era esto y así se interpretó constantemente,
+
+17:47.440 --> 17:52.440
+ pero de ahí la ambigüedad desde el principio, ya desde el principio. Entonces, ¿qué pasa?
+
+17:52.440 --> 18:00.440
+ Que la metafísica trata de Dios y de la sustancia, pero claro, ¿la sustancia qué es? Dios es sustancia,
+
+18:00.440 --> 18:06.440
+ las sustancias en Aristóteles son realidades individuales que están fuera de la tierra,
+
+18:06.440 --> 18:12.440
+ por supuesto los astros son sustancias individuales, pero también son sustancias bucefa o alejándolo,
+
+18:12.440 --> 18:19.440
+ es decir, cosas que están en el mundo sublunal. Entonces, el tratado de la sustancia de la metafísica
+
+18:19.440 --> 18:26.440
+ se refiere a algo que está más allá de la física, es decir, el mundo celeste o uránico o divino o sideral,
+
+18:26.440 --> 18:37.440
+ o como se quiera llamar, o bien son cosas del mundo terrestre o del mundo telúrico, de las líneas positivas, del mundo del positivismo.
+
+18:37.440 --> 18:46.440
+ Recordamos que Conte incluso llegó a negar que la química fuera ciencia en su tiempo,
+
+18:46.440 --> 18:53.440
+ y claro que todavía en su tiempo no estaba Mendel Leier, de manera que en cierto modo tenía razón,
+
+18:53.440 --> 19:01.440
+ pero la razón que daba Conte para decir que la química era una ciencia es que no podía de ninguna manera
+
+19:01.440 --> 19:07.440
+ establecerse la composición química de los astros y demás porque no podíamos experimentar con ellos,
+
+19:07.440 --> 19:11.440
+ y el positivismo requería ese contacto directo con la experiencia.
+
+19:11.440 --> 19:26.440
+ Entonces, la idea de la metafísica siempre estuvo oscilando entre una consideración de realidades que están fuera de nuestro horizonte ordinario,
+
+19:26.440 --> 19:32.440
+ de nuestro horizonte doméstico, vamos a decirlo así, experimental, o algo que también se refiere a lo que está dentro,
+
+19:32.440 --> 19:39.440
+ de también las cosas que están dentro de nuestro horizonte, pues también son y existen.
+
+19:39.440 --> 19:43.440
+ ¿De qué trata la ontología entonces, o la metafísica?
+
+19:43.440 --> 19:49.440
+ Bueno, esta discusión fue constantemente arrastrándose durante los siglos.
+
+19:49.440 --> 19:59.440
+ Un episodio importantísimo es el de Domingo Gundisalvo, un tratadista español que vivió en España,
+
+19:59.440 --> 20:07.440
+ escribió en romance como natural, muy influido por los griegos y a través de Avicenna, etc.
+
+20:07.440 --> 20:17.440
+ Y es que Gundisalvo es seguramente el primero que sugiere la necesidad de que cuando se habla de la metafísica general,
+
+20:17.440 --> 20:26.440
+ del ser, no se puede hablar propiamente de Dios, porque entonces si se hablase de Dios todo se subordinaría a la teología.
+
+20:26.440 --> 20:32.440
+ Entonces, se puede hablar del ser en general todavía sin mencionar a Dios, ¿verdad?, sino del ser en general.
+
+20:32.440 --> 20:38.440
+ El problema es cómo se puede hablar del ser en general prescindiendo de las sustancias materiales.
+
+20:38.440 --> 20:44.440
+ Aristóteles ya lo había dicho en la física, si solamente existía la sustancia material, la física sería la metafísica, sería la teología,
+
+20:44.440 --> 20:53.440
+ dice Aristóteles. Entonces, ¿cómo se puede hablar del ser en general sin hablar de las sustancias materiales que son las que vemos,
+
+20:53.440 --> 20:55.440
+ las que tenemos experiencia de ellas?
+
+20:55.440 --> 21:05.440
+ Este problema, que ya digo está presente totalmente en Gundisalvo, que se replantea de nuevo en toda la escolástica española,
+
+21:05.440 --> 21:16.440
+ sobre todo Suárez, que es el primero que escribe Francisco Suárez, el primero que escribe un tratado de metafísica,
+
+21:16.440 --> 21:23.440
+ en principio sin teología, las disputaciones metafísicas se llaman, es el primero, ¿eh?
+
+21:23.440 --> 21:29.440
+ porque, o sea, en tomar la suma teológica, la suma teológica pues es suma teológica, claro,
+
+21:29.440 --> 21:35.440
+ y las cuestiones filosóficas, estrictamente metafísicas, son de ser comentarios a otro, no tratados propiamente,
+
+21:35.440 --> 21:41.440
+ son comentarios Aristóteles o lo que fuera, no me voy a pasar con aberrador, son comentarios,
+
+21:41.440 --> 21:51.440
+ pero un tratado de metafísica, exclusivamente metafísica, prescindiendo de la teología dogmática, aunque haya alusiones a ella, por supuesto,
+
+21:51.440 --> 21:58.440
+ el primero es las disputaciones metafísicas de Suárez, y entonces, y luego Hurtado de Mendoza, otro jesuita,
+
+21:58.440 --> 22:05.440
+ pues también contemporáneo de Suárez, también muy importante en este asunto, donde también estuvieron insistiendo
+
+22:05.440 --> 22:13.440
+ en la idea de un tratado del ser en general, del ser en general, que de algún modo era previo a Dios,
+
+22:13.440 --> 22:18.440
+ aunque el problema es tremendo, bueno, aquí no podemos entrar, la cuestión estaba relacionada sobre
+
+22:18.440 --> 22:24.440
+ si el ser era unívoco, análogo o equivoco, es la cuestión, si la idea del ser es unívoco,
+
+22:24.440 --> 22:32.440
+ entonces, que es lo que Aristóteles se dirige contra Genófanes, cuando dice que el ser es unívoco y por tanto que el ser es uno,
+
+22:32.440 --> 22:37.440
+ que no hay más que un solo ser, la escuela de la ética, por tanto, que todas las cosas son Dios en el fondo,
+
+22:37.440 --> 22:46.440
+ es un modo abstracto de designar el pantheísmo, frente a esta idea unívoco del ser, Aristóteles introduce la analogía del ser,
+
+22:46.440 --> 22:56.440
+ el ser se dice de muchas maneras distintas, pero entonces, esta analogía del ser, que es de atribución o de proporción compuesta,
+
+22:56.440 --> 23:04.440
+ en fin, las discusiones son tremendas, ¿verdad?, santo Tomás mantiene la tesis de la proporcionalidad, la analogía,
+
+23:04.440 --> 23:13.440
+ Suárez introduce la tesis de la atribución, porque a fin de cuentas Dios es la causa del ser y el ser primero analogado,
+
+23:13.440 --> 23:21.440
+ aquí está otra vez la cuestión esta, bien, la situación se empieza a decantar, no a decantarse doctrinalmente,
+
+23:21.440 --> 23:33.440
+ sino diríamos institucionalmente, con la famosa obra del canciller Bacon, cuando divide la filosofía en general,
+
+23:33.440 --> 23:39.440
+ la divide en las dos grandes partes, una filosofía general, que trata de las cuestiones de la metafísica en general,
+
+23:39.440 --> 23:51.440
+ que se llama filosofía general, y después una filosofía especial dividida en tres partes, que él llama de númine, de ómine y de mundo,
+
+23:51.440 --> 24:02.440
+ sobre el númen, sobre el mundo y sobre el hombre, las tres grandes cuestiones o partes de la filosofía moderna, diríamos,
+
+24:02.440 --> 24:12.440
+ y sobre esta clasificación del canciller Bacon es sobre la que establece después Wolf la famosa clasificación,
+
+24:12.440 --> 24:19.440
+ y entonces aparece ya la ontología, aquella filosofía general o metafísica general de Gundisalvo, etc., se llama ya ontología,
+
+24:19.440 --> 24:27.440
+ ontología general, le llamamos nosotros, o metafísica general, y luego habría una ontología especial o metafísica especial,
+
+24:27.440 --> 24:38.440
+ que tendría tres ramas, una la teología, llamada de númine, del númen, de los cancillers Bacon, y esto habría mucho que hablar,
+
+24:38.440 --> 24:46.440
+ pero en fin, omitimos el asunto, de ómine, el tratado de hombre, que aparece por primera vez, un tratado sobre el hombre,
+
+24:46.440 --> 24:58.440
+ y después, pues, sobre el mundo, y sobre estas tres famosas ideas, como decimos, Dios, el mundo, cambiado hombre por alma,
+
+24:58.440 --> 25:09.440
+ el alma, Wolf es el alma, no el hombre, el alma, o el espíritu, sobre estas tres ideas famosas son las que se monta la criticación pura, como decimos,
+
+25:09.440 --> 25:19.440
+ y después, entonces quedan una metafísica especial en tres divisiones, y luego una metafísica general que las envuelve a todas,
+
+25:19.440 --> 25:31.440
+ para terminar este memorándum histórico. Hegel, vamos, también un corte en la historia, Hegel, qué posición ocupa Hegel,
+
+25:31.440 --> 25:39.440
+ qué tanta importancia va a tener en la estética, como vamos a ver, pues que Hegel, yo creo que se podría resumir de este modo la situación,
+
+25:39.440 --> 25:49.440
+ que las tres partes de la antología especial las reduce a dos, y aquí no hay más que dos partes, que son la naturaleza,
+
+25:49.440 --> 25:58.440
+ que viene a ser el antiguo de mundo, y el espíritu, que viene a ser el hombre, no es el hombre de la mente, porque el hombre también es antropología,
+
+25:58.440 --> 26:03.440
+ pero viene a ser el hombre, el alma, el espíritu subjetivo, el espíritu subjetivo, el espíritu absoluto, etc.
+
+26:03.440 --> 26:16.440
+ Allí está la música, allí está el arte, la pintura, etc. Entonces la idea de la sistematición de Hegel es esta, son dos partes nada más,
+
+26:16.440 --> 26:26.440
+ naturaleza y espíritu, envueltas por una parte que las comprende a las dos, que es la parte previa o común,
+
+26:26.440 --> 26:36.440
+ que se llama lógica, que ya no se llama ontología, se llama lógica precisamente, la lógica como tratado del ser, precisamente de la realidad,
+
+26:36.440 --> 26:47.440
+ y entonces la lógica de Hegel es precisamente la antología, la antología de Hegel, es justo decir el giro que ha significado aquí, la posición de Hegel,
+
+26:47.440 --> 26:52.440
+ pero cómo sin embargo se mantiene una correspondencia muy puntual, casi como la evolución, ¿verdad?,
+
+26:52.440 --> 26:59.440
+ cuando hay una transformación de los peces en los anfibios, ¿verdad?, están viendo todos sus miembros que se han transformado,
+
+26:59.440 --> 27:06.440
+ pero la transformación no es gratuita, se ve morfológicamente cómo unos salen de otros, ¿verdad?
+
+27:06.440 --> 27:16.440
+ Y entonces la ontología, la ontología pues realmente no sabemos lo que es, porque la cuestión sigue siendo esta,
+
+27:16.440 --> 27:26.440
+ entonces la ontología en general, que es una parte previa, una parte previa, se puede tratar del ser o de la realidad, al margen de las otras realidades,
+
+27:26.440 --> 27:37.440
+ y además es otra realidad, pero Dios, en las fechas actuales, cómo se puede hablar de Dios como si fuera una realidad más, de ontología especial además,
+
+27:37.440 --> 27:44.440
+ claro porque ese Dios que pertene a la ontología general, que ya no es ontología general, que ya no es el primer alogado, ese Dios puede ser,
+
+27:44.440 --> 27:53.440
+ los astros aristotélicos que eran divinos, ¿verdad?, que son los que producen los sonidos de Pitágoras, la Euridmia, ¿verdad?,
+
+27:53.440 --> 28:02.440
+ que Aristóteles niega, como ya dijimos, que ese Dios no se puede tratar así como si fuera un astro más, eso es evidente,
+
+28:02.440 --> 28:07.440
+ entre otras cosas porque una de las características de la teología, reconocida por toda la escolástica,
+
+28:07.440 --> 28:11.440
+ es que la teología es la única disciplina que tiene que demostrar su propio objeto,
+
+28:11.440 --> 28:16.440
+ tiene que empezar por demostrar la cuestión de ansi Deus, Dios existe, la primera cuestión de la teología,
+
+28:16.440 --> 28:26.440
+ si Dios no está ahí dado, tiene que ser demostrado por la propia teología, eso es una anomalía tan notable que impide tratar las cuestiones a pie de igualdad,
+
+28:26.440 --> 28:33.440
+ entonces es pura ignorancia, sencillamente, del desarrollo histórico de la cuestión, el plantear las cuestiones olvidando estas coordenadas,
+
+28:33.440 --> 28:42.440
+ porque no se sabe por donde vamos, es imposible, porque la única forma, yo creo, la única forma de orientarnos es ver la evolución de estas ideas,
+
+28:42.440 --> 28:47.440
+ cómo han ido evolucionando, tenemos una forma de orientarnos por lo menos relativa.
+
+28:47.440 --> 28:58.440
+ Entonces para terminar, ¿cuál es la posición que desde el punto de vista del materialismo filosófico podemos dar a la cuestión de la ontología?
+
+28:58.440 --> 29:11.440
+ Y aquí llegamos a las coordenadas que lo utilizamos aquí, pues primero negando totalmente, por supuesto, negando totalmente que la ontología general sea una disciplina previa,
+
+29:11.440 --> 29:25.440
+ que se pueda establecer previamente a las ontologías especiales, lo cual no quiere decir que las ontologías especiales puedan también establecerse al margen de la otra,
+
+29:25.440 --> 29:34.440
+ la situación es diferente, si por ejemplo en lugar de ser hablamos de materia, de materia ontológicamente general, como decimos,
+
+29:34.440 --> 29:43.440
+ pues de la materia ontológica general no podemos decir nada, yo por lo menos no puedo decir absolutamente nada, igual que tampoco se puede decir nada del ser,
+
+29:43.440 --> 29:50.440
+ es decir, tampoco es una novedad, es imposible, quiere decir que este problema que se plantea en el materialismo filosófico es el problema tradicional de la metafísica,
+
+29:50.440 --> 30:02.440
+ no se puede decir nada, y luego la metafísica especial, pues tampoco se puede dividir hoy por hoy en esas tres partes, de Wolf, etc.
+
+30:02.440 --> 30:11.440
+ o de Hegel, naturaleza y espíritu, o después naturaleza y cultura, eso es el mito de la cultura, naturaleza y cultura, pero ¿eso qué es?
+
+30:11.440 --> 30:22.440
+ sobre todo hoy sabemos que los animales tienen cultura, uno de los problemas que tenemos que tratar es la música en los animales, un capítulo esencial de la filosofía de la música,
+
+30:22.440 --> 30:31.440
+ es decir, la contraposición de naturaleza y cultura es una contraposición dualista hegeliana típica, de algún modo ficiana, etc.
+
+30:31.440 --> 30:44.440
+ entonces no podemos reconocer, empezar como hechos dados a Dios, al alma y al mundo, es justo decir el alma, ¿verdad? ¿quién es esa señora, verdad? el alma, ¿eso qué es?
+
+30:44.440 --> 30:56.440
+ es imposible tal como está hoy día el estado de las ciencias, es imposible hablar de así, entonces aquí vienen dos perspectivas, dos perspectivas,
+
+30:56.440 --> 31:07.440
+ vamos también a decir de paso esta tecnología que utilizamos hace unos años, pero en fin vamos a decirla de paso, es la perspectiva que llamamos liso lógica,
+
+31:07.440 --> 31:22.440
+ liso lógica, de lisos igual, uniforme, como en español, y la perspectiva morfológica, es una distinción que se aplica a muchas cosas, que es puramente relativa, dos ejemplos rápidos,
+
+31:22.440 --> 31:33.440
+ nada, nada es imposible, es que estoy en los umbrales, umbrales y ha pasado casi una hora, vamos a ver,
+
+31:33.440 --> 31:48.440
+ claro, podría omitir esto, podría omitir esto, pero si lo omito se rompe el hilo, vamos a ver, dos ejemplos,
+
+31:48.440 --> 32:01.440
+ si yo hablo de termodinámica en general, y digo que el sistema termodinámico está constituido por tres variables, volumen, presión y temperatura,
+
+32:01.440 --> 32:15.440
+ entonces estoy empleando una perspectiva liso lógica para hablar de termodinámica, pero si yo hablo de máquina de vapor, de neveras, de termostatos,
+
+32:15.440 --> 32:33.440
+ estoy haciendo morfología de la termodinámica, un ejemplo musical, bueno, improvisado, vamos a ver, si yo hablo de ondas sinusoidales,
+
+32:33.440 --> 32:47.440
+ es decir, los lásers del sonido, donde no hay más que una ondulación sinusoidal pura y además para más hinri que sea todo al mismo tono,
+
+32:47.440 --> 32:59.440
+ entonces es liso lógico, allí no hay morfología ninguna, no hay nada que hacer, pero si empiezo a hablar de timbres,
+
+32:59.440 --> 33:10.440
+ de paquetes de ondas sinusoidales que forman armónicos, que forman timbres, estoy hablando yo, este va de morfología, otro ejemplo, otro ejemplo musical,
+
+33:10.440 --> 33:18.440
+ este quizás sea más directo, recordando a Szenakis y a la música estocástica, si yo hablo de música estocástica,
+
+33:18.440 --> 33:29.440
+ en el sentido de que en un sintetizador o una máquina eléctrica de generador de sonidos empiezo a producir sonidos al azar, pues esto es liso lógico,
+
+33:29.440 --> 33:38.440
+ porque en principio por definición no hay ninguna morfología, sin embargo son sonidos que están ya a una cierta escala,
+
+33:38.440 --> 33:49.440
+ reconocibles como tales, que son parteformados como lo diremos, pero no tienen morfología ninguna, es decir que no son ruidos,
+
+33:49.440 --> 33:58.440
+ ni son infrasonidos, ni son ultrasonidos, es decir que ya tienen morfología de sonidos, pero son liso lógicos.
+
+33:58.440 --> 34:10.440
+ Ahora si yo hablo, como habla Szenakis y demás, de nubes estocásticas en música, o de galaxias estocásticas que se producen estadísticamente,
+
+34:10.440 --> 34:20.440
+ esto ya es una morfología, ya aquello ya tiene una morfología, y sigue siendo estadístico, claro, pero se han producido unas fluctuaciones,
+
+34:20.440 --> 34:28.440
+ unas frecuencias especiales donde ya se diferencian morfológicamente de las otras, entonces es el asunto.
+
+34:28.440 --> 34:32.440
+ Vamos con esta distinción a nuestro caso.
+
+34:32.440 --> 34:40.440
+ Entonces, estamos hablando del mundo de los fenómenos, del mundo en que nos movemos,
+
+34:40.440 --> 34:55.440
+ este mundo en que nos movemos, pues considerado liso lógicamente por el materialismo, se clasifica en tres grandes géneros de materialidad,
+
+34:55.440 --> 35:08.440
+ que llamamos M1 menos M3, que son géneros liso lógicos, es decir, M1 llamamos al conjunto, a la extensión pura, al aspecto físico, mecánico, etc. de la realidad,
+
+35:08.440 --> 35:17.440
+ a las cosas tangibles, visibles, principalmente, esto es muy grosero lo que estoy diciendo, porque también las ondas son M1, pero en fin.
+
+35:17.440 --> 35:30.440
+ M2 se refiere a todo lo que implica experiencia anímica, psicológica de hombres o animales, en la medida que tiene una estructura que no es individual,
+
+35:30.440 --> 35:39.440
+ que es interindividual, superindividual, pero llamamos M2 a este tipo, que también tiene una realidad cualquiera que sea, que tiene unas propiedades distintas de las otras.
+
+35:39.440 --> 35:51.440
+ Y M3 llamamos a un conjunto de materias, de materia, que no es ni una ni la otra, y que se caracterizan por establecer ciertas relaciones, por ejemplo,
+
+35:51.440 --> 36:03.440
+ muy firmes, que están fuera del espacio y el tiempo, mientras que las primeras están en el espacio y en el tiempo, las M2 están sobre todo en el tiempo,
+
+36:03.440 --> 36:09.440
+ en el espacio están de un modo accidental, y las M3 están fuera del espacio y el tiempo.
+
+36:09.440 --> 36:27.440
+ Por ejemplo, la razón doble, geometría proyectiva, las razones dobles, son M3 típicamente, o simplemente cuando damos una definición de cono de revolución,
+
+36:27.440 --> 36:33.440
+ un ejemplo que poníamos siempre hace muchos años, pero que es muy rápido, por eso se me ocurre ahora, cuando dice,
+
+36:33.440 --> 36:42.440
+ el cono de revolución es la superficie que describe un triángulo rectángulo cuando gira sobre uno de los lados, la hipotenusa del triángulo rectángulo.
+
+36:42.440 --> 36:52.440
+ Si alguien pregunta ¿y en cuánto tiempo tarda en producir esto?, la pregunta es estúpida, porque el tiempo ahí queda extraído, cambiando el movimiento.
+
+36:52.440 --> 37:01.440
+ Entonces la idea del cono está fuera del tiempo, no tiene sentido decir en cuánto tiempo tarda, y tampoco en qué lugar, da igual que esté en un lado que el otro,
+
+37:01.440 --> 37:07.440
+ no tiene ningún lugar determinado, aunque ya mi más sea una estructura de carácter extensivo.
+
+37:07.440 --> 37:21.440
+ Entonces, cuando decimos que la ontología especial del materialismo distingue tres materialidades, M1 menos M3, estamos utilizando una perspectiva liso-lógica,
+
+37:21.440 --> 37:31.440
+ porque M1 está tratado de un modo, en principio, uniforme, sin distinguir, distinguiendo pero extrayendo esas distinciones, igual M2 que M3.
+
+37:31.440 --> 37:45.440
+ Ahora, cuando introducimos la perspectiva morfológica, resulta que M1 tiene que ver con el mundo, con el tratado del mundo,
+
+37:45.440 --> 37:56.440
+ M2 tiene que ver con el tratado sobre el alma, y M3 tiene que ver con el tratado sobre Dios.
+
+37:56.440 --> 38:06.440
+ ¿Cómo sobre Dios? Sí, sobre Dios en cuanto a depósito de las esencias, en cuanto a un montón de definiciones de Dios de origen platónico y agustiniano,
+
+38:06.440 --> 38:11.440
+ Dios es el lugar donde están alojadas las ideas eternas, los modelos eternos, etc.
+
+38:11.440 --> 38:16.440
+ Es el Dios de San Agustín, el Dios de San Jerónimo, el de Bohecio, etc.
+
+38:16.440 --> 38:28.440
+ Es el Dios que contiene la música para hacer ver la conexión que tiene con nuestro asunto, que no estamos fuera del asunto, que tiene una música que no se oye.
+
+38:28.440 --> 38:42.440
+ Es ese Dios al que toda esta tradición que viene de los pitagóricos pero incorporada totalmente por todos los padres de la iglesia y otros muchos más,
+
+38:42.440 --> 38:51.440
+ es ese Dios al cual hay que llegar a través de la música pero dejando precisamente todo lo que la música tiene de M1 y M2.
+
+38:51.440 --> 38:55.440
+ Dejando todo eso porque distrae, completamente distrae la iconoclástica en una palabra.
+
+38:55.440 --> 39:06.440
+ Y entonces hay que llegar a un Dios que está todavía San Basilio el Grande en el famoso discurso a los jóvenes sobre el modo de leer los libros antiguos,
+
+39:06.440 --> 39:14.440
+ todavía introduce la idea platónica de la caverna, de que llegamos a las ideas a través de las imágenes de los fenómenos.
+
+39:14.440 --> 39:28.440
+ Es decir, todavía concede alguna beligerancia al placer sensorial de la música pero simplemente en cuanto sombra de algo que está más allá de los sonidos,
+
+39:28.440 --> 39:37.440
+ que son las puras relaciones ideales de los sonidos, por ejemplo de la armonía, de las leyes aritméticas que regirían los sonidos o matemáticas,
+
+39:37.440 --> 39:42.440
+ y que sería la verdadera música, lo demás sería una música de batalla, no música puramente inferior.
+
+39:42.440 --> 39:48.440
+ Y por eso únicamente puede entender la música el que sabe de matemáticas y sabe interpretar la estructura de lo que oye,
+
+39:48.440 --> 39:54.440
+ sino simplemente está oyendo algo más o menos agradable, un arrullo, que aquello es distinto completamente.
+
+39:54.440 --> 40:01.440
+ Es decir que estas son ideas que están completamente implicadas en los temas de la estética musical y demás.
+
+40:01.440 --> 40:17.440
+ Y queda como otra parte la ontología general, es decir lo que llamamos nosotros M, M no menos M, que era la ontología general.
+
+40:17.440 --> 40:23.440
+ ¿Con qué se relaciona esto? Pues evidentemente con el ser, con el noúmen, con lo que se quiera.
+
+40:23.440 --> 40:31.440
+ Se corresponde, no es que sea esto, se corresponde en este ajuste que hacemos en diferentes sistemas filosóficos que es lo que estamos haciendo,
+
+40:31.440 --> 40:37.440
+ no estamos definiendo M1, pero la clave del asunto es esto, ya termino con esto,
+
+40:37.440 --> 40:43.440
+ la clave del asunto es que la materia ontológica general, la ontología general en una palabra,
+
+40:43.440 --> 40:51.440
+ no es algo que se dé previamente a la ontología especial, sino que es el regreso al límite de la propia ontología especial.
+
+40:51.440 --> 40:57.440
+ Este es el punto más central del material filosófico, ya me tengo que parar aquí porque esto es imposible,
+
+40:57.440 --> 41:07.440
+ esto está expuesto con cierta amplitud de los ensayos materialistas, es el punto central del asunto, pero tenemos que pararnos aquí.
+
+41:07.440 --> 41:16.440
+ Entonces, la ontología, y por tanto la ontología para resumir, la ontología especial, la ontología es una ontología especial,
+
+41:16.440 --> 41:21.440
+ pero siempre teniendo en la vista la ontología general, siempre, porque hay un proceso de reglamentación,
+
+41:21.440 --> 41:33.440
+ la ontología especial se ocupa principalmente de tres cuestiones, las cuestiones que se ocupan pueden agruparse en tres rúbricas,
+
+41:33.440 --> 41:44.440
+ la primera se puede llamar cuestiones de constitución, cuestiones constitutivas, lo que llamaban los escolásticos el constitutivo formal de las realidades,
+
+41:44.440 --> 41:50.440
+ incluso decían el constitutivo formal de Dios, decían, el constitutivo formal, las cuestiones de constitución,
+
+41:50.440 --> 41:59.440
+ después cuestiones de estatuto, de relación de una región de la realidad con las otras regiones que conozcamos,
+
+41:59.440 --> 42:03.440
+ y tercero cuestiones de relación entre ambas.
+
+42:03.440 --> 42:15.440
+ Bien, realmente aquí, en este programa que hemos dado, por las cuestiones de constitución abarcan el artículo 2, el 3, el 4, el 5, y el 6, y el 7,
+
+42:15.440 --> 42:20.440
+ y en el 8 las cuestiones de estatuto, a partir del 8, las cuestiones de estatuto.
+
+42:20.440 --> 42:30.440
+ La cuestión central, para abreviar, las cuestiones centrales de constitución, en el caso general, pero en la música en particular,
+
+42:30.440 --> 42:36.440
+ aquí las centramos como cuestiones de categoricidad, es decir, la música es una categoría o no es una categoría,
+
+42:36.440 --> 42:39.440
+ en el sentido que tenemos que decir, esa es la cuestión principal.
+
+42:39.440 --> 42:47.440
+ Lo que llamamos música, el dominio que llamamos música, se define como una categoría o no tiene el rango de categoría,
+
+42:47.440 --> 42:50.440
+ sino que está subordinada a otras categorías.
+
+42:50.440 --> 42:56.440
+ Por ejemplo, aquella cita que hicimos de Suman tantas veces, bueno de Suman porque es muy conocida, pero en fin,
+
+42:56.440 --> 43:02.440
+ la diferencia entre la música, la pintura y la escultura, etcétera, es prácticamente nula,
+
+43:02.440 --> 43:07.440
+ todas tratan de lo mismo y solamente se diferencian de los instrumentos, los materiales que emplean, pero es lo mismo,
+
+43:07.440 --> 43:16.440
+ es decir, son la misma categoría, es la tesis de la unicidad de las artes, las bellas artes, o artes nobles o artes liberales, son todo lo mismo,
+
+43:16.440 --> 43:22.440
+ y son la misma categoría, es la tesis que, sobre todo, Croce, en su famosa estética,
+
+43:22.440 --> 43:29.440
+ se distinguió por defender esta tesis de la unicidad de las artes, que traducía en nuestros términos,
+
+43:29.440 --> 43:33.440
+ que es decir, todas las artes forman una única categoría, las bellas artes.
+
+43:33.440 --> 43:40.440
+ Claro, aquí nosotros vamos a defender lo contrario, precisamente porque este tema de la unicidad de las artes
+
+43:40.440 --> 43:44.440
+ tiene mucho que ver con el monismo y con la metafísica, en el sentido antiguo,
+
+43:44.440 --> 43:54.440
+ y el pluralismo requiere de la simple que es más afecto a la tesis de la categoría de la música, ya veremos cómo.
+
+43:54.440 --> 43:59.440
+ Hay que demostrar y hay que tratar de entender qué entendemos por categoría,
+
+43:59.440 --> 44:02.440
+ si no estamos hablando por hablar, estamos diciendo palabras,
+
+44:02.440 --> 44:10.440
+ hay que entender en qué sentido preciso y capaz de servir para el análisis, entendemos la idea de categoría.
+
+44:10.440 --> 44:18.440
+ Bien, y entonces aquí ponemos cuestiones de ontología planteadas tradicionalmente.
+
+44:18.440 --> 44:25.440
+ Bueno, voy a abreviar y me salto esto y voy a decir sobre el tipo de respuestas ontológicas,
+
+44:25.440 --> 44:28.440
+ vamos a dar una serie de ejemplos de respuestas ontológicas.
+
+44:28.440 --> 44:34.440
+ De lo que son respuestas ontológicas, que están en cualquier tratado de historia de las ideas musicales,
+
+44:34.440 --> 44:40.440
+ que son muy conocidas, que ya las hemos mencionado para indicar de qué estamos hablando.
+
+44:40.440 --> 44:48.440
+ Es decir, respuestas tradicionales a la ontología de la música que encontramos en la dosografía, pero sin cesar.
+
+44:48.440 --> 44:53.440
+ Hemos hablado muchas de ellas y voy a repetirlas en esta perspectiva.
+
+44:53.440 --> 45:01.440
+ Vamos a utilizar la estructuración morfológica de que hablábamos, ¿no?
+
+45:01.440 --> 45:09.440
+ Dios, mundo y alma. Bien, primera cuestión, primera respuesta, es la respuesta qué es la música,
+
+45:09.440 --> 45:12.440
+ desde un punto de vista ontológico, qué es la música.
+
+45:12.440 --> 45:23.440
+ La primera respuesta que se me ocurre de ontología general, es decir, la música es la expresión misma del ser más profundo,
+
+45:23.440 --> 45:29.440
+ del ser más profundo, que es por ejemplo la voluntad, el loúmeno, es la teoría de Schopenhauer, ¿verdad?
+
+45:29.440 --> 45:38.440
+ Es decir, Schopenhauer responde en el fondo, o por lo menos puede responerse así, las famosas tesis y filosofías de Schopenhauer.
+
+45:38.440 --> 45:46.440
+ Para Schopenhauer la música es realmente, la música es esto, la música es la expresión del ser absoluto, tal como lo entiende,
+
+45:46.440 --> 45:50.440
+ que es la voluntad, que está a dos pasos de la nada, del nihilismo, ¿verdad?
+
+45:50.440 --> 45:57.440
+ Y claro, la nada y el ser son las ideas ontológicas generales por naturaleza, ¿no?
+
+45:57.440 --> 46:03.440
+ Entonces, ¿con esto qué quiere decirse? Pues que toda la música que no sea esto, no es música,
+
+46:03.440 --> 46:07.440
+ en el fondo tiene un componente normativo y crítico terrible, ¿verdad?
+
+46:07.440 --> 46:14.440
+ Todo lo que yo creo que llamemos música, la música de concierto convencional o lo que fuera,
+
+46:14.440 --> 46:18.440
+ o de un virtuoso, esto no es música, esto es otra cosa diferente, es una gimnasia, lo que fuera.
+
+46:18.440 --> 46:26.440
+ La música realmente, en cuanto contradistinta de otras artes, es precisamente esto, esta es la tesis de Schopenhauer.
+
+46:26.440 --> 46:32.440
+ Otro tanto, o parecido, pero nosotros lo vemos en la ontología especial.
+
+46:32.440 --> 46:38.440
+ Es cuando se dice que la música tiene, ¿qué es la música? Pues es la expresión, la revelación de Dios,
+
+46:38.440 --> 46:41.440
+ de algún modo, cualquiera que se entiera por Dios.
+
+46:41.440 --> 46:47.440
+ Cuando Beethoven dice la música es una revelación más alta que la filosofía, en el testamento de Heilig,
+
+46:47.440 --> 46:53.440
+ pues esta famosa frase de Beethoven, que está dentro del ambiente hegeleano, etc.,
+
+46:53.440 --> 46:59.440
+ tiene mucho que ver con lo absoluto, con Dios, y la cuestión es la siguiente,
+
+46:59.440 --> 47:06.440
+ que yo no quiero insinuar, ni mucho menos, que estas afirmaciones, pues carezcan de sentido,
+
+47:06.440 --> 47:13.440
+ han sido dichas tantas veces a lo largo de una tradición, siguen hoy mantenidas por muchos,
+
+47:13.440 --> 47:18.440
+ hemos hablado de Hans Hermed, por ejemplo, que de un modo u otro está siempre rondando esta idea,
+
+47:18.440 --> 47:24.440
+ entonces la ruptura de la tónica, de la relación de tónica y dominante es la muerte de Dios, etc.,
+
+47:24.440 --> 47:28.440
+ está siempre rondando estas ideas.
+
+47:28.440 --> 47:34.440
+ Yo no quiero decir, ni creo que sería legítimo decir que esto carezca de sentido,
+
+47:34.440 --> 47:46.440
+ ni siquiera según aquella famosa frase de Sartre, Sartre, S.Z.S.Z., un psicólogo muy curioso, ¿verdad?,
+
+47:46.440 --> 47:59.440
+ que dice, cuando estoy hablando con Dios estoy rezando, cuando Dios habla conmigo estoy esquizofrénico,
+
+47:59.440 --> 48:06.440
+ tesis esta, es decir, cuando yo digo estoy hablando con Dios, bueno estás rezando,
+
+48:06.440 --> 48:12.440
+ pero si digo Dios ha hablado conmigo, estás esquizofrénico, ¿verdad?, esto no significa ateísmo alto,
+
+48:12.440 --> 48:17.440
+ porque un aristotélico puede decir lo mismo, es decir, para Aristóteles Dios no habla con los hombres,
+
+48:17.440 --> 48:23.440
+ ni los conoce siquiera, por tanto un aristotélico, si Aristóteles o cualquier aristotélico auténtico
+
+48:23.440 --> 48:29.440
+ le dicen que Dios está hablando con él, Aristóteles tendría que decir, no diría esquizofrénico,
+
+48:29.440 --> 48:32.440
+ me diría algo parecido, está en mi mente lo que fuera, o a mente, ¿verdad?,
+
+48:32.440 --> 48:38.440
+ y entonces la idea no es ateísmo, es simplemente que no tiene sentido,
+
+48:38.440 --> 48:45.440
+ y ahora sin embargo habría que buscarle el sentido, ¿qué quiere decir?, ¿qué le dicen esto?, ¿qué quiere decir?,
+
+48:45.440 --> 48:52.440
+ sugiero, vamos, simplemente sugiero, ¿verdad?, y lo sugiero, pues acordándome por ejemplo de un libro
+
+48:52.440 --> 48:57.440
+ en tiempos muy famosos, yo lo presté, ya lo perdí, como ocurre con los libros,
+
+48:57.440 --> 49:02.440
+ un libro de Mocler, de Camilo Mocler, que se ha autorizado un libro sobre la historia de la música,
+
+49:02.440 --> 49:08.440
+ y sobre Wagner, etcétera, un libro de los años 30 debe ser, que se llama La religión de la música,
+
+49:08.440 --> 49:14.440
+ y en este libro Mocler describe los conciertos que él ve en París en aquellos años,
+
+49:14.440 --> 49:22.440
+ y describe como la gente va a los conciertos, como va a una ceremonia mística,
+
+49:22.440 --> 49:30.440
+ en donde van a ir, describe muy bien el comportamiento del público, del pianista o de la orquesta,
+
+49:30.440 --> 49:34.440
+ como la revelación realmente de la divinidad, y aquello es una verdad religión,
+
+49:34.440 --> 49:41.440
+ tal como lo escribió, suena muy bien, muy bien, ¿qué quiere decir esto?, pues seguramente algo quiere decir,
+
+49:41.440 --> 49:46.440
+ yo creo, vamos, sugiero, sugiero, por este y otros muchos testimonios que no tengo tiempo de,
+
+49:46.440 --> 49:52.440
+ quiere decir seguramente pues que, efectivamente hay unas reacciones emocionales ante la música,
+
+49:52.440 --> 49:57.440
+ muy conocidas por la parte, que tienen que ver con el éxtasis, con la pérdida de la conciencia,
+
+49:57.440 --> 50:05.440
+ yo he conocido a un, hace muchos años en Madrid, a un ingeniero, amigo de la familia,
+
+50:05.440 --> 50:09.440
+ que cuando ponía la Quinta Sinfonía de Beethoven en aquellos discos de entonces,
+
+50:09.440 --> 50:14.440
+ obligaba a toda la familia a ponerse de rodillas, era un melómano también saltado,
+
+50:14.440 --> 50:19.440
+ que como decía, a ponerse de rodillas, no toleraba que en su presencia se oye aquello así por la mano,
+
+50:19.440 --> 50:25.440
+ y entonces, y le producía realmente una especie de éxtasis, perdía la conciencia ordinaria,
+
+50:25.440 --> 50:32.440
+ o por lo menos bien, por tanto es una actitud muy interesante porque tiene su fundamento,
+
+50:32.440 --> 50:37.440
+ habría que explicar por qué, por qué, y luego por qué se llama esto, divinidad, verdad,
+
+50:37.440 --> 50:41.440
+ pero vamos, pero no es gratuito, quiero decir, no es gratuito, hay una razón,
+
+50:41.440 --> 50:49.440
+ no es simplemente un sinsentido como diría un neopositivista de Viena, no, tiene un sentido, pues conductual.
+
+50:49.440 --> 50:59.440
+ Otra respuesta también que la hemos citado muchas veces, otra respuesta, la música es la revelación del hombre,
+
+50:59.440 --> 51:07.440
+ esta sí que es más curiosa, esta es la teoría de Beethoven, lo de adorno que citábamos el otro día,
+
+51:07.440 --> 51:15.440
+ bueno, y es general, Nietzsche, verdad, sin pesar, es una doctrina, bueno, y actualmente, muy actualmente,
+
+51:15.440 --> 51:24.440
+ pues el otro día vimos otra vez a esta, con motivo de la muerte de Rostropovich,
+
+51:24.440 --> 51:31.440
+ y aquel tigrao que tenían con Menta y demás, verdad, pues aquello, la música es el hombre,
+
+51:31.440 --> 51:36.440
+ la música es la trueta de hacer además unos conciertos de paz universal, de concordia universal,
+
+51:36.440 --> 51:42.440
+ donde a través de los conciertos se va a conseguir la alianza de las civilizaciones de la paz universal, así como suena,
+
+51:42.440 --> 51:49.440
+ esto lo hemos oído antes ayer, y ahí estaba Rostropovich, verdad, con el violonchero y con la reina Sofía en el palco,
+
+51:49.440 --> 51:57.440
+ casi en éxtasis, pero en éxtasis era el hombre, no era Dios, tendría un componente de vino, pero era sobre todo el hombre,
+
+51:57.440 --> 52:02.440
+ porque la música, si sirve para algo es para que unía a los hombres, abrazados en millones de la nueva sinfonía,
+
+52:02.440 --> 52:08.440
+ ¿no?, unía a los hombres, esto sí que es raro, esto sí que es difícil de entender, yo por lo menos no entiendo,
+
+52:08.440 --> 52:16.440
+ tampoco digo que no tenga sentido, lo que pasa es que yo creo que tiene un sentido distinto del sentido anterior,
+
+52:16.440 --> 52:24.440
+ tiene un sentido que ya no es, digamos, místico, estático, sino que tiene un sentido más bien activo, práctico,
+
+52:24.440 --> 52:36.440
+ es como si la megalomanía, verdad, de algunos músicos o intérpretes, fuera tan grande que no se resignasen
+
+52:36.440 --> 52:42.440
+ con quedarse en el recinto del concierto, sino que quieren que todos los hombres vayan al concierto, ¿verdad?,
+
+52:42.440 --> 52:50.440
+ es decir, que todos convertisen realmente en los directores de orquesta de toda la humanidad,
+
+52:50.440 --> 52:56.440
+ y por tanto, desarrollando muchas ideas que sabemos de la importancia que ha tenido la música siempre,
+
+52:56.440 --> 53:05.440
+ en la educación, en la educación política, en la domesticación, en el rigor práctico, es decir, sabemos que el rigor
+
+53:05.440 --> 53:12.440
+ en la conducta práctica en gran parte de vida de los coros, no deriva de la cosa, precisamente el rigor absoluto,
+
+53:12.440 --> 53:17.440
+ porque todo el mundo tiene que cantar a lo unísono, aquello que decía Unamuno, bueno, que se cuenta que decía Unamuno,
+
+53:17.440 --> 53:23.440
+ y ¿por qué desafina usted en el coro?, dice, para que me oigan, ¿verdad?, para que me oigan, claro, sin embargo,
+
+53:23.440 --> 53:29.440
+ si uno está disciplinado, pues no tienes que oirlo, de manera que entonces la educación en este sentido,
+
+53:29.440 --> 53:36.440
+ la educación de la ciudadanía, que dicen ahora, pues vendría muy bien en la música coral, ¿verdad?, para que todo el mundo cante al unísono,
+
+53:36.440 --> 53:47.440
+ y entonces la idea del hombre yo creo que tiene mucho que ver con este asunto, bien, y entonces se entiende perfectamente,
+
+53:47.440 --> 53:53.440
+ es decir, al músico le parece poco, repito, que la música quede en el recinto de la sala de conciertos,
+
+53:53.440 --> 54:00.440
+ o en la audición privada de cada cual, y le interesa que todos los hombres participen,
+
+54:00.440 --> 54:05.440
+ es una especie de imperialismo gremial, de verdad, imperialismo gremial, y lo que es difícil,
+
+54:05.440 --> 54:11.440
+ yo no logro entender qué conexión hay entre la música y la humanidad, sobre todo que no sabes qué es la humanidad,
+
+54:11.440 --> 54:19.440
+ yo no entiendo a qué humanidad te refieres, ¿verdad?, porque habría que incluir también, nada que nos acuerde de Orfeo, a los animales,
+
+54:19.440 --> 54:29.440
+ que sobre todo domesticó a los animales con la música, por tanto también los animales habría que incluirlos en esta cofradía musical universal, ¿verdad?, bien.
+
+54:29.440 --> 54:43.440
+ Y la tercera respuesta, pues es la cósmica, la respuesta cósmica o cosmológica, la música es la revelación del cosmos, la revelación del mundo,
+
+54:43.440 --> 54:53.440
+ es decir, la tradición pitagórica, ¿verdad?, la música de los astros, y como esa tradición también ha sido constante, y lo es ahora,
+
+54:53.440 --> 55:04.440
+ desde Halls, los planetas, hasta Stoichhausen, Sirius, etc., el Sturzlang, de Stoichhausen, es decir, el sonido de las estrellas,
+
+55:04.440 --> 55:11.440
+ eso es una obra de máxima actualidad, allí están constantemente las estrellas funcionando, y no digamos bulé,
+
+55:11.440 --> 55:20.440
+ es decir, que seguramente estas ideas pitagóricas se han reavivado con motivo de los viajes espaciales, después de la guerra,
+
+55:20.440 --> 55:27.440
+ porque todo esto de Stoichhausen y demás es de los años 60 o 70, ¿verdad?, como saben, después de la guerra, cuando empiezan a inventar los generadores,
+
+55:27.440 --> 55:34.440
+ los sincronizadores, etc., y se acuerdan otra vez de los astros, es decir, ¿qué conexión hay con los astros?,
+
+55:34.440 --> 55:42.440
+ bueno, pues yo me atrevería a sugerir, de momento, luego ya me comprometo de más adelante, pero ahora sí me he de sugerir,
+
+55:42.440 --> 55:47.440
+ que esta tercera interpretación, desde el punto de vista del matrimonio, tiene más fundamento que las anteriores,
+
+55:47.440 --> 55:51.440
+ tiene algún más fundamento, hasta dónde nieve esto y esto es cosa diferente, tendremos que averiguar,
+
+55:51.440 --> 56:00.440
+ pero en principio no es disparatada como la serie de las otras anteriores, tiene algún fundamento, por razones obvias, bien.
+
+56:00.440 --> 56:08.440
+ Y para terminar voy a leer unas cosas curiosísimas de una documentación que me ha proporcionado Gustavo Oro Sánchez,
+
+56:08.440 --> 56:17.440
+ que realmente es sorprendente porque era, yo creo que es totalmente desconocido en España actual, porque son, son,
+
+56:17.440 --> 56:25.440
+ vamos a ver si lo tengo aquí, a ver si no lo he traído, sí, sí, está aquí, sí,
+
+56:25.440 --> 56:41.440
+ aquí está aquí, son unos textos cuyo autor firma el desconocido, de manera que ahí nos deja con la curiosidad
+
+56:41.440 --> 56:47.440
+ que por cierto habría que investigar a ver quién es este desconocido, entonces se compromete,
+
+56:47.440 --> 56:57.440
+ digamos él es el que ha sumado unos textos de la Gazeta Literaria y Musical de España, una revista publicada en Madrid,
+
+56:57.440 --> 57:06.440
+ pues hace los años 1840, etcétera, etcétera, aquellos años, en donde hay una serie de críticas curiosísimas en donde se ve
+
+57:06.440 --> 57:14.440
+ la actualidad que tenía en España, la música, las teorías de la música de esta índole, de carácter metafísico,
+
+57:14.440 --> 57:22.440
+ de todo teológico y humanístico, ¿verdad?, la música humanística. Voy a dar algunos trozos porque parece increíble hoy
+
+57:22.440 --> 57:28.440
+ que esto se haya dicho en España hace ya más de un siglo, siglo y medio. Dice por ejemplo,
+
+57:28.440 --> 57:36.440
+ además de una época como la actual, en que la afición a la música hace algunos años llegó a generalizarse por todas las clases
+
+57:36.440 --> 57:43.440
+ hasta rayar en una especie de manía, pocos debieron de ser los que en la mañana del Domingo de Ramos
+
+57:43.440 --> 57:49.440
+ asistieron a la soledad de defunción de la catedral, se refiere a un estreno que habían hecho de don Joaquín Sancho,
+
+57:49.440 --> 57:57.440
+ que se llama Pasio, y que se estrena el Domingo de Ramos, y dice, pocos asistieron a la catedral para que las patéticas armonías
+
+57:57.440 --> 58:06.440
+ de Pasio fuesen un idioma enteramente desconocido. La música, dice él, ya no es una encadenación de frívolos sonidos
+
+58:06.440 --> 58:13.440
+ que entretenen al oyente, un placer artificial que dura cuanto la vibración de las cuerdas de los instrumentos,
+
+58:13.440 --> 58:19.440
+ una variedad de entonaciones, unas o menos sorprendentes debidas al capricho del compositor,
+
+58:19.440 --> 58:25.440
+ ni tampoco una serie de onomatopeyas que se desvanecen en la región del oído.
+
+58:25.440 --> 58:34.440
+ Desde que la filosofía ha penetrado del arte, la música, más bien que por la sintaxis, es por la elocuencia de los sonidos.
+
+58:34.440 --> 58:48.440
+ ¿Quién fue, pues, del silencioso concurso que teniendo fe en el espiritualismo del arte y en el dogma de la redención,
+
+58:48.440 --> 58:55.440
+ predispuesto con impresiones del tiempo y del lugar, no se sintió sobrecogido de un religioso éxtasis
+
+58:55.440 --> 59:00.440
+ al verse empujado por un torrente de sonido y armonía hacia el mar del infinito?
+
+59:00.440 --> 59:06.440
+ Es decir, le está describiendo realmente lo que él vivía en aquel estreno, ¿verdad?
+
+59:06.440 --> 59:12.440
+ ¿Quién al principiar en el sublime drama, cuya catástrofe es la muerte de Dios,
+
+59:12.440 --> 59:20.440
+ no sintió recorrer sus miembros un progresivo estremecimiento y a golpearse a sus ojos un raudal de lágrimas reprimidas con violencia
+
+59:20.440 --> 59:26.440
+ porque no solo es de mal tono llorar en los teatros sino hasta en las iglesias?
+
+59:26.440 --> 59:34.440
+ ¿Qué te ocurrió con la música? ¿Quién fue, pues, del silencioso concurso que teniendo fe en el espiritualismo del arte y en el dogma de la redención,
+
+59:34.440 --> 59:44.440
+ predispuesto con impresiones del tiempo y del lugar, no se sintió sobrecogido de un religioso éxtasis al verse empujado por un torrente de sonido y armonía hacia el mar del infinito?
+
+59:44.440 --> 59:51.440
+ El artista de la música es el hombre que quiere alcanzar el dominio universal, la hegemonía universal,
+
+59:51.440 --> 59:54.440
+ quiere ser el director de la orquesta de la humanidad, haciendo la palabra, ¿verdad?
+
+59:54.440 --> 59:57.440
+ Supongo que lo que quería Wagner, el arte total de Wagner, es esto,
+
+59:57.440 --> 59:59.440
+ es marcar la dirección de orquesta de la humanidad.
+
+59:59.440 --> 1:00:06.440
+ Pues, dice el desconocido, también hablando de Rossini, como Machini, exactamente igual,
+
+1:00:06.440 --> 1:00:11.440
+ hablando de Rossini, dice, el inmortal Rossini ha manifestado esta verdad
+
+1:00:11.440 --> 1:00:15.440
+ en la muy afamada y con justicia célebre sinfonía Guillermo Tell.
+
+1:00:22.440 --> 1:00:28.440
+ No está vaciada, por decirlo así, en el molde mismo que sirve generalmente para componer las oberturas.
+
+1:00:28.440 --> 1:00:33.440
+ Tiene un corte particular, la de Rossini, y que realiza evidentemente la originalidad
+
+1:00:33.440 --> 1:00:39.440
+ que la caracteriza en una palabra, la sinfonía de Guillermo Tell, es un verdadero tratado de filosofía musical.
+
+1:00:39.440 --> 1:00:44.440
+ Dice este autor, dice, a pesar de que carece del poder social de la palabra,
+
+1:00:44.440 --> 1:00:48.440
+ en ella ve el profundo observador la opresión del pueblo suizo,
+
+1:00:48.440 --> 1:00:52.440
+ que se manifiesta claramente en el primer tiempo de tan admirable composición.
+
+1:00:52.440 --> 1:00:55.440
+ Inmediatamente se notan los chispazos, como vulgarmente se dice,
+
+1:00:55.440 --> 1:00:59.440
+ de la sublevación que estalla en breve y al propio tiempo,
+
+1:00:59.440 --> 1:01:04.440
+ que se caracteriza hasta lo infinito la sencilla ocupación de los pacíficos campesinos
+
+1:01:04.440 --> 1:01:06.440
+ en la Helvecia, que en el tiempo es su siguiente.
+
+1:01:06.440 --> 1:01:10.440
+ Por último, la sublevación crece, se desarrolla, etc.
+
+1:01:10.440 --> 1:01:13.440
+ Aquí está hablando otra vez de lo de Macini,
+
+1:01:13.440 --> 1:01:20.440
+ la restauración de la música mediterránea frente a la germánica, y entonces la música total.
+
+1:01:20.440 --> 1:01:26.440
+ Por eso a Macini se le consideró como precursor de Wagner y a este hombre también.
+
+1:01:26.440 --> 1:01:31.440
+ Me parece que estos textos son de gran interés para que se vea que de lo que estamos hablando
+
+1:01:31.440 --> 1:01:35.440
+ se hablaba hace siglo y medio en español exactamente igual en estos términos.
+
+1:01:35.440 --> 1:01:41.440
+ Muy bien, pues casi si les parece, hacemos una pausa ahora, llevamos ya hora y pico,
+
+1:01:41.440 --> 1:02:06.440
+ y seguimos ya a continuación, lo que falta.
+
