@@ -4,11 +4,11 @@ Transcripciones del curso [Filosofía de la Música](https://www.fgbueno.es/act/
 
 ## El repositorio
 
-### Audios
-Los archivos en formato `.mp3` pueden encontrarse en el directorio [audios](audios/).
-
 ### Transcripciones
 Archivos en formato `.vtt` —que contienen la transcripción y las marcas de tiempo— y `.txt` —que contienen la transcripción en prosa— se pueden encontrar en el directorio [transcripciones](transcripciones/).
 
-### Notebooks
-Un Jupyter Notebook ejemplificando el uso de Whisper se pueden encontrar en el directorio [notebooks](notebooks/).
+### Audios
+Los archivos en formato `.mp3` pueden encontrarse en el directorio [audios](audios/).
+
+### Transcriptor
+Un archivo `.py` con funciones para transcribir con *Whisper* se encuentra en el directorio [scripts](scripts/).
