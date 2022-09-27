@@ -1,0 +1,603 @@
+¿Qué es la base de la intersección básica?
+¿Qué es la base de la intersección básica?
+¿Qué es la base de la intersección básica?
+Naturalmente, le llamamos básica a esta fórmula, la segunda,
+le llamamos intersección básica,
+por una razón que aquí no puedo explicar, porque es muy largo,
+es puramente lógica, pero vamos a dejarlo porque es muy largo de explicar.
+Aquí tienen que pasar por mi palabra,
+simplemente porque,
+verán, vamos a decirlo todo para que vean,
+nosotros definimos primero la intersección de clases,
+decimos dos clases,
+tienen una zona de intersección
+cuando hay una clase que a la vez pertenece a una y a otra,
+los elementos de una pertenecen a la otra, simplemente es esto,
+si yo tengo la clase de los europeos y la clase de los negros,
+de los hombres negros, pues habrá una intersección de europeos y de la vez negros,
+hay elementos de la clase uno que pertenecen a la vez a los elementos de la clase dos,
+y esta es la intersección básica, es el concepto de intersección básico,
+porque ahí es donde se da el concepto de intersección, el producto de clases,
+en el límite, es cuando las clases son disyuntas,
+no hay intersección ninguna,
+entonces, ¿por qué razón se dice que hay intersección?
+pues para eso se inventa una clase especial, es el cero,
+y se dice que hay dos clases son disyuntas cuando su intersección es nula,
+es decir, cuando no hay intersección, es un modo de aplicar,
+es un poco parecido a la distancia cero o a la tolerancia cero,
+la tolerancia cero es la intolerancia,
+pero dicho intolerancia parece muy fuerte,
+cuando se dice distancia cero, se dice que no hay distancia,
+cuando se dice, la primera fórmula es que no hay intersección, que es el cero,
+y por eso el cero, el cero no es el primer término de la serie,
+ni en lógica ni en aritmética, el cero, a pesar de que yo muchas veces
+lo he hablado con matemáticos,
+y cuando me piden que se me diga la serie de los números naturales,
+se empieza cero, uno, dos, tres, ¿por qué empieza por cero?
+hombre, claro, es que el cero antes del uno, eso te lo dirías tú, ¿verdad?
+el cero empieza antes del uno, el cero es una palabra que por sí mismo no tiene ningún sentido,
+te pidas uno, dos, tres, cuatro, introduces la operación más, operación menos,
+y cuando coges la operación menos y pones cinco menos cinco,
+para poder restar cinco de cinco, entonces pones cero, pero el cero es posterior a la operación,
+a los otros números que ya se introducción entre ellos, relaciones inversas de la adición, bien,
+pues aquí pasa lo mismo,
+pero también caben otras, bueno, están escritas ahí,
+es que si me muevo un poco, me desconecto el micrófono,
+también hay otras, esto es muy pesado, ya lo sé,
+pero, permítanme, pero es que hay que experimentar un poco este estilo, ¿verdad?
+y las dos posibilidades es que ahora el producto sea igual a m, sea igual a f,
+y entonces si es igual a m, f, entonces quiere decir que una está incluida en otra,
+o la otra está incluida en la primera, que son los cinco posibles de hacer así,
+de manera que tenemos cinco alternativas, primero, la fórmula uno,
+producto k igual a cero, k es nula, fórmula básica, que es una clase particular, k,
+tercera fórmula, que la música está incluida en la filosofía,
+cuarta posibilidad, que la filosofía está incluida en la música,
+y quinta fórmula, las dos a la vez, que son lo mismo, que son las cosas las mismas,
+como es imposible ir una por una, vamos a hablar un poco de la primera y luego el resto ya,
+nos lo imaginamos todos, vamos a hablar de la primera que además es la más interesante yo creo,
+la fórmula uno, la música y la filosofía, el producto, la intención de clases es la clase nula,
+bien, esta fórmula recoge un conjunto de opiniones y de filosofías muy abundantes,
+muy dispersas, muy diversas, que se caracterizan por tener esta condición común,
+que sostienen que la filosofía y la música no tienen nada que ver, que son cosas totalmente distintas,
+y que son absolutamente distintas, y que además tienen que serlo,
+que tienen que serlo por varias razones, principalmente la que he aludido antes,
+la música pertenece al terreno de lo sensible y la filosofía al terreno de lo intelegible,
+entre ambas cosas no hay nada que hacer, es imposible hacer nada,
+y por lo que se siente filosofía y música son totalmente disuntas, totalmente disuntas,
+entonces si la filosofía y la música quieren ver relaciones en el sentido subjetivas,
+bueno, de genitivo subjetivo, pues está completamente desviada, porque son totalmente distintas, disuntas,
+y esta es una serie de, una dirección de alternativas muy abundantes,
+muy practicadas, principalmente por muchos que mantienen actitudes muy formalistas o positivistas,
+no hace falta saber nada de filosofía para saber de música, entender música,
+esto son cosas postizas, están por demás, todo esto me viene a cuento,
+porque son clases disuntas, no hay nada que...
+porque la alternativa sería, habría un tipo de música que haya un tipo de filosofía,
+pero esto es lo que se niega, no puede haber un tipo de música que haya un tipo de filosofía,
+es decir, lo que niega la primera alternativa es que haya filosofía en el sentido subjetivo,
+la música no puede tener nunca ideas filosóficas, salvo que se las hayamos sobrepuesto a ellas,
+por sí misma no tienen a qué ver con esto,
+dentro del método dialéctrico propio de la filosofía académica,
+esta posibilidad hay que pensarla completamente en serio,
+porque una de las características de la filosofía platónica es esta,
+a diferencia de la filosofía mitológica, hay que considerar todas las posibilidades,
+una por una, hay que tomarlas en serio a todas, absolutamente a todas,
+porque la que tomemos nosotros ha de ser siempre por negación de las otras,
+por lo siguiente hay que tomarlas en serio a todas,
+no cabe decir esta la descartamos a priori, no se puede descartar a priori,
+y esta es la más fuerte, claro, en principio se nos presenta como la más fuerte oposición.
+Bien, entonces la primera fórmula, pues como digo, tiene como fundamento sobre todo este dualismo,
+y por eso esta fórmula ha sido aplicada a la música, bueno, a las artes en general, por el iconoclasmo,
+el iconoclasmo, pero el iconoclasmo que tenía ya sus precedentes,
+tenía sus precedentes en la Biblia, en otros muchos sitios,
+es decir, la idea de que Dios, en la Biblia sobre todo Dios, la prohibición en pintura,
+la prohibición del génesis de representar a Dios mediante objetos, mediante imágenes,
+la prohibición del becerro de oro, es decir, todo lo que sean representaciones divinas por medio de pintura,
+esto es sencillamente una especie de idolatría que hay que tachar entremente,
+que es lo que han heredado los musulmanes ahora, como sabemos, los musulmanes,
+y que en la tradición grea de los padres griegos tienen mucha importancia todavía,
+pero que sobre todo estalla en el iconoclasmo de la época del siglo VIII y IX,
+cuando se cuente por influencia de los musulmanes y Bizancio, ya hemos hablado de ello también,
+es decir, cuando se considera que es incompatible completamente,
+cuando estás en el templo, estás teniendo imágenes de los dioses o de Dios,
+porque es imposible, sea porque Dios es infinito y no puede representar de lo finito,
+sea porque es espiritual y no puede representar de lo corporal,
+y entonces hay multitud de padres, ahí está San Agustín, San Jerónimo,
+la serie de textos abundantísimos, todos los que se quieran,
+y de esta incompatibilidad iconoclasta que, como digo, heredan los musulmanes,
+pues también en música, también San Agustín, el propio Boecio,
+pues dice muchas veces que claro que el peligro de la música en el templo
+es que prevalezca lo sensible y el gozo sobre lo espiritual,
+y lo espiritual resulta que es algo que ya no suena,
+que el gran peligro de la música es que en el templo que prevalezca el gozo sensible,
+que nos desvía precisamente.
+Esta misma idea, en el fondo, llega sobre todo a lo más conocido de la época moderna,
+la teoría de Hegel, que la aplican las artes en general y a la música en particular,
+es decir, la filosofía de la música y del arte de Hegel, en el fondo, es esto mismo,
+aunque está muy eclipsado y muy oculto por el modo de desenvolver la filosofía, la estética de Hegel,
+pero en el fondo lo que dice Hegel es esto, por lo menos así lo interpreto, ya digo, estoy comprimiendo.
+Lo que viene a decir Hegel es que el arte en general, y la música por supuesto,
+puesto que para Hegel la música es muy inferior, es superior a la escultura de los greos,
+es romántico, pero es inferior a la poesía, el arte en general es para Hegel una fase del espíritu
+que todavía no ha llegado a su perfección, el espíritu absoluto, que es el pensamiento puro.
+Por consiguiente, en el desarrollo de la humanidad, el arte tiene que ir desapareciendo,
+el arte está llamado a su destino de acabar, desaparecer,
+y en el fondo, esto lo dice Crochet, expone muy bien Crochet la filosofía del espíritu,
+en la estética de Crochet se expone muy bien la filosofía de Hegel con esta frase que es de Crochet.
+De lo tal que Hegel lo que hace es declarar un funeral al arte poniendo una lápida filosófica en el ataúd.
+Lo que viene de decir Hegel es que la música y la pintura y la arquitectura son formas inferiores del espíritu,
+formas propias de épocas pasadas, arcaicas, salvajes, bárbaras o medievales,
+que ya ha pasado, que ya no estamos en época de la... un poco lo que decía Napoleón Aguete, la misma idea,
+cuando con la batalla de Hena y este paquete, la conversación con Napoleón sobre el verte y le pregunta,
+y Napoleón deja sus mapas y va a discutir y tiene un debate de crítica literaria con el verte de Hegel y demás,
+entonces dice Napoleón que ya se ha pasado el tiempo de la novela y de la poesía, que era el tiempo de la política,
+que esas son cosas del pasado. Bueno, pues esta idea es la de Hegel.
+Ya se ha pasado el tiempo del arte y de la música, esas son cosas del pasado y, por consiguiente,
+la música es algo que es totalmente distinto de la filosofía, que no tiene que ver.
+Hay cosas disduntas por completo. En el fondo, una famosísima doctrina de Kierkegaard,
+que estuvo muy de moda y fue muy... en España se habló mucho de ella en la época del existencialismo,
+las tres fases del espíritu de Kierkegaard, se habló muchísimo, yo recuerdo que en la facultad estaban todos los estudiantes interesados por estas cosas de Kierkegaard,
+la fase estética, la fase épica y la fase religiosa, la verdad, la vida espiritual.
+Entonces, el hecho de escalonar estas fases, considera la fase estética como la fase inferior,
+después venía la ética, que era superior, porque los valores éticos estaban por encima de los estéticos
+y después los valores religiosos por encima de todos, pues tiene algo que ver con esta teoría de Hegel.
+Una jerarquía de los valores en donde los valores estéticos y concretamente los musicales están por debajo.
+Por tanto, la disyunción es total. Esa es la opinión más... bien.
+Ahora, ocurre lo siguiente, que el hecho de que dos clases sean disyuntas en extensión
+no quiere decir que sean megáricas, es decir, que se comporten como las esencias de los megáricos,
+euclides de Megara y otros, que no tienen nada en común, que cada clase sean aisladas, que no tengan nada que ver.
+No. Hay una pedación que no te lo utilizamos.
+Os voy a limitar esto. Es este mismo signo del producto de clases con una raya por encima que llamamos ecualización,
+en donde se demuestra una operación a los pocos, un ejemplo, y el ejemplo se entiende perfectamente.
+En la ecualización, dos conjuntos disyuntos, sin embargo, encuentran un conjunto común
+que les pertenece más solo a ellos cuando es ecualización estricta y sin progredir de ser disyuntos.
+Por ejemplo, la clase de las figuras cuadrados, una figura cuadrada y un rombo, son disyuntas.
+No hay ningún cuadrado que sea rombo. En la clase de los cuadrados nunca hay un rombo.
+En la clase de los rompos nunca hay un cuadrado. Son disyuntas. Sin embargo, entre los rompos y cuadrados
+hay una clase de figuras que ecualiza ambas, que son los paralelogramos equiláteros.
+Hay un paralelogramos equiláteros que es el resultado de la ecualización de estas dos clases disyuntas.
+Cuando es estricta, porque el paralelogramos equiláteros se ciñe enteramente a esas dos clases.
+Luego hay ecualizaciones mucho más amplias, ambos son polígonos, etc.
+Aún reconociendo la disyunción entre música y filosofía, al modo de Hegel, de otros tantos, de los bolistas,
+podría haber ideas que cubrieran ambas. Se dan cuenta. Por consiguiente, la oposición a la posibilidad de una filosofía de la música
+fundada en esta disyunción no es definitiva, porque también cabe la ecualización estricta o amplia
+en donde podríamos encontrar ideas que cubren ambas y no lo son. Un ejemplo.
+Y además solamente por esta vía podíamos seguir adelante. Un ejemplo, abundando en algo que dijimos el otro día.
+Vamos a suponer que estudiando la música barroca y clásica, se advierte que es una música fundada en la tonalidad.
+La tonalidad está fundada en una red de sonidos a base de tónicas terceras, décimas, dominantes, quintas, etc.
+Y por tanto, en una jerarquía en donde todos los sonidos, de algún modo,
+parece que están gravitando en torno a la tónica.
+Y esta gravitación que aparece en los tratados de armonía, yo tengo un tratado de armonía que me hizo mucha gracia
+porque el autor simplemente lo emplea como un modo didáctico.
+Y entonces la subdominante gravita sobre la tónica y está utilizando la palabra gravitación continuamente.
+Cuando lo lees así, sin mayores averiguaciones, dices qué didáctico es esta expresión.
+Entonces encuentras que en la doctrina de la tonalidad de la música hay una unidad fundada en una jerarquía
+que está fundada además en esta subordinación de un conjunto de notas que son afines a la tónica, la tercera, la dominante, etc.
+Las décimas, por tanto, y entonces que hay una especie de gravitación de los sonidos en torno a un centro.
+Es decir, la estructura central de la música.
+Pero ahora supongamos que se nos dice, bueno, pero resulta que lo mismo ocurre en el Estado moderno,
+lo que decíamos el otro día, también lo expusimos, lo de Atali y otros muchos, ¿verdad?
+Es que resulta que en el Estado moderno, una vez que el feudalismo ha sido desbordado,
+pues también en el Estado moderno hay una jerarquía de organización en donde hay un centro que es el rey, ¿verdad?, el rey absoluto,
+con todas las jerarquías de funcionarios que están en torno de él, de señores, etc., también.
+Y entonces, claro, hay una ecualización entre esta estructura jerárquica de la música
+y la estructura jerárquica política de este Estado moderno.
+Bien, pero todavía añadimos una cosa más, añadimos todavía una cosa más ahora.
+Ahora ya una estructura no ya musical y una estructura política,
+sino añadimos una estructura física, que es el propio sistema gravitatorio.
+Ahora resulta que el propio sistema gravitatorio de Newton, resulta que también el centro está, el Sol está en el centro,
+en su lugar están los planetas y los satélites de los planetas, ¿verdad?
+También en este tratado de armonía que les decía, también se utilizaba la palabra satélite, ¿verdad?
+Que si la subdominante es un satélite de la tónica, un satélite,
+o sea que se ve que el hombre tenía la idea más próxima de lo que parecía.
+Entonces la idea del orden gravitatorio también está contenida.
+Entonces, ¿qué pasa aquí?
+Pues resulta que aunque sean disyuntas, porque claro son disyuntas, porque no hay... son disyuntas totalmente.
+El sistema solar es disyunto del sistema político, por mucho que se diga, y es disyunto del sistema solar.
+No hay cosas que sean a la vez musicales y gravitatorias, son disyuntos.
+Pero sin embargo, por la vía de la ecualización, resulta que hay unas estructuras que envuelven a todos ellos,
+y estas estructuras son, pues, esta estructura centralista, centralizada, jerárquica, como se quiera llamar.
+Reducir una a otra parece ya absurdo en principio, porque vamos a reducir, decir, no es que una es la que manda a otra,
+que es lo que hace el sociologismo.
+Es que realmente la estructura jerárquica de la música no es más que una expresión superestructural
+de la influencia de la base económica que había dado de lugar a la estructura del estado moderno.
+Como si fuera una expresión lo uno del otro, pero cuando le agregamos la tercera...
+Cuando hay dos, únicamente, dos clases ecualizadas, se puede tolerar, pero cuando hay tres no.
+¿Cómo se puede decir que la estructura del Rey Sol esté determinada por el sistema solar, aunque se le llame el Rey Sol, verdad?
+Se ve que estaba funcionando el heliocentrismo, está el Sol en el centro, y el Rey Sol, Luis XIV,
+pues es el que manda el tiempo, y el tiempo musical aquella famosa pregunta,
+es que preguntaba a Luis XIV y respondía, la que quiera vuestra majestad, y respondía, ¿verdad?
+Es decir, el Rey Sol es el soberano absoluto, el soberano de verdad.
+Ahora, ¿cómo se puede decir que el Rey Sol esté determinado por la estructura del sistema solar, verdad?
+Y que la armonía esté determinada por la estructura del sistema solar,
+eso ya parece... la dilución se mantiene, pero no la ecualización, ¿verdad?
+En ese sentido, quiere decir, la idea de que la disunción,
+que parece que sea el argumento más potente contra la posibilidad de una filosofía de la música,
+es decir, de unas ideas que tengan que ver a la vez con el otro,
+parece que se disuode porque hay el otro mecanismo de la ecualización estricta o amplia.
+Y así, intensivamente, vamos a dejarlo porque aquí los ejemplos son infinitos y aquí no acabaríamos.
+Y entonces pasamos ya al...
+Es una pena porque es muy bueno, pero vamos ya al tipo.
+Pasamos al artículo 6, filosofía de la música en sentido positivista.
+Bueno, ahora son una serie de cuestiones más próximas
+y que creo que pueden tener interés, sobre todo, para los que están haciendo estudios del doctorado y demás,
+porque se están aplicando directamente a este asunto.
+Es decir, yo estoy un poco al tanto de estas bases para un debate sobre investigación artística
+que da el ministerio, que ustedes manejan,
+y en donde se plantean los problemas de la investigación en música,
+la investigación en música y en bellas artes en general.
+Bueno, pues todo esto está un poco orientado hacia estos tipos de problemas,
+pero sin perder el punto de vista no seológico, claro,
+porque si no, la prueba es que los autores, a mi juicio, de estos informes,
+pues, que son muy respetables, elegidos por el ministerio
+para dar instrucciones sobre la investigación de las artes,
+pues, como están completamente al margen del mínimo rigor no seológico,
+pues, sin aquel, no hay por dónde agarrarlo.
+Es algo verdaderamente penoso leer una cosa de estas, es una cosa verdaderamente increíble,
+la falta total de rigor que tienen, una cosa terrible, terrible, pero bueno.
+Y entonces se trataría, por mi parte, de ofrecer algunas líneas
+dentro del plan que llevamos para plantear esas cuestiones.
+Bien, aquí las cuestiones centrales, yo creo, es la cuestión de la musicología,
+lo que se entiende por musicología, y lo que se entiende por musikwissenschaft,
+la ciencia de la música de los alemanes, traducida por los italianos como musicología,
+y por los españoles después.
+Y aquí hay gato encerrado, pero gato encerrado pero muy fuerte,
+yo creo que conviene denunciar, bueno, denunciar, aclarar, destapar, sencillamente, desvelar.
+Bien, y lo vamos a hacer mediante, hablando de la filosofía de la música en sentido positivista,
+bien, de la filosofía interdisciplinar.
+Bien, recuerdan que en la introducción ya habíamos distinguido
+tres orientaciones de la filosofía de la música.
+Primero, una orientación que llamábamos positivista,
+filosofía de la música positivista, en sentido positivista.
+A, a mayúscula, orientación de filosofía en sentido positivista.
+B, orientación metafísica, orientación de la filosofía en sentido metafísico.
+Y C, orientación de la filosofía de la música en sentido filosófico positivo.
+La pregunta mediante es esta, en qué se diferencia la A y la C,
+porque la B ya se entiende muy bien lo que se quiere decir, ¿no?
+Se entiende filosofía metafísica de la música, es por ejemplo la de Schopenhauer,
+podríamos por caso, o la del pseudo Dionisio,
+pero la filosofía positiva y la filosófico positiva, ¿en qué se diferencian?
+Pues, aquí hay que aislar muy delgado,
+porque se podría decir, porque obviamente no se diferencian en nada,
+en cuanto a la materia, pero sin el modo de enfocar la cuestión,
+en la perspectiva, en la perspectiva.
+Porque la filosofía de la música en sentido positivista
+pues termina disolviéndose en un conjunto de ciencias de la música,
+termina disolviéndose o identificándose con una enciclopedia de ciencias de la música,
+sociología, psicología, etnología, acústica, etcétera, ¿no?
+De ciencia de la música, se disuelve en esta enciclopedia y, sin embargo,
+por el hecho de ser enciclopédica, es la que más se parece a la filosofía de la música.
+Y cuando a esta enciclopedia de las ciencias de la música se le designa con un nombre especial,
+como musicología, se da la impresión de que estamos ante una ciencia,
+con una categoría propia, y no lo es, ¿verdad?
+Y se dice que es interdisciplinar, pero es que interdisciplinar no es nada, esa es la cuestión.
+En este opúsculo, como en otros muchos,
+siempre me sorprende cómo se llena la boca la gente con la palabra interdisciplinar.
+Al decir que esto es una investigación interdisciplinar, parece que está todo resuelto.
+Efectivamente, las subvenciones se obtienen mucho más fácilmente, ¿verdad?
+Sin investigación interdisciplinar, las subvenciones llueven por otros lados,
+porque si es jurado no vaya a ser que la otra disciplina me ponga verde, ¿verdad?
+Entonces, muy bien. Pero, ¿qué ocurre?
+Primero, para que haya interdisciplinaridad, tiene que haber disciplinas.
+Eso parece evidente, ¿no? Si no hay disciplinas, no hay interdisciplinaridad.
+Entonces, la interdisciplinaridad tiende a borrar las disciplinas,
+y a suponer que hay una disciplina única, cuando no es así.
+Un ejemplo. Hay una disciplina que se ha discutido muchísimo,
+aquí discutimos hace años muchísimo, en la Junta de Gobierno de la Universidad,
+sobre una carta de la que se quería poner un departamento Ciencias del Mar.
+Decía que, claro, estando tan cerca del mar, pues era obligado poner una ciencia del mar.
+E incluso alguien propuso un nombre propio, talasología.
+La cosa está ya resuelta, tenemos ya un nombre, talasología, ciencia del mar.
+Bueno, ¿y qué es eso? Es que el mar es una categoría propia.
+Hombre, el mar será un fenómeno geográfico o químico,
+pero realmente el mar no es una categoría plena de la ciencia.
+La prueba es que la ciencia del mar es interdisciplinar.
+Es geografía, biología, química, economía política y muchas cosas más.
+Pero eso son varias disciplinas, cada una que tiene su propio ritmo y metodologías,
+que convergen en el estudio de un asunto común.
+Pero cada disciplina tiene que mantener sus propios métodos,
+porque si no, pues deja de ser interdisciplinar.
+Tiene que mantener sus propios métodos. ¿Y qué ocurre?
+Pues que por el hecho de hacer converger varias disciplinas distintas
+sobre un tema, no está asegurado los rendimientos.
+A todo contrario, lo que están asegurados son unos despilfarros impresionantes.
+Es material, ¿verdad? De lo que se trata muchas veces.
+¿Por qué? Porque en el fondo no es la interdisciplinaría lo que dirige,
+de un modo aleatorio, la investigación.
+Simplemente hay una disciplina directora.
+Por ejemplo, en este caso es la economía política.
+Interesa sacar los máximos rendimientos de la exportación del océano.
+Y entonces esa disciplina directora se convierte en la filosofía de esa ciencia del mar.
+La filosofía del mar, que todas se suponen a ello.
+Y por lo interesante, es que esas investigaciones geológicas que dan fuera de lugar
+si no tienen una conexión directa con esa ciencia.
+Entonces siempre hay una disciplina directora.
+En el caso de la música, si repartimos las disciplinas de entorno que llamamos,
+lo vamos a distinguir a continuación, disciplinas de entorno y de dintorno.
+Distinción que está de hecho practicada cuando se habla en la exposición musicología,
+suele distinguir ciencias e historias de la música.
+O también disciplinas de ejecución, de performance, y disciplinas sobre la música.
+Por ejemplo, la práctica musical, la enseñanza musical, la composición musical.
+Que son disciplinas de entorno, de dentro de la música.
+Quien hace una sinfonía está haciendo algo parecido a que en química construye una pila atómica.
+Está haciendo una obra de arte, una obra maestra.
+Pero es obra de arte, no es obra de ciencia o de tecnología científica.
+Puede servir de tesi doctoral, un individuo que tenga una pila como fermi, pero aquello es una tesi doctoral.
+Que hace una tesi doctoral, que es la construcción de una pila atómica.
+Pero quien compone una sinfonía puede ser tesi doctoral.
+Aunque trate de tema la obertura académica de Brandt, por ejemplo.
+Para un doctorado que se la hicieron, aquello es una tesi doctoral, aquello es una investigación.
+Hay cuestiones de entorno que son las que tienen que ver con el dentro de la música.
+Que son privadamente la teoría de la armonía.
+Todo que tiene que ver con la ejecución, con el dominio de los instrumentos.
+Todo eso es de entorno, eso es técnica, es la técnica musical y la teoría musical interna.
+Y es lo que se cursa en los conservatorios, además.
+Es donde se sabe utilizar los instrumentos y la teoría de esos instrumentos.
+Ahora lo que se llama musicología, que se cursa en las facultades de humanidad, en su parecida.
+Allí la mayor parte de los profesores no saben, a lo mejor un poco de flauta o piano, pero no cultivan los instrumentos.
+Entonces son disciplinas de entorno de la música, que son muy importantes, pero es el entorno de la música.
+Y son muy importantes porque sin ese entorno la música no existiría.
+Porque el entorno es parte también de la propia realidad, como pasa, se ve solamente en biología.
+Es decir, la posibilidad de la biología del organismo está en estudiar el medio en el que el organismo vive.
+Si en el medio de la planta del animal no sería posible explicar la biología del organismo, es imposible. En termodinámica lo mismo.
+Es imposible explicar un sistema termodinámico si ten en cuenta el entorno del sistema.
+El entorno de la música interna es la historia de la música, la comparación con otras artes, el entorno, la sociología, la psicología, etc.
+Y esto es imprescindible para que la música funcione y existe.
+Pero las ciencias que se engloban bajo el nombre de musicología son ciencias de entorno, no de de entorno.
+Y estas ciencias tienen también sus metodologías propias. Por ejemplo, la historia de la música se da de toda historia.
+La sociología de la música será de toda sociología. La psicología es psicología.
+No por aplicarse a la música dejarán de ser psicología o sociología, etc.
+De manera que entonces, ¿qué ocurre?
+Que aquí al designar con un nombre musicología se da la impresión o se quiere sugerir.
+Y esto hay un multitude de ejemplos que yo ayer estuve buscando a dozonas en tratados generales de música, en enciclopedias.
+Ahí tienes los organigramas de la distribución en Alemania, donde sea, del plan de estudios, de estudios músicos y musicológicos.
+Pues ahí tienes todo. Lo curioso es, y esto ya es el INRI, que entre las diferentes...
+Un árbol o un organigrama, pintan un cuadradito, pues sociología de la música, praxis de los instrumentos, etc.
+Y en otro cuadrito lo pone filosofía de la música. Ahí se demuestra la absoluta falta de rigor.
+Porque, por definición, la filosofía de la música no puede ponerla alineada con las otras disciplinas científicas.
+Por tanto, ¿qué quiere decir? Que si la filosofía de la música la consideran como un departamento más de lo otro,
+es porque están entendiendo por filosofía algo que no es filosofía.
+Como puede ser, las opiniones, por absurdas y disparatadas que sean, que ha habido sobre la filosofía,
+que conviene que el profesional de la música las conozca, pues, pues, pues, por tenerlas en la cabeza.
+Porque, ¿cómo va a ser un gran directo de orquesta? O simplemente un músico que nadie había oído hablar de Filola o de...
+o de... o de... o de Schopenhauer, ¿verdad? Tenía que hablarla casi por cultura general, y más siendo músico.
+Pero entonces, pero es un concepto de filosofía ya reducida a dosografía, simplemente a dosografía.
+Es decir, ahí está... y entonces, y eso es el test que a mí me demuestra que está completamente arruinado
+el sistema de ideas generales de estos... de esos asuntos.
+El hecho de poner a lado de todas las demás matemáticas, poner la filosofía como si fuera una disciplina más.
+Ojalá que lo fuera, porque tendría entonces la seguridad que tienen las otras.
+Pero precisamente, precisamente su plano es distinto y por tanto no puede ponerse para bien o para mal al mismo nivel, a la misma línea.
+Entonces, la idea de la interdisciplinaridad ya contiene, de hecho, contiene ejercitativamente la idea de filosofía.
+Porque en el momento que uno se pregunta, bueno, ¿y qué tiene que ver la psicología de la música? ¿Y qué tiene que ver la psicología de la música?
+Si alguien ya domina un instrumento con un salto de armonía, conoce la historia de la música, ahora empieza a estudiar psicología de la música.
+Bueno, ¿y qué tiene que ver eso con la música?
+Pues la interpretación de esa conexión, esto ya tiene, obliga a respuestas filosóficas.
+Y así sucesivamente. Es decir, la propia palabra interdisciplinaridad ya supone que parece que es la solución del problema, es precisamente lo que parece el problema.
+Ahí está en uno de los puntos más interesantes y más difíciles de captar porque estos señores no se dan cuenta de esto.
+Es que no tienen ni noción de de dónde están hablando, ¿verdad?
+Es que es interdisciplinar, bueno, pero ese es el problema, señor mío, el problema es la interdisciplinaridad.
+¿Por qué razón al mismo tiempo usted no trae aquí a un técnico de hormigón armado o lo que fuera, verdad?
+Hombre, es que no tiene que ver. Bueno, ¿por qué tiene que ver?
+¿Por qué tiene que ver? Porque es que la conexión no se ve, ya sabemos que hay conexión, pero ¿qué tiene que ver?
+¿Qué tiene que ver? Se discutió mucho en Asturias, recordaron ustedes hace unos meses, por año pasado fue,
+una bronca que hubo entre médicos y un físico, Brou, el hijo del famoso Brou,
+que había dado unas fórmulas matemáticas para la investigación del cáncer.
+Claro, la bronca era tremenda, claro, porque es que la cuestión es que desde fuera decían,
+no, no, es que vamos, ¿por qué razón la interdisciplinariedad?
+Y además se defendía, es que es interdisciplinar porque, ¿por qué razón los médicos tienen que cerrarse en la fisiología
+y no admitir lo que dicen? Pues por nuestra propia naturaleza de oficio,
+porque realmente hasta que no se demuestren la conexión, por muchas fórmulas matemáticas que aquí no se entreguen,
+el cáncer tiene otras formas de investigación, ya que yo a lo sumo podrá estar subordinado totalmente a nuestros métodos,
+pero de ningún modo puede sustituir a nuestros métodos, es decir, lo que no se entiende es la forma de articulación.
+Y entonces la interdisciplinariedad no es la solución, es el problema, no se dice que no tenga nada que ver,
+se dice que hay que explicar por qué tiene que ver, y cuando tiene que ver ya deja de ser interdisciplinar,
+porque entonces está en, porque una de dos, o bien se resuelve una en otra, otra en una, o en un tercero,
+pero directamente no se resuelve nada, porque son categorías diferentes, esa es la cuestión.
+Y entonces, es la misma dificultad, en otro orden todavía más, pero también en todo, esto pasa en todo.
+La paradoja de este alguien que es un gran conductor de fórmula uno, vamos por caso, ya que estamos aquí a Alonso,
+sin embargo puede darse el caso, en principio, de que no sepa lo que es una dinámolo, que no sepa nada,
+es decir, que no entienda nada de mecánica, ¿verdad? Sin embargo, sabe conocer.
+Puede darse el caso de que un pianista consumado, pues no sepa nada de física del piano, ni siquiera lo...
+hombre, de hecho no se da, porque por mi curiosidad que tengas, de verdad,
+somos alguna vez, ahora ha visto como la fina y tal, pero puede ocurrir, el problema es que no tiene que ver una cosa con la otra,
+o viceversa, que un individuo que es organero y que sabe construir órganos, eso no le garantiza que sea un buen organista,
+pero si yo he hecho el órgano, bueno, pero usted no sabe tocarlo, aunque lo haya fabricado,
+es decir, hay dos planos totalmente distintos, es decir, son planos totalmente diferentes,
+están ligados, claro que están ligados, pero ¿por qué? ¿Cómo se pasa de una cosa a la otra? Ese es el asunto.
+Entonces, ¿cómo dos categorías distintas que están involucradas, sin duda, pero están científicamente involucradas?
+¿Cuáles son los nexos conceptuales de involucración? De eso se pregunta y eso está en relación con los métodos.
+Bueno, y entonces, pasamos ahora ya a la idea de estética musical, que pretende ser un hombre, otro nombre,
+que un poco, pues, tapa esto de musicología y de ciencia de la música, porque si se dice ciencia de la música, bien,
+habría que decir ciencia sobre la música, ¿verdad? Pero ciencias de la música, cuando se dice estética musical,
+ya parece que ya estamos en otro plano, pues, apelando a un hombre ya consagrado, de Rebaungarten,
+y por tanto, estética musical, pues parece que dice algo, bueno, pues yo les desafía a ustedes que me digan qué es eso de la estética musical.
+La estética musical es un puro nombre, absolutamente vacío, totalmente vacío, porque, primero, si la estética musical,
+si la estética, la estética en general, tal como la planteó Rebaungarten, y después, pues, toda la moda que ha sido después de Kant,
+dice Richter, por ejemplo, famoso Richter, pues, dice que cada año que pasa en Alemania aparece un libro de estética musical,
+o de estética del arte, y de musical también. Dice, esto seguramente es debido, dice Richter,
+esto seguramente es debido a que como han asistido todos a clases de estética, de estética de Hegel o de Schelling, etc.,
+y han tenido que pagar por la clase, pues quieren reembolsarse lo que han pagado, y entonces, es que es único de estética,
+para ver si se acabe así, ¿verdad? Y entonces, hay tal cantidad de estéticas del arte musical,
+y dicen, aquí yo sigo y luego aquí ya están nosotros, ¿verdad? Y entonces, una de dos, o esa estética musical,
+se mantiene en un nivel, en el nivel clásico, en el nivel de Schelling, de esto, en el nivel filosófico,
+donde se habla de lo bello y cosas de ese tipo, ¿no? Y entonces, eso va a la metafísica en esa edad,
+y, de hecho, de hecho, la estética musical, o la estética del arte, fue orientándose hacia el positivismo,
+hacia la psicología, en el caso de Helmholtz, de tratar de determinar cuáles eran los mecanismos
+por los que el arte era apreciado o no apreciado, o a la sociología, y, sobre todo, a eliminar la idea de estética
+como teoría de todas las artes, que es la idea clásica de la teoría de Hegel, etc., la teoría de Crochet,
+la unidad de las artes, y, en lugar de esto, ir haciendo estética de cada arte, estética de la escultura, estética de esto,
+y convertir a la estética en un estudio de la estilística de cada arte, de la estilística musical,
+de carácter, sobre todo, histórico o comparativa, en cuyo caso ya vuelve a ser otra vez una ciencia de entorno,
+de nuevo, otra cosa técnica, pero ya no es las pretensiones de la estética como una disciplina
+que engloba todas las artes y a la música en general. Eso es el asunto.
+De manera que entonces, yo lo que quiero subrayar es que estos grandes nombres de grandes pretensiones,
+como es estética, musicología, etc., son vacíos, son contradictorios,
+es, sencillamente, encierran componentes que no se casan directamente entre sí, que hay que analizarlos, sencillamente,
+que se llena la boca a la gente, pero luego, en el fondo, que es una enciclopedia, una enciclopedia mejor o peor preparada,
+que yo no digo que sea inútil, pero es una enciclopedia de cosas, una especie de diccionario,
+donde te van poniendo a los diferentes y luego cada uno los casa como dioses de entender,
+pero no hay el menor nexo interno de desarrollo en esas partes.
+En cuanto a la investigación, ya voy ya acabando, en cuanto a la investigación,
+pues la investigación suele entenderse, esto es muy curioso y aquí también incide en ello,
+y citan mucho, pues, algunas obras que están hoy día muy de actualidad, de arte práctico,
+el libro blanco de las facultades de artes de la Facultad de Artes de Barcelona,
+yo por cierto muchas veces ya conozco al autor, precisamente porque los conozco y hablo del asunto,
+y donde están completamente en la inopia, por así decirlo,
+pues son problemas prácticos que tienen que afrontar, pero bueno, y entonces dicen, investigación,
+bueno, voy a decirlo de un momento porque no,
+dice, investigación, porque les han encargado del Ministerio que hagan un informe sobre la investigación en música,
+dice, investigación, la mejor definición es aquella que dice, que la atribuyen a un autor inglés o americano,
+investigación es la inquisición, el inquirir sobre algo siempre que sea público,
+o sea, una inquisición por algo que se haga público es investigación,
+la cosa tiene bemolas, y se quedan tan tranquilos,
+entonces, uno dice enseguida, bueno, entonces, como ahora se llama investigación, yo tengo una nieta,
+y que a estos días he estado con ella en Sevilla, que dice, voy a investigar,
+que le mandan a investigar en la escuela, investigar y decidir al diccionario a ver lo que significa,
+a lo que significa lo que sé, lo que significa, pues cualquier palabra, de cualquier materia que sea, manzana, voy a investigar,
+y van al diccionario y hacen un trabajo de investigación,
+entonces, investigar es esto, y hacerlo público, y luego aclaran,
+hacerlo público quiere decir que tienen que hacer público los caminos por los que ha seguido la investigación,
+es decir, no ocultar los métodos, no ocultar los fuentes,
+con esto ya se salvan un poco, uno que explora algo, da los resultados,
+pero omite los caminos que se han llegado ellos, eso no es investigación, tiene que publicar las fuentes,
+bueno, pero un niño de esto que he citado podría también decir,
+las fuentes de las investigaciones que he mirado, la he decidido en la enciclopedia tal, y cual y cual,
+con este proyecto de investigación, pues, se creen ya que han agotado el campo,
+y claro, la cosa es mucho más complicada, no voy a intentar tampoco aquí hablar de este asunto,
+que es muy largo, pero un poco para identificar por dónde iría el asunto,
+este coneto genérico de investigación, que nadie niega, el sentido vulgar,
+lo que dice el diccionario de la academia, la investigación, pues, es inquisición,
+es interesarse por algo que presenta problemas, que no se domina a primer momento,
+que, en fin, algo que parece que está enredado, que hace falta saber de dónde viene, a dónde va,
+cuál es su estructura, bien, investigación, bien,
+por esto el proyecto de investigación está pensado como una relación directa de un sujeto ignorante
+a algo que tiene que conocer, un sujeto en grado cero que va a investigar,
+entonces se enfrenta directamente con la cosa, con la naturaleza, con la sociedad,
+entonces voy a investigar la sociedad y la naturaleza, partiendo de cero,
+esa es la posición de la investigación, alguien que en principio no sabe nada,
+se enfrenta directamente, coge el toro por los cuernos y empieza a decir qué es esto,
+y luego, como suele poner cada vez más la moda americana en las revistas,
+para saber más, para investigar más y tener una serie de libros, para saber más,
+es decir, se parte de la ignorancia y se dice en la historia de la ciencia, es el propio de Ronaldo,
+la investigación científica empezó, la investigación científica,
+por la curiosidad de los hombres primitivos que querían saber,
+entonces inquidían lo que querían saber, bien,
+a mi juicio, este proyecto de investigación es puramente genérico
+y por tanto es inútil para definir la investigación científica,
+de la que estamos aquí hablando, o académica, como se quiere llamar, es inútil,
+porque es un proyecto completamente rosero y genérico,
+y la razón de lo siguiente, es que la investigación científica implica ya necesariamente la ciencia,
+es decir, no parte de cero, no puede parte de cero,
+tiene que suponer ya un núcleo de la ciencia ya en marcha, por así decir,
+y solamente cuando este núcleo de la ciencia ya está en marcha,
+solamente entonces se pueden plantear problemas científicos de investigación,
+para decirlo en términos de euclides,
+los problemas vienen después de los teoremas,
+primero hay un teorema y una vez que está el teorema entonces viene el problema,
+y antes de que no haya teoremas no hay problemas,
+el problema en grado cero no es problema, es un problema mal planteado,
+los problemas vienen después de los teoremas,
+es decir, por tanto, que la investigación científica supone que estamos en una ciencia en marcha,
+y si no hay ciencia en marcha no hay investigación científica,
+habrá otra investigación, pero no,
+y esto supone la historia, supone las tradiciones de cada ciencia, de cada disciplina,
+y supone el planteamiento de los problemas,
+y por tanto la investigación tiene que estar enmarcada en una tradición que es científica,
+con una historia más o menos larga y un contorno también más o menos preciso,
+que es donde se investiga,
+y entonces esto tiene mucho que ver con el descubrimiento,
+el descubrimiento es el resultado de la investigación,
+y entonces parece también que el descubrimiento es un fruto de una investigación,
+pero el descubrimiento a su vez es fruto de una investigación que partía de un conocimiento previo,
+esto demuestra que la ciencia, cuando se habla de la ciencia no se puede hablar en género,
+sino que la ciencia tiene muchas fases, unas partes de la ciencia corresponde a otras,
+que la ciencia es evolutiva, y por consiguiente que la investigación no es,
+quiero decirlo de un modo rápido, no es el resultado del interés directamente por la naturaleza, por la sociedad,
+sino que es la propia ciencia ya en marcha,
+la que desde dentro, como no agota el campo, se desarrolla hacia otras partes,
+es el propio crecimiento de la ciencia desde su interior,
+puesto que el propio crecimiento de una ciencia que está ya, aunque sea embrionaria,
+necesita desarrollarse su embrión de las formas más variadas que se pueden imaginar,
+entonces la investigación es interna a la ciencia, no es una investigación externa, es realmente interna a la ciencia,
+y por eso el que no tenga un dominio mínimo de una materia no puede investigar,
+esto es lo que veis cohesivamente en las investigaciones musicales,
+aquí la cuestión central con este sentido de investigación es si la investigación es de de entorno o si es de contorno,
+si la investigación en estas materias es una investigación de de entorno,
+hasta qué punto es una investigación, repite el ejemplo anterior,
+el componer una sinfonía homologable a inventar un aparato nuevo en física,
+y aquí la cuestión que sale centralmente es la cuestión de las pruebas científicas,
+la predicción, la capacidad de predicción y las pruebas artísticas o estéticas o musicales en este caso,
+en el caso de la investigación científica las pruebas que suelen tenerse en cuenta,
+sobre todo que sea verdadera o no, que sea producible, y uno de los criterios es la predicción,
+es la predicción objetiva que tiene la investigación, si alguien ha descubierto algo
+y predice que en virtud del descubrimiento va a ocurrir pues tales cosas dentro de tantos años o de un siglo,
+o de un espacio de tiempo que sea controlable, de 25, de 30, de 40 años,
+entonces la fiabilidad de esa investigación se funda en las pruebas,
+¿para qué pruebas homologas se pueden aplicar las obras de arte?
+¿Qué predicción cabe en las obras de arte? La única predicción es social,
+es decir, esta obra de arte, esta sinfonía que se ha escrito yo predigo que va a estar de moda dentro de 100 años o dentro de 50 años,
+pero eso no probaría nada, sería una predicción muy importante de punctuabilidad económica
+para los editores, para los gestores de salas de audición, por supuesto, sería una predicción importante económicamente,
+pero no sería una predicción artística, sería también de entorno, puramente, la predicción sería totalmente diferente,
+quiero decir que los valores de unos y otros son totalmente diferentes,
+pero en cambio las investigaciones de entorno, pues sí que en cuanto siguen las metodologías,
+más o menos, pues afinadas en cada disciplina, sí que pueden tener el mismo valor que las otras,
+una investigación de la historia de la música puede tener la misma fiabilidad que una investigación de la historia de la arquitectura
+o de historia de las vías públicas, yo que sé, es una investigación histórica,
+e incluso si es una investigación estilística comparada, exactamente lo mismo,
+y entonces este tipo de investigaciones son ya homologables, y ya para terminar definitivamente,
+la teoría del cierre categorial, que no puede exponérsela, y que en el fondo simplemente aquí se manifiesta
+como la teoría del espacio noseológico que llamamos, que son el conjunto de todas las figuras que aparecen en las ciencias,
+distinguiendo en el espacio tres ejes, que llamamos el eje sintáctico, el eje pragmático y el eje semántico,
+el eje sintáctico tiene tres sectores, que es el sector de los términos, de las relaciones y de las operaciones,
+en aritmética por ejemplo los términos son los números, las relaciones son mayor y menor,
+en aritmética de los números naturales, y las operaciones, pues son unas cuatro operaciones racionales,
+entonces en el eje sintáctico, el eje semántico tiene tres sectores, que es el sector referencial,
+el sector fenoménico y el sector estructurado, esencial, y el pragmático tiene tres sectores a su vez,
+el autologismo, el dialogismo y la norma, lo que quiero decir es que todo este espacio noseológico
+puede servir de canalización para clasificar los diferentes investigaciones que se pueden hacer en estas materias,
+pueden hacer investigaciones de términos, por ejemplo sintácticas, investigaciones de términos,
+si aquí los términos son elementos elementales o complejos, son sonidos nuevos,
+producidos o generados electrónicamente o no, ¿verdad?, o étnicamente,
+entonces investigación de nuevos sonidos como hay, como saben perfectamente ustedes,
+hay centros, ¿verdad?, en varios sitios, en todos los lados,
+sitios donde se experimenta con nuevos sonidos electrónicos o como sea,
+investigaciones de términos, realmente de relaciones, todo tiene que ver con la armonía,
+¿qué tipo de relaciones puede haber entre los diferentes sonidos?,
+investigaciones de operaciones, si las operaciones, nosotros en la teoría del cierre consideramos
+a los instrumentos científicos como operadores, como operadores,
+por ejemplo, operadores o relatores, por ejemplo, una balanza o un pirómetro óptico,
+una balanza no son órganos de los sentidos, como decían algunos, por ejemplo,
+es que el microscopio o el telescopio es la prolongación de la vista,
+eso no es teoría de la ciencia, el telescopio o el microscopio son operadores, ¿por qué?,
+porque transforman una fotografía dada en un lagado en otra, ¿verdad?,
+en un plano, transforman, es un operador, y una balanza es un relator, es una relación,
+una balanza te sirve para establecer una relación de igualdad o desigualdad entre dos masas,
+por ejemplo, o entre dos tipos de iluminación, es decir, que los aparatos físicos,
+instrumentarios físicos, químicos son operadores o relatores, ¿por qué no hay música?,
+es decir, un piano es un operador, no es una prolongación de los dedos del piano,
+porque además no lo es, es un instrumento, un instrumento es un operador
+para producir otras cosas que tengan la partitura donde sea,
+y entonces la investigación de todos los instrumentos está dentro de estas leyes sintácticas,
+de estas figuras sintácticas, las investigaciones del eje semántico,
+los referenciales es investigación de las fuentes de los sonidos,
+de dónde nacen los sonidos, de qué partes nacen los sonidos, de qué todo lo que sea,
+las fuentes reales y materiales, todo lo que se llama,
+los fenómenos es lo que se llama la fenomenología, fenomenología,
+es un nombre ya recibido en la investigación musical o psicológica,
+lo que pasa es que aquí la fenomenología está tomada, esto es un ejemplo también muy interesante,
+la fenomenología está tomada así suelta, aislada,
+y el autor, pues porque ha leído a Langer o lo que fuera, pues dice fenomenología,
+pero claro, la fenomenología es algo que no tiene sentido más que enmarcado en un sistema,
+porque esto es fenomenología de Husserl, fenomenología del espíritu de Hel,
+pero de qué estamos hablando usted, fenomenología, pero es que es eso, ¿verdad?,
+y entonces hablan de fenomenología, no digamos como de hermenéutica,
+porque han leído a Gálamer o lo que fuera, hermenéutica musical, pero de qué hermenéutica es la usted,
+es decir, que todos estos términos, como fenomenología, hermenéutica precisamente,
+que tanto se emplean en música, pues son métodos de investigación llamados,
+que están dentro de sistemas que han sido extraídos de ese sistema
+y se utilizan gratuitamente y no significan nada lo que cada cual quiera darles,
+el sentido que cualquier cualquiera dáselo, y entonces por eso yo he querido hacer simplemente un llamamiento
+a un mínimo de rigor para que cuando se emplean estos términos se sepa de dónde viene y qué quiere decir,
+bueno, vamos a terminar ya, porque esto es infinito ahora,
+y porque yo no estoy en condiciones como... porque mi instrumento vocal está completamente ya arruinado,
+vamos a ver, nos ha quedado, hasta mañana pues.
