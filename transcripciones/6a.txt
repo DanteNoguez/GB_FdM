@@ -1,0 +1,828 @@
+y el punto donde estamos dentro del programa que estamos haciendo.
+Y es que la gente que está aquí, que está en la sala de plazas,
+que está en la sala de plazas, que está en la sala de plazas,
+que está en la sala de plazas, que está en la sala de plazas,
+y el punto donde estamos dentro del programa que repartimos el primer día,
+el punto donde estamos es el artículo 3, párrafo 3,
+se llama estructura de la categoría musical, arquitectura y música.
+Realmente hoy tenemos que tratar de todo, claro, porque hoy acaba ya esta primera fase de esto,
+de manera que esto quiere decir que mi tratamiento tiene que ser muy general, muy global,
+para dar una idea general porque es imposible,
+prácticamente de estos artículos sobre la estructura sintáctica, semántica,
+pues todo eso, prácticamente aludirlo simplemente, no hay posibilidad.
+Pero vamos a centrarnos en algunos puntos centrales para por lo menos dar una idea de por dónde se va,
+de por dónde se iría aquí.
+Pues nada, empezamos ya por el principio, que es la música como comunicación,
+no, estructura de la categoría musical, eso es, el artículo tercero, estructura de la categoría musical,
+arquitectura y música, eso es.
+Bien, el problema es el siguiente, estamos dentro de lo que llamábamos,
+pues perspectiva o escala lisológica, y nos mantenemos en ella, ¿no?
+Es decir, si recuerdan ustedes la escuela lisológica, bueno, es muy fácil recordar porque lisos,
+es lo único que es liso en español, ¿verdad?, lisos, es lisológica,
+y ya pusimos algún ejemplo de termodinámica, es decir, en un tratado de termodinámica,
+cuando se está ofreciendo la estructura de última termodinámica a base de tres variables
+como presión, volumen, temperatura, con todas las funciones que salen, la entropía, la entalpía,
+todas esas cosas, pues estamos hablando de unos sistemas absolutamente abstractos,
+generales, que no se sabe de qué se trata.
+Es muy distinto de cuando, es cierto, cosa de físicos, por decirlo así, cosa de físicos.
+Otra cosa es cuando pasamos a la escala de los ingenieros, ¿verdad?,
+y donde todos estos principios generales se empiezan a tomar cuerpo, a encarnarse
+en estructuras morfológicas, como pueda ser la máquina de vapor, como pueda ser el termostato, ¿verdad?,
+es decir, un físico en principio no tiene por qué, bueno, y de hecho, no tiene por qué
+deducir de sus principios el mecanismo de un termostato, o de un frigorífico,
+y esas cosas de ingenieros, y a veces hay un abismo entre una cosa y otra, y lo hay,
+y una realimentación, pues este símil puede servir para ilustrar lo que quiero decir
+cuando hablamos de análisis o de escala lisológica de la música, es donde estamos,
+por ejemplo, una escala lisológica típica es la de que el otro día expusimos de la A y la B,
+la A y la R, la perspectiva de la gente y la perspectiva del receptor, eso es lisológica,
+porque aquí no se está diciendo absolutamente nada de morfología de la música, ¿verdad?,
+se aplica a todas en general, y nos mantenemos ahora esta escala lisológica,
+a diferencia de una escala morfológica, que ésta empieza propiamente en el artículo 4,
+es decir, cuando ya hablamos, vamos a poner, por ejemplo, de ópera, o de zarabanda,
+o de fuga, donde ya estamos en una perspectiva morfológica,
+ahora la música de la que hablamos tiene ya una forma determinada frente a otras,
+una conformación musicada, como puede ser una zarabanda, o lo que sea,
+pero esto es una escala morfológica, que son dos planos que suelen estar confundidos completamente,
+y que da lugar, a mi juicio, a multitud de confusiones infinitas,
+pero que conviene, yo creo, clasificar que lo que estamos haciendo es el principio,
+para disponer cada materia y cada tema en su sitio, sistemático.
+Bueno, pues ahora estamos en la escala lisológica, mantenemos, solo decirlo así ya,
+pero esta escala lisológica tiene a su vez dos perspectivas,
+que también tienen correspondencias clásicas, bueno, tradicionales, totalmente tradicionales,
+como el que esté un poco habituado a toda la tradición escolástica porfiriana,
+pues en seguida la reconoces, claro, porque realmente es esto.
+Digo que la escala lisológica tiene dos aspectos generales,
+primero un aspecto que podríamos llamar genérico, genérico, aquí está la cuestión, genérico,
+genérico porque analiza rasgos que son esenciales a la música,
+pero que no son exclusivos de ella, sino que son genéricos a otras formas del arte,
+por ejemplo, para no hablar de otras formas naturales, otras formas del arte, son genéricos, pero son esenciales.
+Y la segunda perspectiva es una escala lisológica pero que ya es, ahí está la cuestión,
+yo le llamo propia por el proprium de Porfirio, una escala propia, que es propia de la música,
+pero que no es necesariamente esencial.
+Escuso decir para, yo no puedo aclarar esto porque estaríamos la hora entera, o dos horas,
+simplemente dar una pista por del asunto.
+Les voy a poner un ejemplo rápidamente de si se entienden seguida.
+Todo el mundo recordará, porque esto sí ya es una cosa muy general, en el árbol de Porfirio,
+que estaban los géneros supremos, la categoría, los géneros subalternos, las especies, los individuos, ¿verdad?
+Bien, pues los géneros tenían rasgos característicos suyos, genéricos, comunes a otros,
+por ejemplo, el hombre, animal racional, animal era un género que era esencial al hombre
+pero no era específico del hombre, porque también hay otros animales que no son del hombre.
+Pero luego había otros rasgos que eran específicos del hombre,
+que eran principalmente la diferencia específica en la tradición clásica aristotélica, animal racional,
+pero luego estaban los propios, las propiedades, el cuarto predicable, que no eran esenciales, eran accidentes,
+pero eran accidentes propios, eran accidentes derivados de la esencia, pero no esenciales,
+porque podían faltar en algún momento, a diferencia de los accidentes quinto predicables que eran completamente en principio externos.
+De manera que entonces, y aquí está el quid pro quo, aquí está el dificultad,
+que cuando yo estoy intentando establecer estos dos niveles de la perspectiva de la isológica,
+pues el primero es genérico, no hay problema, el primero es genérico porque es común a otras formas del arte,
+por ejemplo, la distinción que hemos estado comentando días anteriores entre la dualidad de perspectiva receptiva
+y activa, y agente, pues es común, por ejemplo, la arquitectura, la arquitectura también tiene una perspectiva de la gente,
+los andamios que decíamos, el arquitecto, y luego la perspectiva del que la ve, del que la contempla, receptiva,
+que la ve sin andamios y ve otra perspectiva, y además, precisamente Adolfo Salazar, en un libro muy viejo,
+que sigue teniendo interés, yo lo he leído estos días, porque es un libro de hace lo menos 50 años o más,
+un libro sobre va de Adolfo Salazar, y todavía me sorprendí el otro día de la actualidad que tiene este libro,
+pues ahí hace, insiste mucho en esta diferencia, está hablando del escorial y dice que es muy distinto ver el escorial
+con ojos de espectador y no con ojos técnicos, porque la visión del escorial de un arquitecto,
+pues en cierto modo oculta lo que es el escorial, que está calculado para ser contemplado al margen
+de la estructura arquitectónica, técnica y de los andamios que ya comportan esa ejecución.
+Pues un poco es esta idea, de manera que las dos perspectivas que llamamos R y A es común a otras formas del arte,
+lo cual no quiere decir que no sea esencial, pero es genérica.
+Ahora, de las que vamos a hablar hoy, de estructuras propias de la música, propias, exclusivas de la música,
+pues estos caracteres propios de la música, pues se pueden llamar específicos.
+Hombre no, porque dentro de la tecnología que me estoy utilizando no sería justo,
+primero porque como la música hemos dicho que es un género, una categoría, pues no vamos a decir específico,
+porque entonces estamos ahí mezclando dos niveles de acepciones confusivas,
+y además porque mucho de lo que llamamos específico tampoco es esencial, como pasa en los árboles de Porfirio,
+aquí no estamos en una categoría porfiriana, lo decíamos, no es esencial, sino que a veces, aunque se cree como tal,
+vamos a hablar por ejemplo del ritmo, que para muchos es esencial a la música,
+y entonces, según la tesis que voy a mantener aquí, el ritmo o la ritmicidad no es esencial a la música,
+es propio, es propio, derivado de... esto se puede aclarar todavía mucho mejor,
+con la distinción más común entre rasgos distintivos o señas de identidad, como decimos, sobre todo en política,
+pero que es lo mismo, señas de identidad o rasgos distintivos y rasgos constitutivos,
+es decir, los rasgos distintivos son aquellos caracteres de algo, de una estructura, que nos sirven para diferenciarlo de los demás,
+y estos rasgos distintivos pueden ser accidentales, quinto predicable, accidentales,
+pues por ejemplo, bueno un ejemplo que yo pongo muy rápidamente, pero para que se entienda rápidamente,
+si en la escuela hay un alumno que es tuerto, este es el rasgo distintivo, entonces si uno dice, fulano y tal, el tuerto,
+claro, lo está dando por el rasgo distintivo, claro, pero no es constitutivo, y entonces ese rasgo distintivo,
+puede ser una mala fe el tomar al individuo por el rasgo distintivo, ¿verdad?, sirve para diferenciarlo, pero no es constitutivo de él,
+además del tuerto de él se trae muchas cosas y puede estar por encima de todos los compañeros que no sean tuertos, ¿no?
+En cambio, un rasgo constitutivo, pues ya no es accidental, pero tampoco tiene por qué ser genérico, ¿verdad?,
+ni tiene por qué ser esencial, porque podría ser prescindible, es el propio quinto predicable, el cuarto predicable,
+que es el más difícil y el más sutil de toda la tradición escolástica, que después, como ya me parece que dije alguna vez,
+se puede considerar que ha pasado al cantismo con el nombre de juicios sintéticos a priori,
+pero en fin, esto es un asunto que nos va a distraer completamente, pero van a ver ustedes la importancia que tiene
+en el análisis de la estructura musical y de la filosofía musical tal como la entendemos.
+Bien, un ejemplo rápido para mostrar, creo yo, la diferencia de estos dos planos, en un ejemplo concreto.
+Es un asunto muy discutido y muy interesante y que el otro día hablábamos, no me acuerdo si aquí o fuera de aquí,
+pero vamos que está tratado también en este curso y que hay que tratarlo y lo trataremos en la segunda fase.
+Es la revolución que ha constituido en música el descubrimiento de la grabación, de la música grabada.
+Es un descubrimiento técnico realmente todavía más importante yo creo que la televisión, ¿verdad?,
+si jabe, el experimento, el invento atribuido a Edison de que la voz o el sonido puede grabarse
+y por tanto tú puedes escuchar en un disco de pizarra o lo que se ve ahí luego electrónico como el otro magnético,
+tú puedes escuchar un concierto grabado, sencillamente.
+Claro, esto es un hecho realmente revolucionario completamente, sobre todo desde el punto de vista lisiológico-genérico,
+porque la grabación de un disco altera completamente la visión de la música que se podría tener antes de haberse descubierto la grabación.
+Concretamente afecta a la estructura RA, es decir, la música grabada por así decir borra la diferencia entre el intérprete y el otro.
+El que está escuchando una grabación de Rubinstein, si no lo sabe previamente, no sabe cuál es la mano derecha o la izquierda,
+no tiene por qué saberlo, no se deduce de ahí.
+Dice, hombre, es clarísimo, es clarísimo porque lo sabes ya, de verdad, pero tú estás ahí y aparte de que si es un concierto para la mano izquierda,
+como el de Ravel para el armado de Wittgenstein, que perdió el brazo derecho en la guerra,
+ese concierto de mano izquierda, el que no sea muy técnico, pues realmente le suena como un concierto más.
+Claro, como ya se dice concierto de mano izquierda, pero eso sigue siendo una indicación externa, como lo del pintor Orbaneja,
+esto es radio, ahí estás oyendo un flujo sonoro, ¿tú por qué sabes que es mano izquierda o derecha?
+Porque te lo han dicho, y entonces, cuando estás viendo directamente al interpretar al pianista,
+pues estás viendo primero que es manco, en este caso, ¿verdad?, y segundo que está tocando con mano izquierda,
+y por consiguiente la grabación rompe esa, neutraliza esa diferencia,
+por tanto es una revolución en la perspectiva liso-lógica genérica,
+pero en cambio, la estructura propia que vamos aquí a presentar, pues ya no es tan revolucionario,
+en cuanto a la grabación, es decir, la estructura que vamos a presentar de la música,
+lo que entendemos por estructura de la música específica, permanece íntegra en la grabación,
+¿verdad?, y en la música no grabada, en la música directa, permanece íntegra,
+por consiguiente diríamos que la estructura específica, claro, pues es más propia,
+más característica de la música, correspondientemente de otras artes, que no la estructura genérica.
+De manera que yo creo que este es una piedra de toque para medir la diferencia que hay entre las dos perspectivas,
+es decir, para que todo el mundo vea desde el principio que no se trata de una distinción totalmente utópica o metafísica,
+sino que tiene aplicación directa a un punto tan importante como este, y que sin esta distinción difícilmente sería tratar este asunto,
+es decir, la segunda parte. Sin distinciones de este tipo, ¿cómo se formulan estas diferencias?,
+pues es totalmente imposible, yo no veo otra forma, y de hecho la confusión que reina por todos los lados,
+como ya hemos visto ahora, pues es total, precisamente por no distinguir estos planos de la ontología de la música, por así decirlo.
+Aquí no estamos hablando, o no pretendo hablar de ontologías metafísicas, sino de ontologías completamente precisas,
+de algo completamente que se ve y se toca, por así decirlo.
+Entonces, por tanto, se llama propio, precisamente, se llama, prefiero yo el título de estructura propia,
+no sé cómo ponía aquí, estructura, aquí faltaría propia de la categoría musical, porque específica es incorrecto por razones de coherencia interna,
+terminológica, estructura propia, propia para sugerir que afectamos no solamente a los rasgos esenciales constitutivos,
+sino también a los rasgos que son propios de la música, aunque no sean constitutivos,
+claro, como es una cuestión totalmente, está en discusión, como vamos a ver ahora.
+Bien, entonces la situación es la siguiente, que la música tiene una serie de rasgos distintivos, vamos a decirlo así,
+no sabemos si constitutivos esenciales o occidentales, pero rasgos distintivos evidentes,
+que son muchos, pero aquellos más relevantes, digamos, son los que han sido objeto precisamente por la vanguardia,
+bueno, una vanguardia que tiene 100 años, me refiero a la vanguardia representada por Schoenberg y demás,
+pues Hindenberg, lo que llama la vanguardia, el serialismo, la música ordecafónica,
+esta vanguardia de 100 años, pero que todavía sigue siendo vanguardia, claro,
+esta vanguardia pues ha puesto en cuestión muchos de los caracteres de la música que se consideraban,
+que se consideraban pues esenciales, totalmente esenciales, sin discusión, verdad,
+y principalmente pues estos tres, vamos a analizar estos tres, primero la ritmicidad de las que hemos hablado,
+la tonalidad y la tematicidad, vamos a terminar en ad, verdad, como es propio de los abstractos en castellano,
+que por esto es la terminación en ad, yo he hecho alguna consideración al respecto en un libro sobre la felicidad,
+sobre la felicidad, pues porque las palabras abstractas son las que llaman la atención realmente en muchas tecnologías,
+por ejemplo en política, libertad, igualdad, fraternidad, no en todo término en ad, es el kite alemán,
+todos son abstractos y eso hay que tener, pues felicidad, hay que tener yo creo un cuidado enorme
+porque ahí hay una cantidad de metafísica metida en esas terminaciones en ad, queremos la libertad,
+la igualdad, la fraternidad, la musicalidad, la identidad, la identidad, es decir,
+todas las grandes, la libertad, todas las grandes palabras, verdad, si se ponen las pancartas terminan en ad,
+y eso es una cosa que realmente llama la atención, verdad, bien, pues para terminar en ad también estas palabras,
+pues por eso decía yo la ritmicidad, verdad, la tonalidad y la tematicidad, el tema, el tener tema, bien.
+Y entonces ocurre lo siguiente, que estos rasgos de la música, como rasgos distintivos, evidentes de la música,
+y propios incluso, pues han sido defendidos como tales y siguen siendo defendiéndolos,
+pues de perspectivas vamos a llamarles sapienciales, sapienciales, es decir, quien dice la esencia de la música
+está su ritmicidad, el ritmo, eso se dice de un modo sapiencial, como si el que lo dice lo sabe de buena dicta,
+porque ha conocido la esencia de la música, una expresión sapiencial, o la tonalidad es una característica esencial de la música,
+otra afirmación sapiencial, por ejemplo la primera de Schelling, la segunda de Ansermet, por ejemplo,
+es decir, sencillamente, bajo su autoridad, y porque ellos lo saben lo dicen, verdad, y lo establecen,
+pero no se sabe su fundamento, no conocemos su fundamento, y pues ahora se ve verdad, pero repito aquí lo que ayer dije en nuestro contexto,
+en Madrid, que la verdad, aunque lo sea, dice Platón en el Menón, la verdad aunque lo sea,
+nada vale si no se presenta junto con su fundamento, tiene que estar con su fundamento,
+entonces en estas afirmaciones sapienciales no se ve el fundamento, o bien los fundamentos que dan son totalmente,
+totalmente, pues fuera de lugar, o son tautológicos, como vamos a poner algunos ejemplos.
+Por ejemplo, y voy simplemente a recordar algo que todos ustedes habrán visto y leído continuamente,
+por ejemplo, la rhythmicidad, vamos a empezar, dos palabras, porque este asunto es muy abundante, la rhythmicidad,
+pues yo he escogido para el análisis, también muy rápido, ya digo que voy a hacer aquí porque esto es larguísimo, pero en fin,
+pues cómo fundamentaban la rhythmicidad, el ritmo, pues los idealistas alemanes, sobre todo ciertos idealistas,
+los más próximos, por cierto, los más próximos a pesar de su idealismo, los más próximos al positivismo posterior, al positivismo.
+Es decir, los dos idealistas que son, pues un poco los Naturphilosophen, que se llama, los filosofos de la naturaleza,
+son Schelling y el propio Krause, a diferencia de Hegel o de Zirte, Zirte de la música habla muy poco, Hegel mucho,
+Schelling muchísimo en la filosofía de la mitología y Krause también mucho, precisamente el otro día tuve ocasión de volver a leer
+la teoría de la música de Krause, traducida por Ginebra de los Ríos, que está ahí, que se ve claramente su posición intermedia
+entre el idealismo, el idealismo, digamos, positivista, entre paréntesis hay que recordar que la palabra positivismo,
+la filosofía la introdujo Schelling, precisamente no Conte, la filosofía positiva es una expresión de Schelling,
+anterior a Conte, unos años anterior a Conte, aunque tiene otro sentido, pero la filosofía positiva es,
+el último sistema de Schelling es la filosofía positiva, le llaman así, y tiene un acierto semejante con Conte,
+es decir, que la filosofía positiva de Schelling quiere centrarse sobre realidades positivas, del arte, de la música,
+del derecho, de la mitología, de la religión, positivas, no metafísicas, no hablar por ejemplo de Dios en astrato,
+de la teología natural de la
+de cómo fundamentan el ritmo en la música, vamos a empezar por los idealistas, por ejemplo Schelling, Schelling dice,
+pues que el ritmo es el fundamento de los fundamentos de la música, el fundamento de los fundamentos,
+y efectivamente leyendo a Schelling uno queda impresionado, claro de Schelling sabía mucho más de música que Hegel por ejemplo,
+el haber subrayado el ritmo es un mérito importantísimo de Schelling, pero los fundamentos que da, a mi juicio son muy endebles,
+más o menos de este tipo, el ritmo es el fundamento de los fundamentos, dice porqué, porque la música es tiempo,
+se desarrolla en el tiempo, y el tiempo es la realización de lo infinito en lo finito, la conciencia,
+son ideas que vienen de San Agustín, el tiempo como distensión anime, distensión del alma, de verdad, la conciencia es temporal,
+hay una distensión de la temporalidad, y entonces la música pues logra mediante el ritmo, que estaría dado en el tiempo,
+lograría la exposición de lo infinito de forma incorpórea, puesto que la música ya no tiene cuerpo, de forma incorpórea,
+y por consiguiente el ritmo es la propia expresión del espíritu finito expresando lo infinito, por ahí va,
+después habría que leer textos, pero todavía lo he puesto mejor de lo que es, las expresiones que utilizan, más inteligibles, por ahí va el asunto.
+Krause, pues, Eden, de Eden, pues el ritmo también, el ritmo dice Krause, es esencial a la música,
+porque el ritmo expresa la vida orgánica, lo orgánico, que está en el tiempo, y entonces esta vida orgánica que está en el tiempo,
+pues está expresada en la música por medio del ritmo, que no hace sino reflejar el ritmo de los vivientes,
+concretamente el andante es el pulso, o bien el ritmo de la respiración, o los ritmos de los animales, y luego ya empieza a desbarrar,
+o el ritmo del arroyo que fluye, o el ritmo de los astros que dan vueltas, en fin, realmente empieza por ahí, ¿no?
+Y entonces el fundamento, y luego Dios, claro, porque todo está en Dios, según los krausistas, el panenteísmo,
+entonces en el ritmo estamos viendo el ritmo divino, en el fondo es eso.
+Entonces la idea del ritmo aquí, pues sí está subrayada la importancia del ritmo, nadie lo discute,
+pero los fundamentos son los que no se ven claros, ¿verdad?
+Desde el punto de vista del positivismo, pues el ritmo está determinado, pues por ejemplo,
+es lo mismo de Schelling y de Kraus, pero visto ya fuera del instrumental metafísico, vamos a decirlo así,
+en un plan puramente naturalista.
+El ritmo es simplemente, pues una condición de la vida orgánica, ¿verdad?, una condición de la vida orgánica,
+y por lo siguiente una condición de, como dice Spencer, la música es un exceso de energía,
+la música sale del hombre, eso lo dice Spencer, claro, porque los animales no tienen música según él,
+entonces como el hombre es sobre la energía, tiene una energía súper abundante, pues la utiliza a través de la música,
+la canaliza por la música, y de ahí que la música, el propio Spencer dice, pueda contribuir mucho al bienestar de la humanidad,
+porque canaliza ese exceso de energía, con lo cual la teoría de Spencer, pues está a dos pasos de la teoría
+de la teoría que habíamos expuesto el otro día de la domesticación, es decir, ese exceso de energía,
+podríamos traducir Spencer desde el punto de vista de las teorías de la base de la serpienta estructural,
+este exceso de energía de los hombres, si no se canalizase produciría una anarquía completa,
+que la música contribuye a canalizar mediante el ritmo precisamente, y entonces los hombres quedan educados,
+Spencer no pasa al límite, quedan domesticados, verdad, mediante el ritmo, es un ritmo que queda ya, bien,
+y este ritmo, claro, pues sería un ritmo, se habla en general, no se habla de un ritmo determinado,
+Spengler, por ejemplo, dice que a los chinos, da una noticia muy curiosa, que a los chinos,
+toda la música occidental les parecen marchas militares, verdad, que los chinos creen cuando oyen
+igual una sinfonía de Haydn o de Mozart que están desfilando, que están desfilando,
+claro, esto es un tipo de ritmo ya morfológico, ya determinado, pero un ritmo de paso doble,
+un marcapasos, digamos, en donde el individuo está domesticado, está simplemente, pues,
+marchando al compás, del compás que le marcan, un marcapasos, claro, aquí se habla del ritmo en general,
+pero en el fondo es esto mismo, y entonces, claro, y de estos ritmos, pues están los ritmos sexuales,
+que es lo de Darwin, Darwin introdujo la idea de que el ritmo tiene un origen, la música tiene un origen sexual,
+y por tanto el ritmo es esencial porque aquí se incluyen, incluso los patrones de los ritmos musicales,
+se incluyen, no ya los ritmos de la respiración o los ritmos cardíacos, sino los ritmos eróticos o sexuales del acto sexual,
+que estarían presentes de teoría que después se ha desarrollado por algunos ecuadalistas, claro,
+algunos ritmos musicales estarían expresados, que no se identifican como ritmos militares,
+lo que fuera, estarían, pues, inspirados por el ritmo sexual.
+Entonces, es una explicación del ritmo también, pero claro, estas explicaciones, a mi juicio,
+no son fundamentos musicales del ritmo, no son fundamentos filosóficos,
+yo no estoy negando que no pueda haber una influencia importante de estos ritmos extramusicales, ¿verdad?,
+extramusicales, puede haber influencia importantísima en la música, no estoy negando en absoluto.
+Lo que estoy diciendo es que estos fundamentos no están derivados de la esencia de la música,
+sino están tomados desde fuera de la música, de distancias exteriors a la música.
+Yo no niego que haya estas influencias, yo lo que estoy suponiendo es que para que estas influencias se conviertan en ritmos,
+en un sistema de ritmo musical, pues hace falta una transformación, una transfiguración,
+dentro del propio constitutivo formal de la música, en donde todas estas cosas quedan incorporadas,
+pero a una distancia tal que quedan como un caso más, incluso de las situaciones donde no hay,
+donde no hay, sencillamente, donde no hay ritmo, ¿verdad?, en la propia música, donde no hay ritmo.
+Esto se verá mejor después. Es decir, que estos fundamentos extramusicales, vamos a decirlo así, genéricos,
+pues no son fundamentos internos de la propia naturaleza de la música como categoría,
+y que estos fundamentos externos, aunque sean motivo de inspiración de la canalización en ritmos,
+pues no recogen la naturaleza o el momento en el cual estos ritmos extramusicales se convierten en musicales,
+¿en qué momento se convierten en ritmos musicales? En ritmos artísticos, ¿verdad?,
+con el peligro consiguiente, claro, de recaer inmediatamente en ritmos, pues no musicales,
+que es lo que pasa en el caso de la música, yo creo, el peligro constante de la música y del ritmo de la música,
+pues es el recaer en algo que no es musical, que tiene que ver con la danza, con la danza de los chimpancés,
+en fin, con la danza de la lluvia famosa de la aguda, y con ritmos que vemos constantemente en la música rock,
+y más que, claro, llamarla esa música, me parece que es un abuso de los términos,
+donde la gente está danzando, está en un espectáculo de orgía latría, en un espectáculo de comunicación interna,
+está aquello que llaman música donde la música siempre tiene una función de marcar el paso, de algún modo,
+para otros files que son extramusicales completamente, ahí la música está, es una música servida,
+al servicio completamente de la danza, ¿verdad?, o de otras cosas parecidas, y entonces,
+allí se ha recaído otra vez, decir que esto es música, pues a mí me parece un abuso de los términos,
+es música, pero más bien, yo diría degenerada, es degenerada, es decir, ha perdido el género,
+está en otro género, aunque muy próximo al anterior, incluso utilizando, pues,
+toda la instrumentación propia de instrumentos de cuerda, de lo que fuera, de viento, etcétera,
+están utilizando, pero de un modo degenerado, ¿por qué?, porque el ritmo ha perdido su definición interna musical,
+y ya ha sido devorado por otros ritmos extramusicales, al margen de que sean mejores o peores,
+entonces, no hacemos juicio estético, puramente un juicio, diríamos, estructural.
+Bien, entonces, lo que se pide es esto, lo que se pide es que, buscar un fundamento de ritmo,
+y este fundamento habrá que buscarlo en el constitutivo esencial de la música, bien, lo hablamos de esto.
+El otro ejemplo, vamos a despacharlo rápidamente, la tonalidad, por lo mismo,
+la tonalidad, como sabemos, pues desde Zarlini hasta Rameau, etcétera,
+pues se ha ido creando poco a poco históricamente, pues como una característica esencial realmente de la música,
+realmente esencial, y una característica es que de algún modo se vincula, pues,
+a una serie de relaciones entre los sonidos, pues la tónica, la mediante, la dominante, la subdominante,
+la sensible, etc. todas estas diferencias que viene de Rameau prácticamente,
+en donde la idea de la tonalidad aparece como algo que brota, que fluye,
+que se desvanece de las propias relaciones entre los sonidos, y es que está determinado por una estructura,
+una especie de red de sonidos que cubre a cada una de las obras musicales,
+y que define propiamente su propia estructura en cada momento.
+Pero claro, y esto porque se dice, claro, esto es lo que ha sido también,
+puesto en tela de juicio, pues precisamente por la música atonal, por el atonalismo, el llamado atonalismo.
+Ahora, ¿cómo se fundamenta la tonalidad? Pues también sapiencialmente, sapiencialmente.
+Ya hemos dicho muchas veces, Ansermeyer, que yo creo que es la autoridad, ¿verdad?
+Ansermeyer y Hindemith son dos autoridades, claro, como músicos de voz,
+como directores de orquestas, de primer orden, teóricos en el asunto, que nadie puede discutir, pero vamos a autoridad,
+en fórmulas sapienciales, por ejemplo, dice Ansermeyer, bueno, ahí tengo los textos, pero los digo un poco de memoria,
+pues dice Ansermeyer, la tonalidad es la ley ética de la música, es la ley fundamental de la música,
+sin tonalidad la música desaparece, la subversión de relación tónica dominante tónica, la décima, de la inversión, etc.,
+pues es lo mismo que la muerte de Dios, sencillamente, esto está en la esencia de la música,
+claro, esto lo dice Ansermeyer bajo su autoridad, en plan sapiencial, claro, y Hindemith lo mismo,
+Hindemith pasa lo mismo, también para Hindemith la tonalidad es completamente esencial,
+y dice una cosa muy curiosa, porque la tonalidad es una fuerza natural, es una fuerza natural de la música,
+es como la ley de la gravedad, luego de esto lo haremos, porque esto es una de las cosas más curiosas,
+ya lo hemos citado alguna vez, la comparación de la tonalidad con la gravedad, con la ley de la gravedad,
+y entonces a mi juicio es un error monumental, pero sin embargo algo se quiere decir,
+pues la ley de la gravedad, y ya hemos dicho algunas veces, pues como en tratados de armonías,
+la sensible aparece atraída, aparece atraída, por la décima,
+pues por ejemplo la tónica, la sudominante y la dominante son como satélites de la tónica,
+están girando como planetas, es decir, la idea de la gravedad está por ahí como metáfora pedagógica,
+no sé qué quiere decir con esto, pero algo querrán decir, y entonces yo creo, anticipando un poco,
+lo voy a decir porque esto empieza a ponerse, bueno, vamos a ver si sigo adelante, la idea es que,
+la ley de la, que esta idea de esta comparación de la gravedad, de la tonalidad, yo creo que está
+precisamente determinada o inspirada por una confusión debida a lo que los alemanes llaman la Augenmusik,
+es decir, la música a la vista, es decir, la música escrita, la música de partitura,
+en la música de partitura, claro, ya vamos a ver la posibilidad de asimilar la gravedad con esto,
+es casi inmediata, pero claro esto es, a mi juicio, no haberse dado cuenta que estamos fundamentando esto
+sobre la música a la vista, la música que se lee, que la lee el experto, el técnico,
+el que sabe más o menos interpretar una partitura, o que incluso escribe, escribe sin tener a la vista,
+por ejemplo, el arte de la fuga es considerado por muchos teóricos, como saben, como una música escrita,
+que Bach no indicó ni para qué instrumentos, la clave de sol esta que ponemos ahora, pues es una transcripción,
+pero en el contrapunto primero y segundo, etcétera, del arte de la fuga, hay una clave de do en distintas líneas,
+ahí no se dice que instrumentos tiene que tocar y por eso la cantidad de intérpretes imaginarles, es decir, aquí Bach estaba escribiendo sobre el papel,
+estaba escribiendo sobre el papel, bien, y entonces la idea de esta música vista,
+pues es, a mi juicio, ahora os explicaré por qué, es el fundamento yo creo de esta confusión, si yo no entiendo mal,
+entre la tonalidad y la gravedad, que es lo que dice Hindemith, y claro entonces, pues la vanguardia, para los que nos esperen, es así,
+es decir, no, la tonalidad de que se habla es una tonalidad simplemente, un cierto tipo de tonalidad, es la tonalidad de la música barroca y clásica,
+pero es una tonalidad que ya está agotada y por consiguiente hay que prescindir de la tonalidad, igual que se ha prescindido del ritmo,
+de la música rítmica, etcétera, o polirítmica, pues se prescinde de la tonalidad, claro, el caballo de batalla es, si las nuevas músicas seriales,
+y realmente es una revolución como se dice, tantas veces se ha dicho, lo dice por ejemplo Shirley, pues que la música de Debussy,
+por ejemplo, los juegos de Debussy, pues con el modo de entender impresionisticamente, bueno, el modo del impresionismo,
+pues la composición musical, pues estaba prácticamente liquidando la tonalidad, en la práctica, aunque no en la teoría,
+y entonces, que por consiguiente, que la liquidación de la tonalidad fue un proceso, no simplemente gratuito de Sembe,
+sino que fue un proceso en donde la tonalidad clásica se fue deshaciendo, pero ¿para qué?, para evitar toda la tonalidad,
+claro, aquí está el caballo de batalla, pues un discípulo de Sembe, Shirley, searle, en un libro interesantísimo que tiene,
+también traducido hace varios años, no sé, hace 20 o 30 años, que yo tenía ahí en casa, pues allí Shirley mantiene la tesis,
+y también es compositor y director de esta, que la música serial y la de Sembe es una música tonal, es otro tipo de tonalidad,
+pero que es una tonalidad, que marca la tonalidad de un modo, no a modo de Rameau, por ejemplo, ni de Riemann,
+sino otro tipo de tonalidad, pero que es tan tonalidad como la otra, y que por consiguiente la música sigue siendo tonal.
+Ahora, ¿por qué se dice esto?, tampoco se sabe por qué, tampoco dicen por qué, no se ve el fundamento de la tonalidad,
+aún suponiendo que la tonalidad sea en las tonalidades de las escalas de las escalas diatónicas, las cromáticas,
+o las seriales, etc., no se ve por qué razón la tonalidad tenga que ser esencial a la música, o propia, aunque evidentemente es propia de la música,
+es propia, en el sentido bien. Y la tematicidad, pues es curso decir, el problema, la tematicidad,
+el hecho de que la música sea esencial a la música, el tener temas, y el tema, el tema que es, el tema del contrapunto primero de la fuga,
+el tema, este tema que es, pues, le llaman sujeto a algunos, es muy curioso, el tema es el sujeto, claro, esto del sujeto viene de,
+claro, también el fundamento del tema es el sujeto, pero viene también de motivos extra musicales,
+esto es muy importante, yo creo, a saber de la gramática, es decir, sujeto, verbo y complemento directo y predicado,
+ni más ni menos, y esto viene por vía galicista, por vía francesa, pero quizá el precursor de esto,
+de llamar sujeto al tema, que todavía se ve en algunas ediciones del arte de la fuga,
+pues en estos prefacios que anteponen, o que acompañan a los discos, te encuentras alguna vez el sujeto,
+el sujeto es esto, que a mí me llamó la atención, el sujeto, qué cosa tan rara, ¿verdad? el sujeto, y luego,
+bueno, explorando, rastreando, pues yo creo que la base de, la fuente de esto está en Koch, en el famoso Koch,
+autor de un Lesicon musicalis in Lesicon, un diccionario musical de 1802, 1802,
+en donde Koch se decide a establecer unos criterios para análisis de la música concreta,
+bueno, música concreta no, está también la palabra secuestrada, de la música real, de la música morfológica,
+y entonces utiliza la gramática, entonces habla de frases, de periodos, de cuando dos periodos forman,
+dos periodos se juntan, que suelen ser cuatro compases, forman una frase, y entonces esta frase tiene un sujeto y un predicado,
+el sujeto es el tema y el predicado, pues sea lo que sea, lo que siga,
+entonces simplemente quiere encajar en la estructura de la música, una estructura de la gramática alemana o latina, de su época,
+y claro, eso es totalmente extra-musical, eso a lo sumo valdrá para la música de canto, la música cantada,
+pero para la música instrumental realmente eso parece un artefacto completamente puesto desde fuera,
+y sin embargo pues esto sirve de mucho.
+Entonces, claro, el tema, ¿qué es entonces el tema?, pues el tema es la melodía, claro la melodía se dice,
+el tema tiene que ser una melodía, que sea cantable, cantable, de algún modo cantable, que se pueda reconocer,
+y entonces ¿qué es el tema?, pues algunos dicen, bueno pues el tema es la única forma de que podamos identificar mediante la memoria,
+pues la sucesión de sonidos que van teniendo lugar a lo largo del tiempo, y que sería un caos completamente aleatorio,
+si no identificásemos algunos grupos de notas formando unidades, ¿verdad?,
+y entonces este grupo de notas se confía a la memoria, y la memoria musical, si no se tiene,
+claro, si no tiene memoria musical pues no entiende la música, se aburre totalmente, porque es una algarabía que escucha a mí,
+una verdadera algarabía, ¿cuándo se pasa de escuchar la algarabía musical a entender lo que se dice entender la música,
+de punto de vista R, simplemente de poderla seguir y darse cuenta de por donde la asunto,
+sin necesidad muchas veces, o muy poco, de un conocimiento mínimamente técnico del asunto,
+simplemente de cómo pasa en tantos centros que van a los conciertos, se distingue perfectamente un tema de Mozart o de Beethoven o de Vivaldi,
+lo que fuera, que lo distinguen sin haber visto una partitura en su vida, lo distinguen perfectamente,
+y entonces esta tematicidad, claro, ¿de dónde viene?, ¿viene de la memoria?, ¿viene de dónde?, pues tampoco se fundamenta,
+tampoco se fundamenta, porque resulta que cuando viene la música atemática, donde no hay temas,
+donde la melodía ha desaparecido, pues esto es música o no es música, ¿qué pasa en una música atemática?,
+como muchas veces ya debís ir, muchas veces se pretende, a pesar de que luego en los títulos,
+en la música de programa aparecen otra vez los temas sugeridos al oyente, al que está en perspectiva R.
+Bueno, pues estos son los asuntos de los que estamos tratando, es decir, entonces estamos viendo, para recapitular,
+estamos viendo que a la música se le atribuyen atributos, digamos, o propiedades o caracteres que son propias suyas,
+propias y como rasgos distintivos, pero que se le atribuyen sin duda certeramente, como el ritmo,
+la tonalidad, todo esto que he dicho, sin duda certeramente, pero sin expresar sus fundamentos,
+simplemente porque los expertos, los sabios, es decir, los que saben, los catadores,
+como puedan ser Hans Sermet o Hindemith, los catadores dicen, no, es que esto es así,
+y por tanto lo digo yo porque lo he catado, y será cierto, yo vuelvo a Platón,
+será cierto, pero si no me dice usted un fundamento, pues no, porque tan catador como usted es Schember,
+entonces, ¿qué pasa aquí? Hace falta un fundamento, sobre todo si estamos en filosofía de la música,
+si estamos en la práctica es distinto, no hace falta fundamentos, pero si estamos hablando de filosofía de la música,
+yo creo que hace falta los fundamentos, dar fundamentos, y entonces los fundamentos,
+pues, ¿qué tipo de problemas plantea? También rapidísima, para entrar rápidamente en materia
+e interrumpir la primera sesión. Pues los fundamentos, pues pueden, seguramente ser de muchos tipos,
+ahora hay muchos tipos de fundamentos, muchas cosas de fundamentos, pero que en el fondo,
+en el fondo yo creo que siempre rondan en torno a la idea de unidad holótica, holótica quiere decir holon, todo,
+todo, la unidad holótica de la música, es decir, ¿cuál es la unidad holótica de una música real, efectiva,
+es decir, de un, ya morfológicamente dada, aunque aquí estamos estudiando los rasgos lisiológicos de esas morfologías,
+estamos suponiendo la verdad, no estamos estudiando una morfología concreta, eso es otra cuestión,
+pero claro, la música existe en morfologías, es decir, cuando hablamos de la categoría musical,
+no hablamos de la música así continua, concepto al que se aproxima, pues esta música ambiental que llamamos,
+una música que está sonando continuamente, sin interrupción, día y noche, en los grandes almacenes,
+en el hilo musical, donde todo es música, eso es una música, es una aproximación a la categoría musical,
+a una atmósfera musical que nos envuelve continuamente, pero de hecho, que no es música,
+además porque además es una sucesión, es una sucesión de un pupurri, de diferentes obras musicales,
+la música es cada una de las obras, es un poco, para poner el ejemplo rápido, cuando hablamos de arquitectura,
+la arquitectura se puede tratar también, y se trata de un modo disológico general, lo que es la arquitectura general,
+pero luego la arquitectura real son los edificios, son las casas, los edificios, los monumentos, etc.,
+eso es la arquitectura, y entonces lo que preguntamos, ¿cuál es la unidad arquitectónica?,
+¿es el edificio?, ¿es la casa?, ¿es la ciudad?, ¿verdad?, o la ciudad ya es una arquitectura compleja
+que supone la concatenación de muchos edificios, y de donde resultan, pues, realidades o perspectivas
+que ya no son propiamente arquitectónicas, sino por ejemplo urbanísticas, por ejemplo una calle,
+no es un concepto arquitectónico propiamente, sino más bien es un concepto urbanístico,
+y entonces, a pesar de las extraordinarias intersecciones que hay entre una y otra,
+pues aquí estamos hablando de unidades de lo que en arquitectura son los edificios,
+pues en música serían las obras, las obras, ¿verdad?, obras musicales, las obras,
+que se supone que tienen una cierta unidad, una unidad holótica, unidad holótica, y de totalidades T,
+totalidades que llamamos atributivas, no distributivas, porque los otros son totalidades distributivas,
+son totalidades T, son sinológicas, bueno esto ya hemos hablado un par de veces, son totalidades T,
+claro, cuando se habla de totalidad, pues también hay que distinguir, claro, porque una cosa es la totalidad distributiva,
+que nosotros la interpretamos con una T gótica, y la totalidad distributiva que la señalizamos con una T latina,
+entonces, una totalidad, para que se entienda rápidamente, si yo hablo de, pues eso, del mamífero,
+el mamífero es una clase distributiva, porque el mamífero contiene una multitud de especies, de órdenes,
+dentro de esto, ¿verdad?, en cambio si yo hablo de un mamífero concreto, por ejemplo de este hombre concreto,
+pues ese organismo mamífero es una totalidad atributiva, es decir, una totalidad T,
+donde las partes están concatenadas unas contra otras en un organismo, formando una totalidad atributiva,
+pero tan totalidad es la otra, por tanto hablar de totalidad tampoco tiene mucho sentido, hay que precisar si es distributiva o atributiva,
+entonces lo que quiero decir es que estas unidades de las que estamos hablando de las órdenes musicales son totalidades atributivas,
+y entonces estas totalidades atributivas, a estas supuestas dadas, porque no se pueden derivar de las otras,
+de esto está dado, de esto partimos, si mantenemos una metodología positivista en ese sentido,
+en el sentido de Schelling y luego, pues supuestamente, Conte, es decir, si estamos partiendo de estas órdenes ya dadas,
+es decir, si partimos de que está dada una misa en re menor o una sinforía 40, lo que fuera, estamos ahí con obras ya dadas,
+esas obras ya dadas son las que constituyen la referencia de los análisis lisiológicos propios de lo que estamos haciendo,
+no estamos hablando en general, bien, entonces, y todo esto está funcionando en torno al concepto esencial de la música,
+la idea del concepto esencial es un concepto también de la tradición escolástica,
+el concepto esencial es una idea muy fecunda a mi juicio, porque el concepto esencial ya no es porfiriano propiamente,
+porque la idea porfiriana, hombre animal racional, el ejemplo clásico, ahí está el género próximo a la diferencia específica,
+claro, ese sería el concepto esencial del hombre, pero es un concepto binario, son dos elementos, el género y la diferencia,
+y el problema que tiene siempre la idea de Porfirio y de Linnaeo, porque el ideó que hoy decimos es Porfirio,
+es ver de dónde sale la diferencia con respecto al género, es decir, se le agrega, sale por emanación, por eclampsis,
+como decían los neoplatónicos, o sale simplemente por adición, es decir, el problema es cómo se une el género con la diferencia,
+como rasgo distintivo no hay problema ninguno, simplemente este es el género, una tasomamía que creo que hace Linnaeo,
+hay rasgos genéricos y rasgos específicos, muy bien, ahí está, pero con eso no estás explicando la naturaleza interna,
+del constitutivo interno de la esencia, que puede tener un rasgo o los que fuera, pues bien, los problemas del constitutivo desde todo,
+se podrían distinguir también, si tuviéramos tiempo, ir exponiendo diferentes criterios y perspectivas ontológicas que se han mantenido,
+para decirlo rápidamente, habría dos extremas y una intermedia, por decirlo así, dos extremas a las cuales se corresponden muy bien con
+lo que podemos llamar el monismo, el monismo y por un lado el atomismo, el atomismo, monismo, ¿qué quiere decir?,
+pues monismo son teorías de la unidad olótica, la unidad de estos olemas, alguna vez lo hemos llamado así, de estas unidades musicales,
+que son totalidades olemas, pero concretos, que en donde, de todo, holon todo, católico, de ahí viene católico, como saben, holon, el todo,
+pues la idea de estas totalidades, como si tuvieran un germen o una fuente única, una fuente única, y esta fuente única estaría dada
+en el propio interior de la música, en el propio centro de cada música, de cada obra concreta, pues como, o bien como un germen orgánico,
+o bien simplemente como una estructura total, estáltica, de las que hablamos, y entonces la música sería, la unidad de la música total
+sería la propia totalidad, su propia totalidad, postulada realmente como una unidad de tipo sustancial, de la fuente sustancial,
+pero de un sustancialismo casi literal, orgánico, en el fondo es la tesis de Rameau, estas clasificaciones no quiere decir que luego
+los clasificamos respondan puntualmente porque sus teorías estaban hechas sin conocer la clasificación, pero no quiere decir que
+no estén completamente aproximándose a esto, por ejemplo Rameau, para abreviar, Rameau como saben introdujo la tesis, pues de que
+el acorde fundamental, pues tónica, tercera, quinta, etcétera, que el acónico fundamental viene de los armónicos,
+bajo el principio de que todo sonido superior está contenido en los más graves, y además contenido según razones aritméticas,
+uno, dos, dos tercios, etcétera, y ahí va deduciendo él, en plan cartesiano, digamos asiomático va deduciendo, pues todas las diferentes clases
+de acordes perfectos, imperfectos, disonancias, concordancias, la música como una especie de alternancia continua de la disonancia
+que busca la tranquilidad de la consonancia, etcétera, pero todo esto medido en términos pitagóricos, en el fondo ese pitagorismo
+literalmente es realmente el gran avance a mi juicio, bueno el principio de la teoría de la música ha sido los pitagóricos,
+claro, porque se ha continuado constantemente, y entonces que los pitagóricos fueran todavía pues muy elementales, pues en los procedimientos
+que ellos tenían de analizar la naturaleza de las relaciones aritméticas de las cuerdas, pues no quiere decir que no hubieran ya
+encontrado la clave de esta teoría, de estas teorías holísticas, claro. Entonces la idea es esta, la música estaría en la fuente,
+en un germen que está dentro de la música, a estas ideas se aproximan pues teorías llamadas organicistas precisamente,
+pues por ejemplo de Schenker en cuanto a su filosofía, o de Retti, el americano, donde también la clave de la unidad de la música,
+de un aura musical, está en un motivo fundamental que inspira a todos los demás, pero aquello simplemente se postula en plan
+sustantivo, o bien en una forma general, en una gestal que está por encima de las partes, y las partes están contenidas en esa forma general.
+La razón principal, para abreviar, por la que desde las coordenadas en que estamos situados, rechazaríamos, o yo rechazaría,
+este tipo de fundamentaciones, vamos a llamarlas así monistas, monoteístas, dice alguna vez Schenker, monoteístas, llega más,
+pues aunque fuera de esta clasificación, las razones son las razones de las que venimos partir, desde el principio de la simple que,
+si todo esto hubiese relacionado con todo, no podríamos conocer nada, y este principio se aplica a muchos niveles,
+aplicado al nivel que nos ocupa aquí, es decir, a la unidad de una obra musical, si todas las partes de este todo estuvieran relacionadas con todo,
+no podríamos conocer la estructura de aquello, estaría simplemente postulada, sería un sustancialismo completo,
+sería en contra del principio de la simple que, tienen que haber partes que sean susceptibles de ser separadas de las otras,
+no puede estar ligado todo con todo al principio, ni ser todo fractal de otro, que es un modo de poner también el holismo de Mandelbrot y demás,
+aplicado a estos criterios, es decir, si había fractales no los negamos, y los hay, muchas veces, pero otros fractales llegan hasta cierto nivel,
+hasta el nivel de ciertas partes formales y luego desaparecen, de la importancia de distinción entre partes formales y materiales,
+es evidente que a nivel de partes materiales, pues desaparecen, naturalmente estas estructuras holísticas, pero incluso a nivel de partes formales,
+штın.
+The finance aspect of this sì justified ñyes".
+First of all let's focus on the Inspired Mining.
+Upon that, there is not a single part of this that is a part of the
+terrorists' inspiration in the US,
+but it's not for relaxation orbs or hygiene.
+Finally let's yes that you take piece of置
+Ok, precisamente la pautanned
+La pautan que aportan Genau axé
+One can Championship
+Yes.
+para importar
+corrupted
+about
+through
+of
+freedom
+declaration
+of
+peace
+of
+Aquí simplemente la idea, el esquema sería el siguiente, el modelo sería el siguiente.
+La música es un conjunto de sonidos puntuales, aleatorios, que se van, que se van simplemente sucediendo nosotros en el tiempo.
+Y entonces, por ejemplo, ahí está, en el libro extremo y conocido de Luis de Pablos, del año 68 me parece,
+aproximación a una estética de la música, me parece que se llama, pues ahí Luis de Pablo creo que está en la época de Boulez y la música estocástica,
+y ahí está Stochausen por el funcionando, verdad, el año 68, aunque yo recuerdo, leyendo este libro último,
+bueno, repasando, porque es un libro que tenía yo desde siempre, repasando los años yo recuerdo que en Londres fui yo a pedir un disco de Stochausen,
+a una casa de discos gigantesca de Londres, empezaron todos los empleados a ponerse nerviosos, ¿cómo Stochausen?
+¿Eso se lo inventa usted? ¿Se lo escribí?
+Y esto era el año 68 y no conocían absolutamente nada de aquello, no habían oído, cosa que me extrañó muchísimo,
+que en Inglaterra no hubieran conocido cuando ya estaba funcionando Stochausen, no tenían nada, absolutamente nada.
+Y luego, a los tres o cuatro años que volví allí, ya tenían allí una cosa de Stochausen, de manera que era una cosa muy curiosa,
+la lentitud de la... bien, pues, está Luis de Pablo, está en ese ambiente, mucho mejor informado que los ingleses, por supuesto,
+claro, Luis de Pablo ya estaba en Berlín y demás, y entonces pues está muy afectado en su teoría de las ideas estas atomísticas,
+incluso él distingue, pues, sonidos puntuales y sonidos lineales, la música es un conjunto de sonidos puntuales,
+hay instrumentos que están orientados a producir puntos musicales, y él pone como ejemplo el triángulo, el tambor, cosas de ese tipo,
+el cacerro, ¿verdad?, son unos puntuales, mientras que las líneas, los instrumentos lineales son los instrumentos de viento,
+flautas, violines, etc., donde son líneas musicales, y entonces, pues todo ocurre de un modo estocástico,
+y la música pues se va organizando, para organizar este caos tiene que escoger alguna forma de selección,
+y la música es una selección del caos que consiste en el fondo, el fondo es un caos pero seleccionado artificiosamente,
+según esquemas, y además tomado desde fuera, porque claro, él ofrece muchos ejemplos de partituras, por llamarlas así,
+que él propone allí, y aquellos son ejemplos figurativos, entonces aparecen ahí una serie de borrones, la densidad es mayor,
+y luego, aquello se ve claramente, tiene la oscenidad, por decirlo así, de poder en teatro, como se le ocurría a él lo que iba a componer,
+es decir, que era una cosa completamente vista desde fuera, es decir, que en el propio libro yo creo que está la crítica que se le puede hacer a él,
+que aquello están tomadas estructuras completamente desde fuera, estructuras pictóricas,
+ahora vamos a poner aquí mucha densidad, ahora una línea de graves, unos puntos de tal, me parece a mí, un pastiche completamente.
+Entonces, luego hay estructuras binarias, claro, entre las dos están estructuras binarias, hay dos componentes, no uno solo ni infinito,
+sino dos componentes, bueno, aquí me voy a fijar en dos, dos muy conocidos, dos muy conocidos, que son casi tópicos, y también sin fundamentar,
+es decir, la música es un conjunto de sonidos compuesto de armonía y melodía, es una cosa tradicional,
+la música es un tejido, un tejido, lo del tejido es una metáfora platónica además, en el Gorgias aparece,
+dice Platón, ¿qué es la música? y dice Platón en el Gorgias, dice, pues es, el arte de la música es como el arte de los tejedores,
+pero que en lugar de utilizar hilos utilizan sonidos, utilizan canciones, en el fondo es una imagen, y de ahí viene, claro,
+pues la música de la urdimbre y la trama, como los tejidos, la urdimbre y la trama.
+Ahora, la diferencia está, ¿qué papel asignamos a la urdimbre y cuál a la trama?
+La diferencia entre urdimbre y trama que dan los tratados de técnica de tejidos y que da el diccionario de la academia,
+pues esto, la urdimbre es el conjunto de hilos paralelos, de hilos paralelos que se ponen en el telar,
+es decir, el paralelismo es el concepto de urdimbre, y luego la trama pues son las líneas ya en zigzag,
+que van atravesando la trama, o lineas perpendiculares o en zigzag, o como fuera, o curvas para sacar el tejido,
+el criterio es el paralelismo, y entonces, pues la música es un tejido, metáfora plantándica, que tiene dos elementos,
+la trama y la urdimbre. Ahora, ¿cuál es la melodía, la urdimbre o la trama?
+¿Y cuál es la armonía? Porque en música lo que pasa es que no hay ni urdimbre ni trama,
+más que en la música, en el Augenmusik, la música a los ojos, la música escrita,
+claro, en la música escrita, claro, la urdimbre son los pentagramas, que son paralelos,
+pero esos pentagramas nada más están en el papel, no están en la música real, es como las órbitas de los astros,
+no están más que en los libros, en la realidad no hay órbitas, ni las órbitas son carriles que los astros vayan recorriendo,
+pero claro, esta imagen de la urdimbre, como hay los paralelos, yo creo que viene del pentagrama,
+y de otras más cosas que vamos a insinuar ahora rápidamente.
+Y entonces, esta urdimbre, pues serían los pentagramas, y luego, claro, ¿y por qué llamará esto armonía o melodía?
+Resulta que la melodía aparecería en los pentagramas como diferencia de altura, claro, de sonido,
+que precisamente romperían la urdimbre, porque bueno, también cabría claro, un sonido uniforme,
+siempre el mismo, verdad, ritmico, no, un sonido que fuera siempre monocorde, siempre el mismo,
+ahí no habría melodía, por supuesto habría sonido, pero sería un sonido que a los cinco minutos
+fatigaría ya la atención, bueno, que cerraríamos inmediatamente, porque estás escuchando un único sonido,
+si tuviera ritmo aún, pero si fuera un único sonido, que es el único caso donde podríamos hablar
+de un desarrollo perpendicular, no, no es virtual, verdad, paralelo a otro sonido, verdad, pues entonces, no sé.
+Ahora bien, ¿por qué llamar al otro armonía, melodía y armonía, por qué llamar otra armonía?
+Pues aquí viene el asunto principal, y aquí yo creo, bueno, voy a exponer rápidamente, aquí viene yo creo,
+la gran confusión, porque la armonía, trazamos verticales ahí, trazamos verticales,
+y entonces de ahí viene la idea del contrapunto, de la armonía vertical, de cuando varias,
+una polifonía va sonando junto a los sonidos, entonces es la coincidencia vertical, puntual,
+y por tanto contrapunto, y entonces esa armonía vertical, ¿dónde están esas líneas verticales?
+También en el pentagrama, y esas líneas verticales, las únicas más parecidas son las barras de los compases,
+que son los cortes del tiempo, en donde realmente hay líneas verticales, pero esas líneas verticales
+también están en el pentagrama, no están en la realidad, bueno, luego están sí, claro,
+porque todo sube y baja la batuta, claro, pero eso ya es externo a la propia música,
+ahí las horizontales y las verticales son cosas de música a la vista, de Augenmusik, de música real,
+y entonces, como las barras verticales, donde se produce la armonía, pues parece que son,
+lo mismo que las líneas verticales de la gravedad, de la gravedad, pues ahí yo creo que está la fuente de la confusión,
+interpretar la armonía y la tonalidad armónica como una gravedad, como una fuerza de la gravedad,
+que es totalmente, a mi juicio, como vamos a ver rápidamente ahora, una confusión total, garrafada,
+bueno, voy a seguir adelante. Entonces, la segunda concepción dualista muy conocida,
+yo particularmente, supongo que a ustedes les pasará algo parecido, yo soy más viejo, claro,
+yo esto la conocí de niño estudiando el solfeo de los solfeos de Iriayon y Slava,
+que por esto lo he estado buscando y no lo he encontrado, no sé dónde está, lo debo tener en otro lado,
+pues aquí el solfeo de los solfeos, yo recuerdo que ponían la música, es el arte de bien combinar sonidos y tiempos,
+uno decía, bueno, qué cosa más maravillosa de definición, que le estaba dicho todo,
+el arte de bien combinar sonidos y tiempos, claro, a mi juicio esta definición adolece,
+aunque es descriptiva, bueno, es una definición para salir del paso, pero está sustantivando sonidos y tiempos,
+porque el tiempo no es nada eterno, es decir, como si hubiera los sonidos y el tiempo, yo los combino,
+pero no hay tal combinación, no hay sonidos por un lado y tiempos por otro,
+es decir, empieza a hacer una sustantivación de dos supuestos componentes de la música,
+como armonía y melodía, supuestos componentes que luego se mezclan, se entretejen,
+y si se justifican estos dos componentes en el caso de la música, es por razones extramusicales,
+es el caso de Haynie o el de Macchini que ya vimos aquí, en donde resulta que la melodía se justifica
+porque es la música vocal, que es propia de la música individual, de los pueblos mediterráneos,
+y la otra, la armonía es propia de la coral, de los pueblos germánicos, etcétera,
+y entonces ya aquello toma unas proporciones completamente desmesuradas, extramusicales,
+donde resulta que la melodía y la armonía es la mezcla de lo mediterráneo y lo nórdico,
+y es demasiado, me parece a mí, es una interpretación histórico-cultural demasiado.
+Pues aquí lo mismo, aquí el sonido y el tiempo, pero claro el tiempo no es una magnitud que pueda concierse
+como algo que se mezcla, se coge y se coge con los sonidos por otro lado,
+por una razón, porque los sonidos musicales están siempre en el tiempo, no pueden estar en otro lado.
+Bueno, total, para acabar, la tesis que mantenemos es que está ahí representada,
+ahí a la izquierda, en aquel sistema de coordenadas, es que, voy a ser muy esquemático porque no hay tiempo,
+y con esto terminamos esta primera sesión.
+La idea es la siguiente, la música, la estructura propia de la música,
+estaría constituida por tres componentes representables en las tres coordenadas ortogonales,
+ahora voy a decir lo que quiere decir esto, llamadas cartesianas, pero estoy diciendo que son cartesianas,
+porque lo que hizo Descartes fue representar en el papel o en una maqueta,
+representar lo que veríamos haciendo en todas las ciudades donde hay cardus y decumanus,
+es decir, en una ciudad hipodámica, una ciudad de ajedrez,
+pues la localización de un vecino está hecha por coordenadas ortogonales,
+es decir, una línea recta, el decumanus, que la cruza, que la cruza, transversal, el cardus,
+y luego la altura, entonces son las tres coordenadas, el eje de las X, el de las Y y el de las Z,
+esas tres están en un plano hipodámico, esto desde el tiempo de Hipodamo de Mileto y antes aún,
+porque parece ser que incluso las ciudades indias anteriores a Hipodamo de Mileto,
+pues ya hay ciudades hechas en ajedrez, como se dice vulgarmente, en ajedrez.
+Bueno, pues el ajedrez urbanístico, que es el que se llama plano hipodámico,
+pues ese ajedrez que Santa Fe, por ejemplo, de Granada, en España, y otros muchos ejemplos,
+y luego todas las ciudades coloniales españolas, muchas de ellas, Antigua, etcétera, en Guatemala,
+muchas ciudades que se han hecha en plano hipodámico, Barcelona, por ejemplo,
+y que la llaman, algunos arquitectos la llaman la ciudad racional,
+porque los arquitectos o estudiosos de la talla de Caro Baroja,
+o de otros muchos, distinguen ciudades racionales y vitales, o irracionales.
+La ciudad racional es la de la hipodámica y la irracional es la árabe,
+donde hay calles que no están trazadas geométricamente, como si no hubiera geometría.
+Yo me acuerdo de una conferencia que hice muchos años en Barcelona, que me la pidieron unos arquitectos,
+y yo presenté a Barcelona como prototipo de la ciudad irracional, por excelencia.
+Hombre, ¿por qué? Sí, porque tiene la diagonal.
+Barcelona tiene la diagonal, y la diagonal es precisamente el lugar en donde Platón descubrió,
+y los pitagóricos, que el lado del cuadrado era incomenciable con la diagonal,
+por tanto, lo más irracional es Barcelona.
+Bueno, total, sobre estas ideas de lo racional e irracional,
+pues en música lo mismo, es justo decir, el componente racional de la música, lo irracional,
+exactamente se está hablando en música de esto.
+Hay un componente irracional, que es el sentimiento, y también hay un componente irracional,
+que es el geométrico, el aritmético, que son unos usos de racional y irracional,
+pero que obviamente producen calambres, a mí por lo menos me los producen.
+Bien, entonces la idea central sería la siguiente,
+si partimos de lo que es un volumen tridimensional, digo volumen y no cuerpo,
+Rameau como saben definía la música como el cuerpo sonoro, un cuerpo sonoro.
+Yo creo que con gran, con gran incorrección, porque la música no es un cuerpo,
+es incorporea precisamente, la música no es un cuerpo,
+es una confusión de la música con la arquitectura,
+la arquitectura dice que es un cuerpo tridimensional, pero la música es incorporea.
+Entonces es un volumen, ¿por qué?, porque tiene tres dimensiones también,
+pero estas tres dimensiones, pues son tres dimensiones representables,
+representables virtualmente en un plano como es aquí,
+o simplemente en una maqueta, en un sólido, que llamamos ejes de las X, de las Y y de las Z,
+tradicionalmente para representar un punto en cada uno de estos ejempes.
+Y entonces estas son las tres dimensiones.
+Entonces la tesis que yo defiendo para decirlo rápidamente,
+presenta a la música como un volumen, como un volumen,
+porque tiene tres dimensiones, un volumen tridimensional, no un cuerpo.
+¿Y por qué es volumen? Bueno, pues porque se representa por un volumen,
+por metonimia, pero no es un cuerpo, por decir volumen por lo menos ya eliminamos la idea de cuerpo.
+Es un volumen, y este volumen tiene tres dimensiones que son ortogonales, ¿eh?
+¿Qué quiere decir ortogonal? Quiere decir que están en perpendicular y que por tanto los valores
+de los cosenos correspondientes cuando proyectas cada uno en los ejes, pues pueden ser cero.
+Quiere decir que en cada eje pueden tomar valores cero mientras en los otros toman valores positivos,
+o negativos, es otra cuestión.
+Entonces los componentes tridimensionales de la música serían representables en tres ejes
+en donde uno de ellos, ¿verdad?, uno de ellos sería el eje de las Y,
+sería el eje de las alturas sonoras, de las alturas de la escala, de los intervalos de la escala,
+¿verdad?, cualquiera que sea, y aquí en esta perspectiva da lo mismo que sea una escala diatónica,
+que sea cromática, que sea una escala de infinitos grados infinitesimales, ¿verdad?,
+de infinitos grados si pudiera ser esto, es decir, o dividida en diez, veinte, cuarenta,
+lo que se hiciera, ¿verdad?, en dos grados, es decir, son alturas diferentes,
+pero son alturas sonoras, porque estas alturas no hay que irnos al pentagrama,
+bueno, a la música de ojos, sino que son alturas sonoras, son alturas de sonidos,
+y entonces estas alturas de sonidos definen el primer eje que es inseparable,
+inseparable, ya hemos hecho esta distinción, esa es la fundamental, inseparable,
+pero en cambio disociable de las otras dimensiones,
+ya hemos expuesto en otra ocasión la distinción entre inseparable y disociable,
+que es fundamental aquí, ¿verdad?, es decir, disociable quiere decir que los valores de uno
+no arrastran no determinan a los otros, pero sin embargo quiere decir que son inseparables,
+que no pueden pensarse unos sin los otros, porque sería sustantivación,
+yo no puedo pensar en un sonido del eje de las i que sea separable del eje de las x
+que representa la duración sonora, la sucesión, la duración sonora,
+yo no puedo pensar un sonido que no dure, que dure ¿cuánto?, pues que dure,
+pues que se yo, un segundo, ¿verdad?, o diez segundos, diez elevado a cero,
+o diez elevado a menos veintidós, un yecto segundo, o una millonésima de segundos,
+si es posible, pero tiene que durar algo, porque si no no podría ni siquiera ser percibido,
+entonces el sonido tiene que durar algo, y por lo tanto es inseparable, es inseparable de la altura,
+pero disociable ¿por qué?, porque los valores en altura pueden ser distintos valores en duración,
+y porque los valores en duración pueden ser distintos valores en astrónitas,
+entonces, y esta característica es lo que define la simple o qué, precisamente la simple o qué musical,
+¿por qué?, porque son tres ejes que están, que son inseparables, para alguno tipo son disociables,
+eso es una simple o qué, un espacio, un espacio cualquiera que sea de tres dimensiones, de cinco,
+de un espacio de Hilbert, etc., es una simple o qué, es la definición llevada a la geometría de la simple o qué,
+pues esto es una simple o qué musical, o reunir las críticas de la simple o qué, ¿por qué?,
+porque las tres dimensiones que le atribuimos son totalmente inseparables una de las otras,
+pero son disociables en sus valores, y es el criterio de la simple o qué.
+El X, el segundo eje de las X, representa aquí la duración sonora, también la duración sonora,
+pero no el tiempo, es la duración sonora, porque lo que está durando la música son los sonidos,
+no es el tiempo, es la duración sonora, una duración que está dada en los sonidos,
+y esta duración puede tener tal cantidad de manifestaciones que puede incluso no percibirse como tal duración,
+puede definirse como un presente, es más, implica siempre un presente de algún modo, un presente.
+Cuando analicemos el primer tema del arte de la fuga, podría hablar un poco más de estas ideas.
+Un presente que se podría explicar por la distinción de los gramáticos, que por cierto es muy curioso,
+que todas las exposiciones que he leído sobre la cuestión de música y lenguaje,
+aunque acuden a muchas teorías lingüísticas de Bieler o de lo que fuera, no acuden a una distinción
+que yo creo que es fundamental, que es de la escuela de Copenhagen, de Saussure, precisamente,
+la distinción entre sintagma y paradigma, esa distinción yo creo que es fundamental aquí,
+pero esto la ponemos más tarde después de esto.
+Copenhagen no es Kemp's Land.
+Sí, sí.
+Es con Saussure.
+No, no, pero es que fue de Saussure, la distinción de Saussure que luego la toma él, luego la toma él también,
+la utilizan también ellos.
+Al hablar de esto me acuerdo siempre de Arcos, que no, estábamos hablando todo el día de esto.
+Para Arcos esta distinción de Saussure era tan importante como la otra,
+era la distinción entre sintagma y paradigma, luego lo veremos.
+Y el paradigma, paradigma que no tenía nada que ver con esto de los paradigmas de Kuhn,
+de la historia de la ciencia, que es lo que lo ha pluralizado, la historia de los paradigmas,
+una tecnología que se ha generalizado en la historia de la ciencia y después en la historia del arte y de todo lo demás,
+y que Kuhn la tomó de ahí precisamente.
+Pero que es muy antiguo de Kuhn, por tanto cuando dices paradigma dices, hombre, es Kuhn,
+pero no tiene nada que ver con Kuhn, pero es que Kuhn todavía no existía cuando estábamos hablando de estas cosas.
+Es esta cosa totalmente distinta, ya lo veremos.
+Bien, entonces, la duración sonora.
+Y luego la tercera, la Z es la tonalidad, o sea, es la tonalidad sonora también, claro, la intensidad sonora,
+la intensidad sonora, la intensidad sonora, la sonora de media en sonios, 40 decibelios más o menos,
+en donde están los conceptos de fuerte y piano, etc., y entonces en las otras están grave y agudo,
+en las otras están rápido y lento, son adjetivos que se atribuyen a las obras,
+pero que están todos ellos en estos tres ejes, como ejes fundamentales,
+y que son fundamentales, constituyen a mi juicio, porque reúnen el principio precisamente del asimproque.
+Y ya dos palabras para terminar.
+Entonces, la estructura de la música sería fundamentalmente una estructura tridimensional,
+un volumen tridimensional, pero atención, un volumen tridimensional como también la arquitectura,
+aquí viene una comparación entre arquitectura y música que es muy larga de explicar y que la voy a degollar en dos palabras,
+porque el tiempo no nos permite más, pero suficiente para que se entienda el alcance que tienen estos conceptos.
+La comparación de música y arquitectura ha sido tradicional de siempre,
+en un programa de mano de Atenas de hace unos años, ponía que el partenario era una sinfonía de piedra,
+que bonito, sinfonía de piedra, ya está ahí la sinfonía y de piedra,
+no sabemos bien lo que quiere decir, pero ahí estaba la música y la arquitectura,
+o bien la famosa fórmula atribuida a Schopenhauer que dice algo así como la música es arquitectura congelada,
+arquitectura congelada, también es una metáfora que demuestra que hay una intuición,
+que se ha visto algo que tiene que ver la arquitectura con la música, no se dice en qué consiste,
+pero son metáforas muy extendidas y que a todo el mundo le dice mucho y todos dicen que es bonito.
+El análisis de esta intuición o de esta idea confusa, como se quiera llamar, que compara la arquitectura de la música,
+yo creo que el análisis más rápido mediante estos criterios sería el siguiente, ya digo, voy a degollarlo.
+La arquitectura es una estructura tridimensional corpórea, es decir, un edificio tiene las tres dimensiones de espacio,
+lo ancho, lo ancho y estrecho, largo y corto, y alto y bajo, son las tres dimensiones.
+Otra cosa es que luego esas tres dimensiones de la arquitectura sirvan para,
+por lo menos es la tesis que yo defendía hace unos años en un congreso que hubo sobre arquitectura y música y demás,
+no, sobre arquitectura en general, no recuerdo cómo se llamaba ya, el congreso de Murcia,
+pues allí yo definía que la esencia de arquitectura y que la diferencia de la escultura, etc., era precisamente esto,
+es que la arquitectura consistía principalmente en construir entre dimensiones, materiales, dejando un vacío en el medio,
+porque solamente podríamos llamar arquitectura a algo donde se podía entrar,
+si no podías entrar no era arquitectura, y por eso la escultura no es arquitectura,
+porque en la escultura no se puede entrar ni tiene sentido entrar, la pintura mucho menos, claro,
+no tiene sentido en una pintura levantar las faldas a las medinas, claro que tiene debajo, porque no tiene nada,
+entonces es imposible, porque la pintura es de dos dimensiones, es unidimensional, es bidimensional,
+y la escultura, aunque sea tridimensional, no tiene un interior, no tiene dentro,
+es aquello de la fábula de la zorra y las uvas, tu cabeza es hermosa pero sin seso, la escultura no tiene seso,
+no tiene interior sencillamente, y cuando decimos el interior de la escultura pues es una pura metáfora,
+no hay interior, la escultura es pura exterioridad, y de esta que a mí me ha sorprendido la incapacidad
+completamente de Hegel y de Schelling y de Krauss cuando hablan de esto de no haber acertado en este terreno,
+que a mí me parece fundamental, y empiezan a decir siempre lo mismo, que si la escultura es la expresión del hombre
+tocando en piedra como si hubiera escultura de animales, es que la escultura es la época del arte griego y no sé qué,
+no hay absolutamente un concepto, son ideas totalmente metafísicas por ahí, y con eso ha funcionado durante siglos,
+y sigue funcionando, bueno pues entonces la diferencia esencial a mi juicio entre arquitectura y música es esta,
+y las semejanzas, las semejanzas son que ambas son tridimensionales, a diferencia de la pintura que es bidimensional,
+por ejemplo, pero la diferencia esencial es esta, que la música y la arquitectura tienen dos ejes,
+dos ejes que son, vamos a decirlo así, escalares, como dicen los matemáticos, escalares, es decir cuyos valores
+no están orientados, no están orientados, no están ordenados, intensivamente, y tienen un tercer eje que no es escalar,
+que es vectorial, digamos que está orientado, está orientado, es que los valores del eje están orientados,
+la arquitectura, la orientación, por lo menos en la texis que yo mantuve sobre la arquitectura,
+y que he expuesto varias veces ante arquitectos además y no he recibido críticas al revés,
+la arquitectura tendría un eje esencialmente vectorial definido por la gravedad, por la gravedad,
+es decir, la arquitectura de una obra está totalmente organizada en torno al eje de la gravedad,
+y los problemas de la arquitectura son los de toda la gravedad, lo esencial de la arquitectura es que la obra no se derrumbe,
+y el derrumbamiento de la obra depende de la gravedad, enteramente,
+de todos los problemas que para la arquitectura derivan de la gravedad,
+entonces el eje vectorial de la arquitectura es un eje vertical, vertical hasta cierto punto,
+porque claro, las verticales que quedan en la tierra, como sabemos, van hacia el centro de la tierra y entonces forman ángulos,
+forman ángulos y entonces en el fondo van del centro de la tierra hasta el cielo, forman ángulos,
+pero bueno, a escala en que nos movemos se pueden concebar paralelas y se conceban paralelas, por lo tanto son verticales,
+y entonces la columnata del templo griego, famosa, pues eso indica el eje vertical, el eje vertical, el eje I de la arquitectura,
+por tanto ese es el eje vectorial de la arquitectura. ¿Cuál es el de la música?
+Yo no encuentro otro que el eje de la así, es el eje de la duración, es decir, la duración de la música,
+el hecho de que la música vaya exponiéndose mediante una duración, determina una estructura vectorial, un sentido,
+una orientación en virtud de la cual los sonidos van brotando unos de otros de un modo irreversible,
+es decir, lo que ha aparecido en tal sitio ya no vuelve a aparecer, en cuanto a la cadena, al sintagma,
+en cuanto a la cadena, al discurso sonor, van apareciendo de un modo sucesivo y entonces, y los sonidos,
+y aquí viene la confusión, los sonidos no tienen nada que ver con la gravedad, es decir, la gravedad de la arquitectura
+está inspirada por el eje vertical, yo creo que este es el motivo de confusión, de llamar gravedad a la armonía,
+por razones de, por eso, de pentagrama, pero es que lo que corresponde a los ejes verticales de la arquitectura
+son los ejes horizontales, a los ejes horizontales de la música, es decir, en cuanto a la estructura topológica del espacio,
+porque es la vectorialidad del eje de las X, y entonces aquí no se habla de gravedad, se podría hablar quizá de inercia,
+porque es que el fin de la música no es la atracción, como se dice, la atracción de los sonidos, no hay atracción,
+eso es una metáfora puramente newtoniana, no hay tal atracción, es decir, a lo sumo hay como una inercia de las vibraciones sonoras,
+una inercia que sigue adelantando y que va hacia adelante, pero no hay gravedad, y entonces, y por tanto,
+la explicación de esa unidad del discurso de la cadena, de los sintagmas musicales, no es la gravedad,
+es que es una pura metáfora, a mi juicio, una confusión completa de la música a los ojos y la música real,
+sino que es otra cosa diferente, otra cosa muy diferente, y por tanto, que hay que analizar,
+y entonces resulta que la música es esencialmente incorporea, por esto mismo, que si elegimos un patrono
+respectivo a cada una de estas, tomado de los grandes pensadores griegos, pues podríamos decir que el patrono,
+por decirlo así, de la arquitectura es Parménides, es la estatuaria, la arquitectura, lo estático, lo quieto,
+en cuanto tal, es decir, la arquitectura es eleática, digamos, es inmóvil, relativamente claro,
+al margen de que los edificios se mueven con la tierra, pero eso no se considera, la arquitectura se considera inmóvil,
+y entonces es eleática, mientras que la música habría que ponerla bajo el patrocino de Heráclito,
+es decir, de Heráclito con los dos similes de Heráclito, el río que fluye siempre, el río que está siempre fluyendo,
+el río de Heráclito, nadie se baña dos veces al mismo río, la música es fluida continuamente,
+está fluyendo continuamente, no se puede detener, ¿verdad?, o bien el otro símbolo de Heráclito que es el fuego,
+la música es un fuego que está constantemente ardiendo, todo es fuego, decía Heráclito,
+y la música es un fuego que se va consumiendo continuamente, que va consumiendo continuamente,
+y de ahí me parece a mí que hay un fundamento real de la analogía entre la música y la propia destrucción,
+la propia muerte, la propia muerte, incluso la muerte del arte, cuando Hegel habló de la muerte del arte,
+aunque no tuvo a la vista esto, yo creo que de algún modo los fundamentos podrían ser esto,
+porque la música es un arte esencialmente mortal, es decir, que la música se destruye cada vez que se,
+por eso la grabación introduce otra vez, pero la música va destruyendo continuamente conforme va apareciendo,
+se va destruyendo, va desapareciendo, ¿dónde queda?, es otra cuestión.
+Bueno, lo que quiero decir es que la música y la arquitectura son dos estructuras totalmente diferentes,
+la música se incorpora, pero no porque sea inmaterial, no porque sea inmaterial, para decirlo rápidamente,
+para decirlo rápidamente en un ejemplo, si ya lo hemos puesto quizá, porque siempre sale en estos contextos,
+esto es un cuerpo, por lo menos en el sentido, esta funda de gafas es un cuerpo, por lo menos en el sentido ordinario,
+y este micrófono es un cuerpo, la distancia, que son materiales, claro, la distancia entre este objeto y este objeto,
+esta distancia, vamos a poner de 20 centímetros, pues no es un cuerpo, y sin embargo es material,
+es material, lo que pasa es que es un género de materialidad distinta, esto y esto es lo que llamamos nosotros M1,
+es el primer género de materialidad, pero la distancia es tan material como el otro, pero es otro género de materialidad,
+que es lo que llamamos material presiogénérica, es otro género de materialidad, pero es tan material,
+es decir, ¿cómo se puede hablar de distancia si no entre cuerpos?, ¿qué sentido tiene la palabra distancia si no es entre cuerpos?,
+lo que pasa es que el desconocimiento del tercer género de materialidad hace pensar, pues a Schelling y a Krause
+y al que ustedes quieran, que la música es espiritual porque es incorpórea, incorpórea espiritual, pues no señor,
+eso es uno de los errores fundamentales, por lo menos del matadero filosófico, no es espiritual la música, es incorpórea,
+pero es que la materia es incorpórea, es decir, cuando se habla la famosa distinción entre ondas y corpúsculos,
+que atraviesa las teorías corpuscularistas y ondulatorias de la luz de Newton y Huygens y después Planck y Einstein, etc.,
+pues claro, los corpúsculos, bueno ya lo dice la palabra, corpúsculos son cuerpos pequeñitos, son cuerpos,
+pero las ondas no son cuerpos y las ondas son tan materiales como los corpúsculos, o es que las ondas van a salir del espíritu,
+las ondas son materiales pero no son corpusculares, pero son materiales, por supuesto, tienen todas las magnitudes propias,
+tienen velocidad, tienen muchas magnitudes físicas que se miden y los corpúsculos,
+suponiendo que existan los corpúsculos o los cuerpos, pues son también materiales pero otro tipo de materialidad.
+Bien, pues un poco esta es la idea de la música y la arquitectura y con esto ya dejamos la primera sesión
+y en la próxima sesión ya nos metemos en otras propiedades.
