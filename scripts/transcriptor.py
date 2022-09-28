@@ -15,11 +15,9 @@ def demo(file_name):
   with open(file_name, "r") as txt:
     print('\n'.join(txt.readlines()))
 
-def typos(file_name, word_in, word_out):
-  fin = open(file_name, 'rt')
-  data = fin.read()
-  data = data.replace(word_in, word_out)
-  fin.close()
-  fin = open(file_name, 'wt')
-  fin.write(data)
-  fin.close()
+def typos(file_name, prev, new):
+  with open(file_name, 'r') as file:
+    filedata = file.read()
+  filedata = filedata.replace(prev, new)
+  with open(file_name, 'w') as file:
+    file.write(filedata)
