@@ -132,26 +132,26 @@ un error total, una confusión totalmente inadmisible, que simplifica las cosas,
 y que impide ver de qué estamos hablando.
 Que en esencia sería lo siguiente, quizá uno de los modos más rápidos de mostrar la diferencia entre la teoría de las ideas de Platón,
 vamos a concretar más, de las cinco ideas de Platón, aunque son muchas más las cinco ideas y las diez categorías de Lisoteles,
-una de las maneras de mostrar la diferencia es contrastarlas con la tesis de la simple qu'é, de la simple qu'é.
+una de las maneras de mostrar la diferencia es contrastarlas con la tesis de la symploké, de la symploké.
 Es decir, la tesis de Platón, la tesis que hemos hablado tantas veces, porque es la base, precisamente de la teoría de las categorías,
-las simple qu'é, aquellos dos principios, el principio de que todo no puede estar ligado con todo,
+las symploké, aquellos dos principios, el principio de que todo no puede estar ligado con todo,
 el principio de discontinuidad y el principio de que algo está ligado con algo, en contra del atomismo, etc. del megarismo, etc.
 La idea que está expuesta ampliamente en uno de los tomos del cierre categorial, no me acuerdo, el segundo, el tercero, el segundo, etc.
-La idea de la simple qu'é está incluida en la teoría de las ideas de Platón.
+La idea de la symploké está incluida en la teoría de las ideas de Platón.
 Y efectivamente, la teoría de las ideas de Platón supone ya la multiplicidad de ideas, incluso explícitamente que en la idea de Eterón,
-en lo otro, Platón mismo subraya dentro de su teoría de la simple qu'é, de que tiene que haber cosas diferentes,
+en lo otro, Platón mismo subraya dentro de su teoría de la symploké, de que tiene que haber cosas diferentes,
 que tiene que haber pluralidad, porque si solamente todo estuviera con todo esto, habría una sola idea y todas las ideas se amegarían
 en la idea de Serres, que es la tesis de Genófales o de Parmélides, no habría más que una sola idea, las demás ideas serían la apariencia de una única idea,
 es el monismo absoluto. Entonces, contra esto es contra lo que Platón se enfrenta y por eso a nuestro juicio Platón es el que funda la filosofía,
 precisamente por esto, por atacar precisamente el monismo de los metacísimos y de los presocráticos.
 Y aquí empieza una nueva navegación que es lo que llamamos desde Platón la filosofía académica, en una palabra.
-Y entonces la idea de simple qu'é está implícita en la idea de Platón, pero en cambio, es una idea yo creo muy importante,
-una idea muy importante, en cambio de la idea de simple qu'é a nivel delante de las ideas no se deduce la teoría de las categorías.
+Y entonces la idea de symploké está implícita en la idea de Platón, pero en cambio, es una idea yo creo muy importante,
+una idea muy importante, en cambio de la idea de symploké a nivel delante de las ideas no se deduce la teoría de las categorías.
 Podría ocurrir un mundo, y aquí me apoyo en una distinción famosa de Kant, que luego se generaliza mucho,
 la distinción que Kant hace entre Welt y Natur, naturaleza y mundo, naturaleza y mundo.
 Kant da esta distinción, apoyándose también a tradición por cierto.
 Mundo lo define Kant como un conjunto de entidades tan regidas, tan clasificadas según género y especie, ¿verdad?
-Es el mundo por ejemplo del Ineo, por el caso, es un mundo de todas las cosas clasificadas,
+Es el mundo por ejemplo dLinneo, por el caso, es un mundo de todas las cosas clasificadas,
 mientras que naturaleza, que tiene un componente activo más bien que de clasificación, natur, naturaleza,
 sería un conjunto de entidades vinculadas por relaciones de causalidad.
 De manera que entonces Kant introduce una idea que después se ha visto desarrollada ampliamente por Gabriel Tarde,
@@ -162,8 +162,8 @@ donde todas las cosas estuvieran determinadas por otras, pero según una sola l�
 Habría pluralidad, claro, porque había relación de causa-excepto, pero habría una sola línea causal y no podía hablarse de categoría,
 solamente habría la categoría de la causalidad, idea que por cierto retomó también Schopenhauer
 al tratar de reducir las categorías de Kant a una única que sería la causalidad, en fin, es otra cuestión.
-Entonces, estas son ideas que han sido discutidas como natural. En cambio, la teoría de las categorías implica necesariamente la Chimproqués,
-es la realidad de la Chimproqués, pero a otro nivel, totalmente diferente, a otro nivel, es el que vamos a ver,
+Entonces, estas son ideas que han sido discutidas como natural. En cambio, la teoría de las categorías implica necesariamente la symploké,
+es la realidad de la symploké, pero a otro nivel, totalmente diferente, a otro nivel, es el que vamos a ver,
 y esto yo creo que es el gran descubrimiento de Aristóteles, la idea de categorías.
 Idea de categorías que Aristóteles deriva a continuación, por lo menos en la Metafísica del libro VI, de la famosa frase que ya hemos citado antes,
 el ser se dice de muchas maneras. Cuando hablamos de ser, no decimos de una única manera, como genófanes otra vez,
@@ -180,8 +180,8 @@ la noción de categoría es una idea, la cosa es, vamos, ajusta perfectamente co
 y nosotros decimos que una idea aparece cuando se aplica a diferentes categorías, que la idea de categorías se aplica a diferentes categorías, luego es una idea, no es una categoría,
 dicho de otro modo, no hay una categoría de las categorías, eso es lo que quiero decir, no hay categoría de las categorías, no se puede suponer que hay una categoría universal,
 de la cual después las otras sean especies o géneros, las categorías son múltiples y por lo tanto la categoría es una idea, bien, es una idea de categoría,
-y la idea de categoría la introduce Aristóteles, esa es la tesis central, y además en Dialéctica con Platón, pero si no ponerse en él, porque la idea de Simplonké
-está plenamente realizada la idea de categoría, es la realización de la idea de Simplonké.
+y la idea de categoría la introduce Aristóteles, esa es la tesis central, y además en Dialéctica con Platón, pero si no ponerse en él, porque la idea de symploké
+está plenamente realizada la idea de categoría, es la realización de la idea de symploké.
 Bien, la cuestión es la enumeración que hace Aristóteles de las categorías, Aristóteles enumera, dice, piensa como categorías, pues el que, la sustancia,
 que o quien sustancia, la cantidad, la cualidad, la relación, el donde, el tiempo, la acción, la pasión, es decir, de dónde saca esta lista de categorías,
 es la cuestión. Naturalmente esta lista no la saca Aristóteles de levantar los ojos al cielo y decir, pues hay diez categorías, lo dice el mismo además,
@@ -273,25 +273,25 @@ que no completamente comprometida precisamente por el cristianismo, es decir, el
 fue corrosivo para la propia teoría de Aristóteles.
 ¿Y entonces qué ocurre? Pues que al ser formas de predicación lo esencial de las categorías era la transitividad de las categorías,
 es decir, lo que se dice del todo se dice de las partes, el dictum de omni.
-¿Y qué es la transitividad? Pues es la clave de los ilogismos de Aristóteles, la transitividad es la clave de los ilogismos
-y los ilogismos es la ciencia, aquí venimos, los ilogismos es el núcleo de la ciencia de Aristóteles,
-de los primeros y segundos analíticos, la ciencia consiste en las tres ilogismos, esta es la tesis de Aristóteles famosísima
-y la ciencia es el hábitus conclusión y lo que hacen los ilogismos y los ilogismos suponen la transitividad de las categorías y de los géneros
+¿Y qué es la transitividad? Pues es la clave de los silogismos de Aristóteles, la transitividad es la clave de los silogismos
+y los silogismos es la ciencia, aquí venimos, los silogismos es el núcleo de la ciencia de Aristóteles,
+de los primeros y segundos analíticos, la ciencia consiste en las tres silogismos, esta es la tesis de Aristóteles famosísima
+y la ciencia es el hábitus conclusión y lo que hacen los silogismos y los silogismos suponen la transitividad de las categorías y de los géneros
 y por consiguiente si hay ciencia es porque hay categorías en el sentido de Aristóteles, porque podemos partir de los géneros supremos
 e ir aplicándolo a los uvalterros y así obtenemos las categorías.
 Y el último ejemplo, yo creo, la última ciencia grandiosa realmente que se hizo sobre la teoría de las categorías de Aristóteles y de Porfirio
-fue la ciencia del Ineo, porque el Ineo literalmente sigue la teoría de las categorías de Porfirio, ¿por qué?
-Porque los géneros supremos del Ineo, las plantas y los animales, y después aplicar a los minerales, a los tres reinos famosos,
-porque las especies fueron creadas por Dios en el principio, esto lo dice el Ineo,
+fue la ciencia dLinneo, porque Linneo literalmente sigue la teoría de las categorías de Porfirio, ¿por qué?
+Porque los géneros supremos dLinneo, las plantas y los animales, y después aplicar a los minerales, a los tres reinos famosos,
+porque las especies fueron creadas por Dios en el principio, esto lo dice Linneo,
 tantas son las especies cuantas Dios creó en el principio, y entonces las especies actuales son sucesoras
 de las especies creadas por Dios en el principio, por tanto la labor de la ciencia botánica o zoológica consiste en clasificar las especies que hay,
 organizarlas en género y darles el nombre, pues como nos habíamos dado la fórmula binomial donde se marca la especie
 y la diferencia específica y el género próximo, etc. El hombre es animal racional, etc.
-Y fue el Ineo el primero que introdujo al hombre en una categoría.
-En el árbol zoológico del Ineo el hombre aparece como el Homo sapiens que es un primate del orden de los primates y de la clase de los vertebrados.
-Es decir, el Ineo es el primero que hace al hombre una categoría, una idea, con todo lo que eso significa, lo reduce a zoología, sencillamente,
-y las descripciones que da el Ineo de las razas humanas son de lo más pintores que pueda haber,
-porque ahí confunde cuando describe lo que son los asiáticos y las cinco razas del Ineo, y los amarillos los describe físicamente,
+Y fue Linneo el primero que introdujo al hombre en una categoría.
+En el árbol zoológico dLinneo el hombre aparece como el Homo sapiens que es un primate del orden de los primates y de la clase de los vertebrados.
+Es decir, Linneo es el primero que hace al hombre una categoría, una idea, con todo lo que eso significa, lo reduce a zoología, sencillamente,
+y las descripciones que da Linneo de las razas humanas son de lo más pintores que pueda haber,
+porque ahí confunde cuando describe lo que son los asiáticos y las cinco razas dLinneo, y los amarillos los describe físicamente,
 dice, llevan sombrero cónico y llevan traves, ahí mezcla naturaleza y cultura completamente, da lo mismo.
 Entonces, exactamente cuando describe a las aves, a las plantas, por las flores, pues exactamente a los hombres,
 es decir, ahí no distingues, es una cosa grosera completamente, y sin embargo es el primero que cuando se pone a dar categoría,
@@ -327,7 +327,7 @@ y esa categoría era imposible haberla establecido antes de que la ciencia nueva
 Otro ejemplo, y cuando los seres vivientes, en lugar de figurar como sustancias dotadas de un alma vegetativa o sensitiva,
 o de un espíritu vital o lo que fuera, ¿verdad?, desde la idea de sustancia, en donde cada ser viviente aparecía como una chispa,
 ¿verdad?, participada de lo que fuera, de los astros o de Dios o lo que fuera,
-y cuando, que era teresci del Ineo, cada especie está creada directamente por Dios,
+y cuando, que era teresci dLinneo, cada especie está creada directamente por Dios,
 cuando viene el ladrinismo, el evolucionismo, que fue una revolución lógica tanto como una revolución biológica,
 yo quizá es más importante la presencia lógica que tuvo el ladrinismo, ¿qué ocurre?
 Pues que entonces los individuos vivientes, los organismos, están vinculados a otros organismos unos con otros,
@@ -340,7 +340,7 @@ solamente cuando la teoría celular descubre que realmente omnis célula es cél
 y por tanto que todos los seres, y hoy día mucho más, cuando el desarrollo de la célula se ha ampliado con la doctrina del genoma,
 en donde resulta que todos los seres vivientes tienen un genoma que deriva unos de otros casi en contiguidad, ¿verdad?,
 la idea de biosfera que apareció, ya la idea de biología apareció posteriormente en la época del año 1808,
-Trevidanus, ¿verdad?, para fundir la botánica y la zoología del Ineo, pero la idea de biosfera es también posterior
+Trevidanus, ¿verdad?, para fundir la botánica y la zoología dLinneo, pero la idea de biosfera es también posterior
 de un tal Suez, luego un tal Berranski, luego la puso el funcionamiento de J.R. Chardin a su modo,
 pero la idea de biosfera es un ejemplo yo creo típico de lo que es una categoría en el nuevo sentido,
 en el nuevo sentido de la expresión distinta de la porfiriana lineana.
@@ -351,12 +351,12 @@ esto es una cosa muy larga de hablar, pero la idea vaga de que los atomistas des
 es totalmente al revés, es decir, la idea atomística de Demócrito y luego de Gasendi, etcétera,
 el propio Descartes a su modo, frenaron la química, es decir, la química de Dalton, de Lavoisier,
 después de Mendeleev, viene de otras fuentes que no el atomismo, se llamó átomo y luego resultó que no había átomo,
-todavía yo conocí en Salamarca, años 49 y 50, a un catedrático de Salamarca que era el decano,
+todavía yo conocí en Salamanca, años 49 y 50, a un catedrático de Salamanca que era el decano,
 que se llamaba Sese además, para decirlo todo, por si había algún pariente, no hay nada contra él, es como testimonio curioso,
 que este señor decía en los años 50, ya había esta idea laobromatómica,
 este decía que lo del átomo era un absurdo porque átomo significa indivisible,
 y que en teoría esas trabajantes modernas, que el átomo no se podía descomponer, que sería una cosa absurda,
-el átomo es indivisible, no se puede descomponer, es decir, era un escolástico completamente refugiado ahí en una facultad de químicas en Salamarca,
+el átomo es indivisible, no se puede descomponer, es decir, era un escolástico completamente refugiado ahí en una facultad de químicas en Salamanca,
 entonces, pero es que el átomo desaparece completamente como unidad del concepto,
 porque el átomo venía de Demócrito y de Leucipo, el átomo desaparece y al desaparecer el átomo resulta que todos los átomos también proceden unos de otros,
 según la tesis de Prout que luego desarrolló Gamov y tantos otros, hay una evolución de los elementos químicos,
@@ -449,17 +449,17 @@ pero en fin, es otra cuestión. Entonces, de ahí la diferencia necesaria de dis
 Entonces, la idea central es esta, y si ahora pasamos, voy saltándome todas estas divisiones aquí porque no hay forma de hacerlo esto en una hora,
 si ahora pasamos al punto central, que es la estructura constitutiva de las categorías,
 que está aquí me parece en el párrafo 7, como estructura principal de las categorías,
-entendemos aquí la estructura ilimórfica de las categorías, las categorías constan de materia y forma, esa es la idea central,
+entendemos aquí la estructura hilemórfica de las categorías, las categorías constan de materia y forma, esa es la idea central,
 las categorías constan de materia y forma, las categorías no son simples, no son entidades simples,
 son múltiples a su vez, pero una estructura universal a todas las categorías es materia y forma.
-Claro, esto es una cuestión tremenda como natural, porque cuando hablamos, y esto es lo que se llama ilimorfismo,
-la tradición clásica, ilé, materia, y morfé, forma, ilimorfismo que era el traductor de Aristóteles.
+Claro, esto es una cuestión tremenda como natural, porque cuando hablamos, y esto es lo que se llama hilemorfismo,
+la tradición clásica, ilé, materia, y morfé, forma, hilemorfismo que era el traductor de Aristóteles.
 Y aquí volvemos a lo mismo, a los prejuicios, y esto discutido muchas veces con químicos, con cismos,
-pero hombre, ¿cómo usted se pone a hablar del ilimorfismo? Por eso estoy ya completamente,
+pero hombre, ¿cómo usted se pone a hablar del hilemorfismo? Por eso estoy ya completamente,
 eso se lo he discutido con profesores de química y de física que tenían la evidencia completa,
 que eran unos ignorantes increíbles, ignorancia supina de todo, ignorancia supina.
 Pero no se pueden imaginar hasta qué punto.
-Entonces, es que el ilimorfismo es una idea metafísica, pero usted que entiende por metafísica, pero ¿qué es eso?
+Entonces, es que el hilemorfismo es una idea metafísica, pero usted que entiende por metafísica, pero ¿qué es eso?
 Vamos a proceder, esto es una materia muy abundante, tenemos ocasión de hablar, pero vamos a proceder para resumir lo siguiente.
 Primero, un intento de demostración empírica de la importancia de la distinción de materia y forma en el mundo que nos movemos.
 Con la cuestión de materia y forma, la distinción de materia y forma, está vinculada a todo el análisis de las artes,
@@ -531,8 +531,8 @@ lo cual quiere decir que aquí las ideas están completamente flotantes y no se 
 Entonces una de las cuestiones más interesantes que yo me he encontrado es la siguiente,
 que si ahora la forma y la materia aparecen como dos momentos, no sé cómo decirlo, componentes,
 en la medida que empiezas a decir componentes ya se ha estropeado todo, ahí está la cuestión,
-entonces parece que es el elenomorphismo de Aristóteles, el elenomorphismo metafísico,
-pero resulta que el elenomorphismo de Aristóteles, Aristóteles dedujo el elenomorphismo no de ninguna teoría metafísica,
+entonces parece que es el hilemorfismo de Aristóteles, el hilemorfismo metafísico,
+pero resulta que el hilemorfismo de Aristóteles, Aristóteles dedujo el hilemorfismo no de ninguna teoría metafísica,
 sino de la experiencia artesanal, puramente vinculada principalmente, a juzgar por los tres,
 en los ejemplos se pone, a la metalurgia del bronce y a la metalurgia de la edad de los metales,
 entonces empiezan las transformaciones, entonces la distinción de materia y forma no es misterio de su origen,

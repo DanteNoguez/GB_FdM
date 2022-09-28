@@ -31,7 +31,7 @@ El cero es una palabra que por sí mismo no tiene ningún sentido.
 Entonces, empiezas uno, dos, tres, cuatro, introduces la operación más, operación menos,
 y cuando coges la operación menos y pones cinco menos cinco para poder restar cinco de cinco,
 entonces pones cero, pero el cero es posterior a la operación,
-por tanto el cero es posterior a los otros números que ya se introducieron anteriormente, relaciones inversas de la edición.
+por tanto el cero es posterior a los otros números que ya se introdujeron anteriormente, relaciones inversas de la edición.
 Bien, pues aquí pasa lo mismo.
 Pero también caben otras, bueno, están escritas ahí, es que si me muevo un poco, me desconecto el micrófono.
 También hay otras, esto es muy pesado, ya lo sé, pero hay que experimentar un poco este estilo.
@@ -67,7 +67,7 @@ pero esto es lo que se niega, no puede haber un tipo de música que haya otro ti
 Es decir, lo que niega la primera alternativa es que haya filosofía en sentido subjetivo.
 La música no puede tener nunca ideas filosóficas salvo que se las hayamos sobrepuesto a ellas,
 que por sí mismas no tienen nada que ver con esto.
-Dentro del método dialéctrico propio de la filosofía académica,
+Dentro del método dialéctico propio de la filosofía académica,
 esta posibilidad hay que pensarla completamente en serio,
 porque una de las características de la filosofía platónica es esta,
 a diferencia de la filosofía mitológica, que hay que considerar todas las posibilidades,
@@ -124,7 +124,7 @@ entonces dice Napoleón que ya se ha pasado el tiempo de la novela y de la poes�
 que esas son cosas del pasado.
 Bueno, pues esta idea es la de Hegel, ya se ha pasado el tiempo del arte y de la música,
 que son cosas del pasado y por consiguiente la música es algo que es totalmente distinto de la filosofía,
-que no tiene que ver, hay cosas disduntas por completo.
+que no tiene que ver, hay cosas disyuntas por completo.
 En el fondo, una famosísima doctrina de Kierkegaard, que estuvo muy de moda y en España se habló mucho de ella en la época del existencialismo,
 las tres fases del espíritu de Kierkegaard, se habló muchísimo, yo recuerdo que en la facultad estaban todos los estudiantes interesados por estas cosas de Kierkegaard,
 la fase estética, la fase ética y la fase religiosa de la vida espiritual.
@@ -144,9 +144,9 @@ que les pertenece más solo a ellos cuando es ecualización estricta y sin perju
 Por ejemplo, la clase de las figuras cuadrados, una figura cuadrada y un rombo son disyuntas,
 no hay ningún cuadrado que sea rombo.
 En la clase de los cuadrados nunca hay un rombo, en la clase de los rombos nunca hay un cuadrado, son disyuntas.
-Sin embargo, entre rombos y cuadrados hay una clase de figuras que ecualizan ambas, que son los paralelogramos esquiláteros.
-Hay un paralelogramo esquilátero que es el resultado de la ecualización de estas dos clases disyuntas.
-Cuando es estricta porque el paralelogramo esquilátero se ciñe enteramente a esas dos clases,
+Sin embargo, entre rombos y cuadrados hay una clase de figuras que ecualizan ambas, que son los paralelogramos equiláteros.
+Hay un paralelogramo equilátero que es el resultado de la ecualización de estas dos clases disyuntas.
+Cuando es estricta porque el paralelogramo equilátero se ciñe enteramente a esas dos clases,
 luego hay ecualizaciones mucho más amplias, ambos son polígonos, etc.
 Aún reconociendo la disyunción entre música y filosofía, al modo de Hegel, el de los doblistas,
 podría haber ideas que cubrieran ambas.
@@ -247,9 +247,9 @@ Efectivamente las subvenciones se obtienen mucho más fácilmente, ¿verdad?
 Sin investigación interdisciplinar las subvenciones se lleven por otro lado,
 porque si se cuida no vaya a ser que la otra disciplina me ponga verde, ¿verdad?
 Entonces, muy bien. Pero, ¿qué ocurre?
-Primero, para que haya interdisciplinaridad tiene que haber disciplinas, eso parece evidente, ¿no?
-Si no hay disciplinas no hay interdisciplinaridad.
-Entonces, la interdisciplinaridad tiende a borrar las disciplinas,
+Primero, para que haya interdisciplinariedad tiene que haber disciplinas, eso parece evidente, ¿no?
+Si no hay disciplinas no hay interdisciplinariedad.
+Entonces, la interdisciplinariedad tiende a borrar las disciplinas,
 y a suponer que hay una disciplina única cuando no es así.
 Un ejemplo, hay una disciplina que se ha discutido muchísimo, aquí discutimos hace años muchísimo,
 en la Junta de Gobierno de la Universidad, sobre una cátedra que se quería poner un departamento de Ciencias del Mar.
@@ -315,17 +315,17 @@ por tanto ¿qué quiere decir? que si la filosofía de la música la consideran 
 es porque están entendiendo por filosofía algo que no es filosofía, como puede ser las opiniones, por absurdas y disparaturas que sean,
 que ha habido sobre la filosofía, que conviene que el profilinario de la música las conozca, pues hombre, por tenerlas en la cabeza,
 porque ¿cómo va a ser un gran directo de orquesta o simplemente un músico que no haya habido que hablar de Philola o de Schopenhauer,
-que ha tenido que hablarla casi por cultura general y más siendo músico, pero entonces es un concepto de filosofía ya reducida a dosografía.
+que ha tenido que hablarla casi por cultura general y más siendo músico, pero entonces es un concepto de filosofía ya reducida a doxografía.
 Y ese es el test que a mí me demuestra que está completamente arruinado el sistema de ideas generales de esos asuntos,
 el hecho de poner, al lado de todas las demás matices, poner la filosofía como si fuera una disciplina más,
 ojalá que lo fuera, porque tendría entonces la seguridad que tienen las otras, pero precisamente su plano es distinto
 y por tanto no puede ponerse para bien o para mal al mismo nivel, a la misma línea.
-Entonces la idea de la interdisciplinaridad ya contiene, de hecho, ejercitativamente la idea de filosofía,
+Entonces la idea de la interdisciplinariedad ya contiene, de hecho, ejercitativamente la idea de filosofía,
 porque en el momento que uno se pregunta, bueno, ¿y qué tiene que ver la psicología de la música?
 Es decir, si alguien ya domina un instrumento con trate de armonía, conoce la historia de la música,
 ahora empieza a estudiar psicología de la música, bueno, ¿y qué tiene que ver eso con la música?
 Pues la interpretación de esa conexión, esto ya tiene o obliga a respuestas filosóficas, y así sucesivamente.
-Es decir, la propia palabra interdisciplinaridad ya supone que parece que es la solución del problema, es precisamente lo que produce el problema.
+Es decir, la propia palabra interdisciplinariedad ya supone que parece que es la solución del problema, es precisamente lo que produce el problema.
 Ahí está uno de los puntos más interesantes y más difíciles de captar, porque estos señores no se dan cuenta de esto,
 es que no tienen ni noción de de dónde están hablando, ¿verdad?
 Es decir, no es que es interdisciplinaria, pero si es el problema, señor mío, el problema es la interdisciplinaria.
@@ -465,13 +465,13 @@ pues sí que en cuanto siguen las metodologías más o menos afinadas en cada di
 Una investigación de historia de la música puede tener la misma fiabilidad que una investigación de historia de la arquitectura o de historia de las vías públicas.
 Es una investigación histórica e incluso si es una investigación estilística comparada, exactamente lo mismo.
 Y entonces este tipo de investigaciones son ya homologables.
-Para terminar definitivamente, la teoría del cielo categorial, que no puedo exponérsela, y que en el fondo simplemente aquí se manifiesta como la teoría del espacio nocielógico que llamamos,
+Para terminar definitivamente, la teoría del cielo categorial, que no puedo exponérsela, y que en el fondo simplemente aquí se manifiesta como la teoría del espacio gnoseológico que llamamos,
 que son el conjunto de todas las figuras que aparecen en las ciencias, distinguiendo del espacio tres ejes, que llamamos el eje sintáctico, el eje pragmático y el eje semántico.
 El eje sintáctico tiene tres sectores, que son los términos de las relaciones y las operaciones.
 En aritmética, por ejemplo, los términos son los números, las relaciones son mayor y menor, en aritmética de los números naturales, y las operaciones son las cuatro operaciones racionales.
 Entonces, el eje semántico tiene tres sectores, que es el sector referencial, el sector fenoménico y el sector estructurado, esencial.
 Y el pragmático tiene tres sectores a su vez, el autologismo, el realogismo y normas.
-Lo que quiero decir es que todo este espacio nocielógico puede servir de canalización para clasificar los diferentes tipos de investigaciones que se pueden hacer en estas materias.
+Lo que quiero decir es que todo este espacio gnoseológico puede servir de canalización para clasificar los diferentes tipos de investigaciones que se pueden hacer en estas materias.
 Puede hacer investigaciones de términos, por ejemplo, sintácticas, investigaciones de términos.
 Si aquí los términos son elementos o complejos, son sonidos nuevos producidos o generados electrónicamente o étnicamente.
 Entonces, investigación de nuevos sonidos, como saben ustedes, hay centros en varios sitios en todos los lados, sitios donde se experimenta con nuevos sonidos electrónicos o como sea.
